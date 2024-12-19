@@ -6,7 +6,7 @@ title: Just Checkin'
 - [x] Idts, its round.
 - [x] Is it now?
 
-<hr class="post">
+<hr class="dots">
 
 ~~The world is flat.~~ We now know that the world is round.
 
