@@ -12,6 +12,12 @@ And at the time of writing, he's a sophomore at IIT Kharagpur. Currently pursuin
 
 <ins>Fun fact</ins>: He does love rain per se but rather from the inside of the house and a glass window to have a view of it with a cup of hot coffee in his hands.
 
-### Contact me
+<hr class="dots">
 
-[sfrzaidi25@gmail.com](mailto:sfrzaidi25@gmail.com)
+## Contact me
+
+`email:` [sfrzaidi25@gmail.com](mailto:sfrzaidi25@gmail.com)
+
+`tel:`  [738-629-5387](tel:7386295387)
+
+<hr class="dots">
