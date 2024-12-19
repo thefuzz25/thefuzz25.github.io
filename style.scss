@@ -50,16 +50,12 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-blockquote {
-  color: #BED2C9;
-}
-
 .quote{
-  padding-left: 2rem;
-  border-left: 4px solid;
-  border-radius: 4px;
+  font-size: 18px;
   color: #BED2C9;
-  margin-bottom: 2rem;
+  /*padding-left: 2rem;
+  border-left: 4px solid;
+  margin-bottom: 2rem;*/
 }
 
 h1 {
@@ -174,7 +170,7 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid $darkGray;
 
   @include mobile {
     text-align: center;
@@ -264,7 +260,7 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid $darkGray;
 }
 
 .posts > .post:last-child {
