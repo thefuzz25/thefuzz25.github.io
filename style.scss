@@ -156,6 +156,23 @@ img {
     clear: both;
 }
 
+// Three Dot Separator
+
+hr.post{
+  padding-bottom: 6rem;
+  border: none;
+  margin: auto;
+  text-align: center;
+  width: 75%;
+  opacity: 0.7;
+}
+
+hr.post:after {
+   content:"...";
+   letter-spacing: 10px;
+}
+
+
 /*********************/
 /* LAYOUT / SECTIONS */
 /*********************/
