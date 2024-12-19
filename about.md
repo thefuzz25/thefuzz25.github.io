@@ -6,11 +6,11 @@ permalink: /about/
 
 Faiz Zaidi is a college student and amateur artist who’s work flirts with both sketches and words. When not behind a desk, he’s an avid reader and athlete.
 
-He was born in Dehradun, in 2005 and has since revolved around the Sun 19 times. Being the son of an Olive Green, he has wheels on his feet and his home is always spinning around. As such, he has resided in 8 cities so far, attended 10+ schools and many more ¡welcomes and goodbyes! than necessary…
+He was born in Dehradun, in 2005 and has since revolved around the Sun 19 times. As the son of an Olive Green, he has wheels on his feet, and his home is always spinning around. This has led him to live in 8 cities (so far), attend over 10 schools, and experience _more_ welcomes and goodbyes than most would find necessary.
 
-And at the time of writing, he's a sophomore at IIT Kharagpur. Currently pursuing bachelors in Manufacturing Science and Enggineering, but also with a pinch of coding, squash and all things creative.
+Currently, he is a sophomore at IIT Kharagpur, pursuing a bachelor’s degree in Manufacturing Science and Engineering. Beyond academics, he has a knack for coding, squash, and all things creative.
 
-<ins>Fun fact</ins>: He does love rain per se but rather from the inside of the house and a glass window to have a view of it with a cup of hot coffee in his hands.
+<ins>Fun fact</ins>: Faiz does love rain _per se_ but he’d much rather enjoy it from the comfort of home, sitting by a glass window with a steaming cup of coffee in hand.
 
 <hr class="dots">
 
