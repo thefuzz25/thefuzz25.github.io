@@ -7,3 +7,5 @@ title: Just Checkin'
 - [x] Is it now?
 
 ~~The world is flat.~~ We now know that the world is round.
+
+> Also, just checking if blockquotes are worth the trouble.
