@@ -14,10 +14,10 @@ And at the time of writing, he's a sophomore at IIT Kharagpur. Currently pursuin
 
 <hr class="dots">
 
-## Contact me
+# Contact me
 
-`email:` [sfrzaidi25@gmail.com](mailto:sfrzaidi25@gmail.com)
+email: [sfrzaidi25@gmail.com](mailto:sfrzaidi25@gmail.com)
 
-`tel:`  [738-629-5387](tel:7386295387)
+tel:  [738-629-5387](tel:7386295387)
 
 <hr class="dots">
