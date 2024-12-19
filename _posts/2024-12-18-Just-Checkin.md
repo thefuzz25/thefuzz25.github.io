@@ -8,4 +8,5 @@ title: Just Checkin'
 
 ~~The world is flat.~~ We now know that the world is round.
 
-> Also, just checking if blockquotes are worth the trouble.
+<span style="color:#BED2C9"> Also, just checking if blockquotes are worth the trouble.</span>
+<span quote> Maybe, this one works better, no? </span>
