@@ -198,7 +198,7 @@ hr.dots:after {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid #808080;
+  border-bottom: 1px solid var(--bdr-clr);
 
   @include mobile {
     text-align: center;
@@ -235,7 +235,7 @@ hr.dots:after {
 .site-name {
   margin: 0;
   /*color: $darkGray;*/
-  color: #fff;
+  color: var(--light-clr);
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -246,7 +246,7 @@ hr.dots:after {
 .site-description {
   margin: -5px 0 0 0;
   /*color: $gray;*/
-  color: #BED2C7;
+  color: var(--green-clr);
   font-size: 16px;
 
   @include mobile {
@@ -270,7 +270,7 @@ nav {
   a {
     margin-left: 20px;
     /*color: $darkGray;*/
-    color: #BED2C7;
+    color: var(--green-clr);
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
