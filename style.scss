@@ -194,11 +194,12 @@ hr.dots:after {
 
 .wrapper-masthead {
   margin-bottom: 50px;
+  background-color: var(--dark-clr);
 }
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid var(--bdr-clr);
+  /*border-bottom: 1px solid var(--bdr-clr);*/
 
   @include mobile {
     text-align: center;
@@ -318,9 +319,8 @@ nav {
 
 .wrapper-footer {
   margin-top: 50px;
-  border-top: 1px solid var(--bdr-clr);
-  border-bottom: 1px solid var(--bdr-clr);
-  /*background-color: $lightGray;*/
+  /*border-top: 1px solid var(--bdr-clr);
+  border-bottom: 1px solid var(--bdr-clr);*/
   background-color: var(--dark-clr);
 }
 
