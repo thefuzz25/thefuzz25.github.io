@@ -9,6 +9,17 @@
 @import "variables";
 // Syntax highlighting @import is at the bottom of this file
 
+:root {
+  --title-clr: #f2f2f2;
+  --light-clr: #fff;
+  --green-clr: #AAE6DD;
+  --grey-clr: #E1E7DD;
+  --dark-clr: #2e2e2e;
+  --bdr-clr: #808080;
+  --body-font-clr: #bdbdbd;
+  --bg-clr: #222222;
+}
+
 /**************/
 /* BASE RULES */
 /**************/
@@ -21,9 +32,9 @@ body {
   /*background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;*/
-  background: #222222;
+  background: var(--bg-clr);
   font: 18px/1.4 $helvetica;
-  color: #bdbdbd;
+  color: var(--body-font-clr);
 }
 
 .container {
@@ -38,7 +49,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: #fff;
+  color: var(--light-clr);
   font-weight: bold;
 
   line-height: 1.7;
@@ -52,8 +63,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .quote{
   font-size: 18px;
-  // color: #BED2C9;
-  color: #AAE6DD;
+  color: var(--green-clr);
   /*padding-left: 2rem;
   border-left: 4px solid;
   margin-bottom: 2rem;*/
@@ -278,7 +288,7 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid #808080;
+  border-bottom: 1px solid var(--bdr-clr);
 }
 
 .posts > .post:last-child {
@@ -308,10 +318,10 @@ nav {
 
 .wrapper-footer {
   margin-top: 50px;
-  border-top: 1px solid #808080;
-  border-bottom: 1px solid #808080;
+  border-top: 1px solid var(--bdr-clr);
+  border-bottom: 1px solid var(--bdr-clr);
   /*background-color: $lightGray;*/
-  background-color: #2e2e2e;
+  background-color: var(--dark-clr);
 }
 
 footer {
