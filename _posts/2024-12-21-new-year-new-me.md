@@ -10,9 +10,10 @@ As another year comes to an end, I don’t wish to remain in this Matrix [[^1]] 
 Here’s what I’ve figured: we aim too _distant_. Sure it's to be achieved in a whole year i.e. 365 days worth of time. But the phrase ‘New Me’ suggests there’s something inherently wrong with who I am, like I need to erase my past and ~~reshape~~ reinvent myself into someone better. And hey, for some people, it is the case, but for the rest of us, it's just too much of an ask (and more importantly, an _unnecessary_ ask). 
 
 So let's change things up this time around. Instead of jumping straight into resolutions, let's pause and reflect first – on both the good and the bad from the past year. Because only when we truly see ourselves as we are now, can we decide what’s worth changing and what’s worth keeping.
-<hr class="dots">
 
 > <span class="quote"> New Year, Hear I Come! </span>
+
+<hr class="dots">
 
 _PS: I'll do better than last year._ 
 
