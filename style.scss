@@ -135,7 +135,8 @@ img {
   max-width: 100%;
 }
 
-@footnote {
+.footnote {
+  float: footnote;
   text-align: right;
   font-size: 12px;
 }
