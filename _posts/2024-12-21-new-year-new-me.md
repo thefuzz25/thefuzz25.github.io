@@ -24,6 +24,5 @@ _PPPS: I mean it's a tad difficult (because I was pretty awesome in 2024)._
 _PPPPS: But okay, here I come anyways._
 
 > <span class="quote"> Edit: New Year, Slightly Better Me (Hopefully). </span>
-<hr class="dots">
 
 [^1]: Do watch The Matrix if you haven't. Great movie. And it's leaving Prime Video soon, I think.
