@@ -13,7 +13,8 @@ permalink: /archive.html
   {% assign tag_name_pretty = tag_name | replace: "_", " " | capitalize %}
   <div class="tag-list">
     <div id="#{{ tag_name | slugize }}"></div>
-    <h3 class="post-list-heading line-bottom"> In #{{ tag_name }}: </h3>
+    <h2 class="post-list-heading line-bottom"> In #{{ tag_name }}: </h2>
+    <hr class="line">
     <a name="{{ tag_name | slugize }}"></a>
     <ul class="post-list post-list-narrow">
      {% for post in site.tags[tag_name] %}
@@ -29,4 +30,5 @@ permalink: /archive.html
     </ul>
   </div>
 {% endfor %}
+  <hr class="dots">
 </div>
