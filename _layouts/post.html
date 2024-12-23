@@ -16,7 +16,7 @@ layout: default
   <hr class="dots">
 
   <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }} | 
+    Written on {{ page.date | date: "%B %e, %Y" }} · 
     {%- if page.tags -%}
       {% for tag in page.tags %}
           <a href="{{site.baseurl}}/archive.html#{{tag | slugize}}">
