@@ -13,10 +13,11 @@ permalink: /archive.html
   {% assign tag_name_pretty = tag_name | replace: "_", " " | capitalize %}
   <div class="tag-list">
     <div id="#{{ tag_name | slugize }}"></div>
-    <h2 class="post-list-heading line-bottom"> In #{{ tag_name }}: </h2>
+    <h2> In #{{ tag_name }}: </h2>
     <hr class="line">
+    
     <a name="{{ tag_name | slugize }}"></a>
-    <ul class="post-list post-list-narrow">
+    <ul>
      {% for post in site.tags[tag_name] %}
      <li>
        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
