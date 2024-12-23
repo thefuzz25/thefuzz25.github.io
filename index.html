@@ -12,11 +12,11 @@ layout: default
         {{ post.excerpt }}
       </div>
 
-      <div class="date" style="color:$grey;">
+      <div class="date" style="color:#595959;">
         {{ post.date | date: "%D" }} · 
         {%- if post.tags -%}
           {% for tag in post.tags %}
-              <a style="color:#808080;" href="{{site.baseurl}}/archive.html#{{tag | slugize}}">
+              <a style="color:#595959;" href="{{site.baseurl}}/archive.html#{{tag | slugize}}">
                   #{{ tag }}
               </a>
           {% endfor %}
