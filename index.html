@@ -16,7 +16,7 @@ layout: default
         {{ post.date | date: "%D" }} · 
         {%- if post.tags -%}
           {% for tag in post.tags %}
-              <a style="color:$grey;" href="{{site.baseurl}}/archive.html#{{tag | slugize}}">
+              <a style="color:#808080;" href="{{site.baseurl}}/archive.html#{{tag | slugize}}">
                   #{{ tag }}
               </a>
           {% endfor %}
