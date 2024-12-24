@@ -13,8 +13,8 @@ layout: default
       </div>
 
       <div class="date" style="color:#666666;">
-        {{ post.date | date: "%D" }} · 
-        {%- if post.tags -%}
+        {{ post.date | date: "%b %e, %Y" }}
+        {%- if post.tags -%} · 
           {% for tag in post.tags %}
               <a style="color:#666666;" href="{{site.baseurl}}/archive.html#{{tag | slugize}}">
                   #{{ tag }}
