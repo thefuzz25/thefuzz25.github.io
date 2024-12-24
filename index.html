@@ -2,22 +2,24 @@
 layout: default
 ---
 
+<h1>Recent Posts</h1>
+
 <div class="posts">
-  {% for post in site.posts %}
+  {% for post in site.posts limit:3 %}
     <article class="post">
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
 
       <div class="entry">
         {{ post.excerpt }}
       </div>
 
       <div class="date" style="color:#666666;">
-        {{ post.date | date: "%b %e, %Y" }}
-        {%- if post.tags -%} · 
+        {{ post.date | date: "%b %e, %Y " }}
+        {%- if post.tags -%}
           {% for tag in post.tags %}
                 <a href="{{site.baseurl}}/archive.html#{{tag | slugize}}">
-                    #{{ tag }}
+                    · #{{ tag }}
                 </a>
           {% endfor %}
         {%- endif -%}
@@ -27,3 +29,4 @@ layout: default
     </article>
   {% endfor %}
 </div>
+<hr class="dots">
