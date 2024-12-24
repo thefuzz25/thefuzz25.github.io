@@ -160,6 +160,7 @@ img {
   margin-left: 2rem;
   @include mobile {
     display: none;
+  }
 }
 
 // Fixes images in popup boxes from Google Translate
