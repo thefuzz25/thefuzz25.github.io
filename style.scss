@@ -151,14 +151,12 @@ img {
   padding-left: 1rem;
   margin-bottom: 1rem;
   position: relative;
-  display: flex;
+  // display: flex;
 }
 
 .ian img{
-  float: right;
-  position: absolute;
-  // vertical-align: bottom;
   // float: right;
+  position: absolute;
   // bottom: 0;
   top: 0;
   right: 0;
