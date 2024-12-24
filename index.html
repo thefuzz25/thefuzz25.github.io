@@ -16,16 +16,14 @@ layout: default
         {{ post.date | date: "%b %e, %Y" }}
         {%- if post.tags -%} · 
           {% for tag in post.tags %}
-              <body link="#666666" alink="#0000FF">
                 <a href="{{site.baseurl}}/archive.html#{{tag | slugize}}">
                     #{{ tag }}
                 </a>
-              </body>
           {% endfor %}
         {%- endif -%}
       </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more"> Read More</a>
+      <a style="color:var(--green-clr);" href="{{ site.baseurl }}{{ post.url }}" class="read-more"> Read More</a>
     </article>
   {% endfor %}
 </div>
