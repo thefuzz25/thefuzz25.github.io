@@ -154,12 +154,11 @@ img {
 
 .ian img{
   vertical-align: bottom;
-  horizontal-align: right;
   float: right;
   bottom: 0;
   height: 5rem;
   margin-left: 2rem;
-  @media (max-width: 48em) {
+  @include mobile {
     display: none;
 }
 
