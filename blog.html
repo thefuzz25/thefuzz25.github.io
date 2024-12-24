@@ -11,7 +11,7 @@ permalink: /blog.html
       <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
 
       <div class="entry">
-        {{ post.excerpt }}
+        {{ post.content | strip_html | truncatewords: 40 }}
       </div>
 
       <div class="date" style="color:#666666;">
