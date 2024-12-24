@@ -148,16 +148,19 @@ img {
 .ian{
   height: 10rem;
   border: 1px solid #fff;
-  padding: 1rem;
+  padding-left: 1rem;
   margin-bottom: 1rem;
   position: relative;
+  display: flex;
 }
 
 .ian img{
+  float: right;
   position: absolute;
   // vertical-align: bottom;
   // float: right;
   // bottom: 0;
+  top: 0;
   right: 0;
   height: 10rem;
   margin-left: 2rem;
