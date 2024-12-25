@@ -145,7 +145,7 @@ img {
   font-size: 12px;
 }
 
-.ian{
+/*.ian{
   height: 8.5rem;
   border: 1px solid var(--bdr-clr);
   padding-left: 1rem;
@@ -171,6 +171,29 @@ img {
     top:0;
     max-height:100%;
     max-width:100%;
+  }
+}*/
+
+.ian{
+  height: 8.5rem;
+  border: 1px solid var(--bdr-clr);
+  margin-bottom: 1rem;
+  @include mobile{
+    height: auto;
+  }
+}
+
+.ian img{
+  height: 8.5rem;
+  vertical-align: bottom;
+  float: right;
+  margin-left: 2rem;
+  @include mobile {
+    max-width:100%;
+    vertical-align: top;
+    float: none;
+    height: auto;
+    margin-left: unset;
   }
 }
 
