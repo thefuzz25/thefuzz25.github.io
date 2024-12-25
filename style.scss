@@ -146,7 +146,7 @@ img {
 }
 
 .ian{
-  height: 8rem;
+  height: 9rem;
   border: 1px solid var(--bdr-clr);
   padding-left: 1rem;
   margin-bottom: 1rem;
@@ -160,11 +160,13 @@ img {
   // bottom: 0;
   top: 0;
   right: 0;
-  height: 8rem;
+  height: 9rem;
   margin-left: 2rem;
-  /*@include mobile {
-    display: none;
-  }*/
+  @include mobile {
+    max-width: 60rem;
+    right:0
+    transform:translateY(9rem);
+  }
 }
 
 // Fixes images in popup boxes from Google Translate
