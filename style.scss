@@ -146,12 +146,16 @@ img {
 }
 
 .ian{
-  height: 9rem;
+  height: 8.5rem;
   border: 1px solid var(--bdr-clr);
   padding-left: 1rem;
   margin-bottom: 1rem;
   position: relative;
   // display: flex;
+  @include mobile{
+    padding-top:9rem;
+    height: 18rem;
+  }
 }
 
 .ian img{
@@ -160,12 +164,12 @@ img {
   // bottom: 0;
   top: 0;
   right: 0;
-  height: 9rem;
+  height: 8.5rem;
   margin-left: 2rem;
   @include mobile {
-    max-width: 60rem;
     right:0;
-    transform:translateY(9rem);
+    top:0;
+    height:12rem;
   }
 }
 
