@@ -164,7 +164,7 @@ img {
   margin-left: 2rem;
   @include mobile {
     max-width: 60rem;
-    right:0
+    right:0;
     transform:translateY(9rem);
   }
 }
