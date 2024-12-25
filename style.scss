@@ -169,7 +169,8 @@ img {
   @include mobile {
     right:0;
     top:0;
-    height:12rem;
+    max-height:100%;
+    max-width:100%;
   }
 }
 
