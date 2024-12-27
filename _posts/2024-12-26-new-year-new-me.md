@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Year, New Me?
+title: 🪞 New Year, New Me?
 tags: [2024]
 ---
 
