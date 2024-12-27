@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mic Testing, 1, 2, 3.
+title: 🎙️ Mic Testing, 1, 2, 3.
 ---
 
 Here I am, testing if I can still make something out of nothing (I was _pretty_ good at it when the teacher used to ask about homework in 5th grade). You might not agree, but it is an essential quality if I wish to commit to this blog. Still on the fence about it, though.
