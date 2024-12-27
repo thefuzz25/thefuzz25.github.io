@@ -6,7 +6,7 @@ tags: [2024]
 
 New Year, New Me. We all have heard that someplace or the other. But it seldom works out. In most cases, it doesn't work out. And why I know that for a fact? Because we've all _tried_ the same philosophy at some point in our lives as well.
 
-As the year draws to a close, I find myself questioning the cycle of setting goals that often fall short. So I thought we need to uncover what’s wrong with the ‘New Year, New Me’ philosophy. It is only then can we escape this loop and truly break free (or, in this case, make a more meaningful list of resolutions for 2025).
+As the year draws to a close, I find myself questioning the cycle 🔁 of setting goals that often fall short. So I thought we need to uncover what’s wrong with the ‘New Year, New Me’ philosophy. It is only then can we escape this loop and truly break free (or, in this case, make a more meaningful list of resolutions 📋 for 2025).
 
 Here’s what I’ve figured: we aim too high and mighty. Sure it's to be achieved in a whole year i.e. 365 days worth of time. But the phrase ‘New Me’ suggests there’s something inherently wrong with who I am, like I need to erase my past and ~~reshape~~ reinvent myself into someone better. And hey, for some people, it is the case, but for the rest of us, it's just too much of an ask (and more importantly, an _unnecessary_ ask). 
 
