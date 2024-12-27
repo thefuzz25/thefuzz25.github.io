@@ -4,7 +4,7 @@ title: New Year, New Me?
 tags: [2024]
 ---
 
-New Year, New Me. We all have heard that someplace or the other. But it seldom works out. In most cases, it doesn't work out. And why I know that for a fact? Because we've all _tried_ the same philosophy at some point in our lives as well, haven't we?
+New Year, New Me. We all have heard that someplace or the other. But it seldom works out. In most cases, it doesn't work out. And why I know that for a fact? Because we've all _tried_ the same philosophy at some point in our lives as well.
 
 As the year draws to a close, I find myself questioning the cycle of setting goals that often fall short. So I thought we need to uncover what’s wrong with the ‘New Year, New Me’ philosophy. It is only then can we escape this loop and truly break free (or, in this case, make a more meaningful list of resolutions for 2025).
 
@@ -22,8 +22,6 @@ _PPS: Well I'll try._
 
 _PPPS: I mean it's a tad difficult (because I was pretty awesome in 2024)._ 
 
-_PPPPS: But okay, here I come anyways._
+_PPPPS: But anyhow, here I come._
 
 > <span class="quote"> Edit: New Year, Slightly Better Me (Hopefully). </span>
-
-[^1]: Do watch The Matrix if you haven't. Great movie. And it's leaving Prime Video soon, I think.
