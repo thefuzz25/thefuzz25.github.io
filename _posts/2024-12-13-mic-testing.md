@@ -3,12 +3,12 @@ layout: post
 title: 🎙️ Mic Testing, 1, 2, 3.
 ---
 
-~~The world is flat.~~ We now know that the world is round. [^1]
+~~The world is flat.~~ We now know that the world is round 🌍. [^1]
 
-- [ ] Rule #1: Awesomeness is reserved for me only
-- [x] Rule #2: First learn rule #1
+- [ ] Rule #1: I’m the blueprint of fabulousness.
+- [x] Rule #2: Study the blueprint. Don’t try to improvise.
 
-_Writing in italics feels like the words suddenly grew a French accent (wearing a beret and sipping espresso)._
+_Writing in italics feels like the words suddenly grew a French accent 🇫🇷 (wearing a beret and sipping espresso)._
 
 **Whilst writing in bold comes across as the youngest adult in the family, demanding respect at the dining table.**
 
