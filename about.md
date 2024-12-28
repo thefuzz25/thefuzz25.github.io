@@ -16,8 +16,8 @@ Currently, he is a sophomore at IIT Kharagpur, pursuing a bachelor’s degree in
 
 # Contact me
 
-email: [sfrzaidi25@gmail.com](mailto:sfrzaidi25@gmail.com)
+📪 Mail: [sfrzaidi25@gmail.com](mailto:sfrzaidi25@gmail.com)
 
-tel:  [738-629-5387](tel:7386295387)
+☎️ Tel:  [738-629-5387](tel:7386295387)
 
 <hr class="dots">
