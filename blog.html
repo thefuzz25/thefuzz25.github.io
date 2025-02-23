@@ -21,7 +21,7 @@ My (brilliant) thoughts, untamed and unapologetic — and occasionally laced wit
 
       <br>
 
-      <div class="date" style="color:#666666; font-size: 15px; float:right; text-transform: uppercase;">
+      <div class="date" style="color:#666666; font-size: 15px; float:right; /*text-transform: uppercase;*/">
         {{ post.date | date: "%b %e, %Y " }}
         {%- if post.tags -%}
           {% for tag in post.tags %}
