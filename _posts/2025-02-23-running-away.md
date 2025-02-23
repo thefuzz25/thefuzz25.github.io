@@ -17,7 +17,7 @@ tags: [LifeExperiments]
 
 > <span class="quote"> Exercise is the quiet rebellion of the body against the clutter of the mind; a dance of liberation. </span>
 
-And liberation it was indeed. All my papers were 2-4pm and it became a routine to just get back to the room, drop my bag, put on the shoes and set off. The predictability of all of it within such a short time was what really intrigued me. I do workout regularly but boy, never have I looked forward to it as I did this past week or so. On the runs themselves, I was able to look back and plan ahead. I might not have had a proper study strategy, but the commitment to get on with it? That, I had — before I was back at my desk 📚 in the evening.
+And liberation it was indeed. All my papers were 2-4pm and it became a routine to just get back to the room, drop my bag, put on the shoes and set off. The predictability of all of it within such a short time was what really intrigued me. I do workout regularly but boy, never have I looked forward to it as I did this past week or so. On the runs themselves, I was able to look back and plan ahead. I might not have had a proper study strategy, but the commitment to get on with it? That, I had — before I was back at my desk 📚 each evening.
 <hr class = "dots">
 
 ### My Takeaways
