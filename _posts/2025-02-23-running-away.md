@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 🏃🏻 Running Away from Midsems (Literally)
-tags: [LifeExperiments]
+tags: [AllPainNoGain]
 ---
 
 ### What Actually Went Down
