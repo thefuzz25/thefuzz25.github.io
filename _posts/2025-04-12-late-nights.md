@@ -57,7 +57,7 @@ And that's okay.
 ## Apr 05
 **'The day listens to how you begin it.'**
 
-_— Parents_ (low key philosophers, high key always right)
+_— Parents_ (low-key philosophers, high-key always right)
 <hr style="opacity: 0.7;">
 
 ## Apr 09
