@@ -9,23 +9,30 @@ There’s this poem that I came across during the pandemic. I even used a part o
 
 <span style="color: var(--green-clr); text-align: center;">
 When this is over
-
+  
+<span style="color: var(--green-clr); text-align: center;">
 May we never again
-
+  
+<span style="color: var(--green-clr); text-align: center;">
 Take for granted
-
+  
+<span style="color: var(--green-clr); text-align: center;">
 A handshake with a stranger
-
+  
+<span style="color: var(--green-clr); text-align: center;">
 Conversations with the neighbors
-
+  
+<span style="color: var(--green-clr); text-align: center;">
 Cutely annoying cousins 
-
+  
+<span style="color: var(--green-clr); text-align: center;">
 The boring Tuesdays
-
+  
+<span style="color: var(--green-clr); text-align: center;">
 A crowded theatre
-
+  
+<span style="color: var(--green-clr); text-align: center;">
 And life itself
-</span>
 
 <hr class="dots">
 Some days, I forget. I rush through mornings, complain about professors or mess food (valid, but still), scroll past sunsets. But then I’ll talk with a friend I hadn’t seen in a while, or take a compliment from a stranger or any of the million other things — and I’ll remember.
