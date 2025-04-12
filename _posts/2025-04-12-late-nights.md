@@ -7,7 +7,6 @@ For a while, I didn’t realize what was really wrong. I just knew something fel
 
 <hr class="dots">
 
-<p style="margin: 0;">
 ## Apr 02
 (When I first realized it was 4 a.m. and I was _still_ wide awake)
 
@@ -15,6 +14,7 @@ Well, this is new. I've never really been a night owl before.
 
 But hey — if it works, it works.
 <hr style="opacity: 0.7;">
+
 ## Apr 05
 I do seem to be getting work done but not really so.
 <hr style="opacity: 0.7;">
@@ -22,7 +22,7 @@ I do seem to be getting work done but not really so.
 ## Apr 07 
 (The day I went even beyond the night life, and slept _after_ finishing up with the day's classes)
 
-**| Everyday I sleep tomorrow. Even yesterday I slept today.**
+**'Everyday I sleep tomorrow. Even yesterday I slept today.'**
 
 _— Instagram_
 <hr style="opacity: 0.7;">
@@ -54,7 +54,7 @@ And that's okay.
 <hr style="opacity: 0.7;">
 
 ## Apr 15
-**| The day listens to how you begin it.**
+**'The day listens to how you begin it.'**
 
 _— Mum_
 <hr style="opacity: 0.7;">
@@ -76,7 +76,6 @@ As it turns out, the mornings didn't change.
 
 I did.
 <hr style="opacity: 0.7;">
-</p>
 
 <hr class="dots">
 
