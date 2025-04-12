@@ -1,29 +1,32 @@
 ---
 layout: post
 title: 🦉 The Quiet Cost of Late Nights
+tags: [NotSoRoutine]
 ---
 
-> For a while, I didn’t realize what was wrong. I just knew something felt... _off_.
+> <span class="quote"> Never thought I’d trade dawns for midnights. For a while, everything seemed fine. But I just knew something felt... _off_. </span>
 
-Over the past month, my routine slowly shifted later and later, bit by bit. This journal captures that subtle shift — one that started by staying up a little late, turned disorienting, and eventually forced me to press reset.
+Over the past month, my routine slowly shifted later and later, bit by bit. This journal captures that subtle shift — one that started by staying up a little late 🛏️, turned disorienting, and eventually forced me to press reset.
+
+Over the past month, my routine quietly shifted later and later. This journal captures that shift — what began as a bit of late-night productivity 🛏️ turned into a blur of misplaced energ and misaligned days. And then, the course correction.
 
 <hr class="dots">
 
 ## Mar 23
-(When I first realized it was 4 a.m. and I was _still wide awake_)
+Well, this is new. 
 
-Well, this is new. I've never really been a night owl before.
+I've always been the early riser type — bright sunshine, cold water splash, that whole deal.
 
-But hey — whatever works, right?
+But there's something about the night's stillness that feels strangely productive.
+
+Hey — whatever works, right? (Famous last words.)
 <hr style="opacity: 0.7;">
 
-## Mar 26
+## Mar 27
 I do seem to be getting work done but not really so.
 <hr style="opacity: 0.7;">
 
-## Mar 28 
-('Tis the day I went even beyond the night, and slept _after_ finishing up with the day's classes)
-
+## Mar 30
 **'Everyday I sleep tomorrow. Even yesterday I slept today.'**
 
 _— Instagram_
@@ -32,23 +35,23 @@ _— Instagram_
 ## Apr 02
 Messed up the test today. 
 
-Knew the answers but dunno what happened. 
+Knew the answers but don't know what happened exactly. 
 
-Just felt... foggy.
+Just felt... foggy 😶‍🌫️.
 <hr style="opacity: 0.7;">
 
 ## Apr 02 (contd.)
 This routine, ugh. 
 
-I thought I could keep this up, but I can’t. 
+I thought I could keep this up. Turns out I don't want to. 
 
-Time to reset the hours.
+Time to flip the script.
 <hr style="opacity: 0.7;">
 
 ## Apr 03
 Note to self:
 
-One can feel a bit off after making the right decision. 
+You can feel a bit off even after making the right decision. 
 
 And that's okay.
 <hr style="opacity: 0.7;">
@@ -56,7 +59,7 @@ And that's okay.
 ## Apr 05
 **'The day listens to how you begin it.'**
 
-_— Mum_
+_— Parents_ (low key philosophers, high key always right)
 <hr style="opacity: 0.7;">
 
 ## Apr 09
@@ -64,7 +67,7 @@ Wise words indeed.
 
 Feeling so much more in control now. 
 
-Guess I really needed the wake-up call _(no pun intended)_.
+Guess I really needed the wake-up call ⏰ _(no pun intended)_.
 
 But all for the better.
 <hr style="opacity: 0.7;">
@@ -72,9 +75,11 @@ But all for the better.
 ## Apr 11
 Woke up even before the sun today — No clutter, no rush. 
 
+Had time to _think_ before the day started. Wild.
+
 As it turns out, the mornings didn't change. **I did.**
 <hr style="opacity: 0.7;">
 
 <hr class="dots">
 
-_PS: The journal entries were kept blunt and bare, because that’s how my mind was during that phase — quick, cloudy, and a little distant._
+_PS: The journal entries were kept blunt and bare, because so were my thoughts at the time — quiet, scattered, and a little distant._
