@@ -3,16 +3,18 @@ layout: post
 title: 🦉 The Quiet Cost of Late Nights
 ---
 
-For a while, I didn’t realize what was really wrong. I just knew something felt... _off_. Over the past month, my routine slowly shifted later and later, bit by bit. This journal captures that subtle shift — one that started as sleeping a little late, turned disorienting, and eventually forced me to press reset.
+> For a while, I didn’t realize what was wrong. I just knew something felt... _off_.
+
+Over the past month, my routine slowly shifted later and later, bit by bit. This journal captures that subtle shift — one that started by staying up a little late, turned disorienting, and eventually forced me to press reset.
 
 <hr class="dots">
 
 ## Mar 23
-(When I first realized it was 4 a.m. and I was _still_ wide awake)
+(When I first realized it was 4 a.m. and I was _still wide awake_)
 
 Well, this is new. I've never really been a night owl before.
 
-But hey — if it works, it works.
+But hey — whatever works, right?
 <hr style="opacity: 0.7;">
 
 ## Mar 26
@@ -40,9 +42,7 @@ This routine, ugh.
 
 I thought I could keep this up, but I can’t. 
 
-It has to stop. 
-
-Time to rewrite the hours.
+Time to reset the hours.
 <hr style="opacity: 0.7;">
 
 ## Apr 03
@@ -72,9 +72,7 @@ But all for the better.
 ## Apr 11
 Woke up even before the sun today — No clutter, no rush. 
 
-As it turns out, the mornings didn't change. 
-
-I did.
+As it turns out, the mornings didn't change. **I did.**
 <hr style="opacity: 0.7;">
 
 <hr class="dots">
