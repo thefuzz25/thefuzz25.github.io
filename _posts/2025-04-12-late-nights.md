@@ -7,7 +7,7 @@ For a while, I didn’t realize what was really wrong. I just knew something fel
 
 <hr class="dots">
 
-## Apr 02
+## Mar 23
 (When I first realized it was 4 a.m. and I was _still_ wide awake)
 
 Well, this is new. I've never really been a night owl before.
@@ -15,19 +15,19 @@ Well, this is new. I've never really been a night owl before.
 But hey — if it works, it works.
 <hr style="opacity: 0.7;">
 
-## Apr 05
+## Mar 26
 I do seem to be getting work done but not really so.
 <hr style="opacity: 0.7;">
 
-## Apr 07 
-(The day I went even beyond the night life, and slept _after_ finishing up with the day's classes)
+## Mar 28 
+('Tis the day I went even beyond the night, and slept _after_ finishing up with the day's classes)
 
 **'Everyday I sleep tomorrow. Even yesterday I slept today.'**
 
 _— Instagram_
 <hr style="opacity: 0.7;">
 
-## Apr 12
+## Apr 02
 Messed up the test today. 
 
 Knew the answers but dunno what happened. 
@@ -35,7 +35,7 @@ Knew the answers but dunno what happened.
 Just felt... foggy.
 <hr style="opacity: 0.7;">
 
-## Apr 12 (contd.)
+## Apr 02 (contd.)
 This routine, ugh. 
 
 I thought I could keep this up, but I can’t. 
@@ -45,7 +45,7 @@ It has to stop.
 Time to rewrite the hours.
 <hr style="opacity: 0.7;">
 
-## Apr 13
+## Apr 03
 Note to self:
 
 One can feel a bit off after making the right decision. 
@@ -53,13 +53,13 @@ One can feel a bit off after making the right decision.
 And that's okay.
 <hr style="opacity: 0.7;">
 
-## Apr 15
+## Apr 05
 **'The day listens to how you begin it.'**
 
 _— Mum_
 <hr style="opacity: 0.7;">
 
-## Apr 19
+## Apr 09
 Wise words indeed. 
 
 Feeling so much more in control now. 
@@ -69,7 +69,7 @@ Guess I really needed the wake-up call _(no pun intended)_.
 But all for the better.
 <hr style="opacity: 0.7;">
 
-## Apr 21
+## Apr 11
 Woke up even before the sun today — No clutter, no rush. 
 
 As it turns out, the mornings didn't change. 
