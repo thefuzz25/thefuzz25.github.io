@@ -1,37 +1,37 @@
 ---
 layout: post
 title: 🤞🏻 When This is Over; A Revisit
-tags: [Revisits]
+tags: [Revisited]
 ---
 
 There’s this poem that I came across during the pandemic. I even used a part of it in my [2020, in a Nutshell](https://thefuzz25.github.io/ian). Penned by Laura Kelly Fanucci, its essence is still worth living by. Thought I'd share.
 <hr class="dots">
 
-<span style="color: var(--green-clr); text-align: center;">
+<span style="color: var(--green-clr); text-align: center; font-style: italic;">
 When this is over
   
-<span style="color: var(--green-clr); text-align: center;">
+<span style="color: var(--green-clr); text-align: center; font-style: italic;">
 May we never again
   
-<span style="color: var(--green-clr); text-align: center;">
+<span style="color: var(--green-clr); text-align: center; font-style: italic;">
 Take for granted
   
-<span style="color: var(--green-clr); text-align: center;">
+<span style="color: var(--green-clr); text-align: center; font-style: italic;">
 A handshake with a stranger
   
-<span style="color: var(--green-clr); text-align: center;">
+<span style="color: var(--green-clr); text-align: center; font-style: italic;">
 Conversations with the neighbors
   
-<span style="color: var(--green-clr); text-align: center;">
+<span style="color: var(--green-clr); text-align: center; font-style: italic;">
 Cutely annoying cousins 
   
-<span style="color: var(--green-clr); text-align: center;">
+<span style="color: var(--green-clr); text-align: center; font-style: italic;">
 The boring Tuesdays
   
-<span style="color: var(--green-clr); text-align: center;">
+<span style="color: var(--green-clr); text-align: center; font-style: italic;">
 A crowded theatre
   
-<span style="color: var(--green-clr); text-align: center;">
+<span style="color: var(--green-clr); text-align: center; font-style: italic;">
 And life itself
 
 <hr class="dots">
