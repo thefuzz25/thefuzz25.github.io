@@ -6,9 +6,7 @@ tags: [NotSoRoutine]
 
 > <span class="quote"> Never thought I’d trade dawns for midnights. For a while, everything seemed fine. But I just knew something felt... _off_. </span>
 
-Over the past month, my routine slowly shifted later and later, bit by bit. This journal captures that subtle shift — one that started by staying up a little late 🛏️, turned disorienting, and eventually forced me to press reset.
-
-Over the past month, my routine quietly shifted later and later. This journal captures that shift — what began as a bit of late-night productivity 🛏️ turned into a blur of misplaced energ and misaligned days. And then, the course correction.
+Over the past month, my routine quietly shifted later and later. This journal captures that shift — what began as a bit of late-night productivity 🛏️ turned into a blur of misplaced energy and misaligned days. And then, the course correction.
 
 <hr class="dots">
 
@@ -65,7 +63,7 @@ _— Parents_ (low key philosophers, high key always right)
 ## Apr 09
 Wise words indeed. 
 
-Feeling so much more in control now. 
+So much more in control now. 
 
 Guess I really needed the wake-up call ⏰ _(no pun intended)_.
 
