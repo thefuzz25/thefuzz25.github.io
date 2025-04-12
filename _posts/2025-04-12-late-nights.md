@@ -13,7 +13,7 @@ Over the past month, my routine quietly shifted later and later. This journal ca
 ## Mar 23
 Well, this is new. 
 
-I've always been the early riser type — bright sunshine, cold water splash, that whole deal.
+I've always been the early riser type.
 
 But there's something about the night's stillness that feels strangely productive.
 
@@ -76,7 +76,6 @@ Woke up even before the sun today — No clutter, no rush.
 Had time to _think_ before the day started. Wild.
 
 As it turns out, the mornings didn't change. **I did.**
-<hr style="opacity: 0.7;">
 
 <hr class="dots">
 
