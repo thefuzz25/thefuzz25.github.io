@@ -4,7 +4,7 @@ title: 🦉 The Quiet Cost of Late Nights
 tags: [NotSoRoutine]
 ---
 
-> <span class="quote"> Never thought I’d trade dawns for midnights. For a while, everything seemed fine. But I just knew something felt... _off_. </span>
+> <span class="quote"> Never thought I’d trade dawns for midnights. For a while, everything seemed fine.</span>
 
 Over the past month, my routine quietly shifted later and later. This journal captures that shift — what began as a bit of late-night productivity 🛏️ turned into a blur of misplaced energy and misaligned days. And then, the course correction.
 
