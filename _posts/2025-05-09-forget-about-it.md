@@ -31,6 +31,7 @@ Somewhere in that murky middle, there’s this one conversation. [^1] Casual, fu
 </div>
 
 <hr class="dots">
+
 ## Context Really _Is_ Everything
 
 A single phrase, explained with so many meanings. Agreement. Disagreement. Praise. Dismissal. Indifference. It means everything by meaning nothing on its own (if that make sense?).
@@ -56,7 +57,8 @@ Such phrases aren’t just about brushing things off. They're a reminder that me
 [^1]: Transcript (for those who couldn't understand the convo without subtitles 🙃)
 
 **FBI Technician:** (sitting on the floor of a motel room, reserved for the FBI) 
-> What's this "Forget about it" thing that you guys always say down here? 
+> What's this "Forget about it" thing that you guys always say down here?
+
 **Donnie Brasco:** (lying on the couch) 
 > “Forget about it” is, like, if you agree with someone. You know, like “Raquel Welch is absolutely stunning. Forget about it!”  
 > But then, if you disagree, like “A Lincoln is better than a Cadillac? Forget about it!”  
