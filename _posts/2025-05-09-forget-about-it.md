@@ -52,7 +52,7 @@ Such phrases aren’t just about brushing things off. They're a reminder that me
 > _"eh, Forget about it."_
 
 <hr class="dots">
-<p style="font-size: 15 px;">
+
 [^1]: Transcript (for those who couldn't get the convo without subtitles 🙃)
 
 **FBI Technician:** (sitting on the floor of a motel room, reserved for the FBI) 
@@ -66,4 +66,3 @@ Such phrases aren’t just about brushing things off. They're a reminder that me
 > It’s also like if something’s the greatest thing in the world: “Minghia! Those peppers! Forget about it!”  
 > But it can also mean “get outta here,” like “Hey Paulie, you still afraid of clowns?” and Paulie says, “Forget about it!”  
 > And then there are sometimes when it just literally means to forget about it.
-</p>
