@@ -51,19 +51,3 @@ Context changes how we feel about the exact same scenario.
 
 Such phrases aren’t just about brushing things off. They're a reminder that meaning is slippery.  Life’s a conversation full of timing, inflection, and interruptions. So the next time it throws something right at you — good or bad; just smile, shake your head, and say… 
 > _"eh, Forget about it."_
-
-<hr class="dots">
-
-[^1]: Transcript (for those who couldn't understand the convo without subtitles 🙃)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**FBI Technician:** (sitting on the floor of a motel room, reserved for the FBI)
-
-What's this "Forget about it" thing that you guys always say down here?
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Donnie Brasco:** (lying on the couch) 
-
-“Forget about it” is, like, if you agree with someone. You know, like “Raquel Welch is absolutely stunning. Forget about it!”  
-But then, if you disagree, like “A Lincoln is better than a Cadillac? Forget about it!”  
-It’s also like if something’s the greatest thing in the world: “Minghia! Those peppers! Forget about it!”  
-But it can also mean “get outta here,” like “Hey Paulie, you still afraid of clowns?” and Paulie says, “Forget about it!”  
-And then there are sometimes when it just literally means to forget about it.
