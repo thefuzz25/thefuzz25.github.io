@@ -2,7 +2,7 @@
 
 layout: post
 title: 👨🏻 Forget About It.
-tags: [DialoguesThatSpeak]
+tags: [LinesWorthRepeating]
 
 ---
 ## A Little Context First
@@ -16,7 +16,7 @@ But just so we are on the same page, here’s some context.
 
 The movie '_Donnie Brasco_' follows an undercover FBI agent, played by Johnny Depp, who infiltrates the New York Mafia under the name Donnie. Over time, he ends up getting close to a low-level mobster named Lefty. The lines between duty and identity blur fast. The longer he lives the lie, the harder it gets to tell where the job ends and he begins. 
 
-Somewhere in that murky middle, there’s this one conversation. [^1] Casual, funny, almost nonsensical on the surface. But packed with truth. It’s about a phrase — _Forget about it_. Seems dull enough, right? But the way they break it down makes you realise that language, love, logic; none of it is fixed. It’s all context.
+Somewhere in that murky middle, there’s this one conversation. Casual, funny, almost nonsensical on the surface. But packed with truth. It’s about a phrase — _Forget about it_. Seems dull enough, right? But the way they break it down makes you realise that language, love, logic; none of it is fixed. It’s all context. [^1]
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 560px; margin: 0 auto;">
   <iframe 
