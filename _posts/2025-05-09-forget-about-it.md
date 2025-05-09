@@ -9,8 +9,8 @@ tags: [LinesWorthRepeating]
 
 With the summer break in full effect, I’ve been, of course, using my time productively. It is, in my third movie 🍿 of the day, *Donnie Brasco*, that I come across an interesting piece of conversation. 
 
-> If you’ve seen the movie: good.  
-> If you haven’t: go watch it, then come back. Decent movie.
+> - If you’ve seen the movie: good.  
+> - If you haven’t: go watch it, then come back. Decent movie.
 
 But just so we are on the same page, here’s some context.
 
