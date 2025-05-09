@@ -2,7 +2,7 @@
 
 layout: post
 title: 👨🏻 Forget About It.
-tags:
+tags: [DialoguesThatSpeak]
 
 ---
 ## A Little Context First
@@ -31,7 +31,6 @@ Somewhere in that murky middle, there’s this one conversation. Casual, funny, 
 </div>
 
 <hr class="dots">
-
 ## Context Really _Is_ Everything
 
 A single phrase — _Forget about it_ — explained with so many meanings. Agreement. Disagreement. Praise. Dismissal. Indifference. It means everything by meaning nothing on its own (if that make sense?).
@@ -50,4 +49,4 @@ Context changes how we feel about the exact same scenario.
 ## And Sometimes, It _Is_ the Only Thing
 
 This phrase isn’t just about brushing things off. It’s a reminder that meaning is slippery.  Life’s a conversation full of timing, inflection, and interruptions. So the next time it throws something right at you — good or bad — just smile, shake your head, and say… 
-> _eh, Forget about it._ 
+> _"eh, Forget about it."_ 
