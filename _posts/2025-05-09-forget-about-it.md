@@ -16,7 +16,7 @@ But just so we are on the same page, here’s some context.
 
 The movie '_Donnie Brasco_' follows an undercover FBI agent, played by Johnny Depp, who infiltrates the New York Mafia under the name Donnie. Over time, he ends up getting close to a low-level mobster named Lefty. The lines between duty and identity blur fast. The longer he lives the lie, the harder it gets to tell where the job ends and he begins. 
 
-Somewhere in that murky middle, there’s this one conversation. Casual, funny, almost nonsensical on the surface. But packed with truth. It’s about a phrase — _Forget about it_. Seems dull enough, right? But the way they break it down makes you realise that language, love, logic; none of it is fixed. It’s all context.
+Somewhere in that murky middle, there’s this one conversation. [^1] Casual, funny, almost nonsensical on the surface. But packed with truth. It’s about a phrase — _Forget about it_. Seems dull enough, right? But the way they break it down makes you realise that language, love, logic; none of it is fixed. It’s all context.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 560px; margin: 0 auto;">
   <iframe 
@@ -52,7 +52,7 @@ Such phrases aren’t just about brushing things off. They're a reminder that me
 > _"eh, Forget about it."_
 
 <hr class="dots">
-
+<p style="font-size: 15 px;">
 [^1]: Transcript (for those who couldn't get the convo without subtitles 🙃)
 
 **FBI Technician:** (sitting on the floor of a motel room, reserved for the FBI) 
@@ -65,5 +65,5 @@ Such phrases aren’t just about brushing things off. They're a reminder that me
 > But then, if you disagree, like “A Lincoln is better than a Cadillac? Forget about it!”  
 > It’s also like if something’s the greatest thing in the world: “Minghia! Those peppers! Forget about it!”  
 > But it can also mean “get outta here,” like “Hey Paulie, you still afraid of clowns?” and Paulie says, “Forget about it!”  
-> Sometimes it just means… forget about it.
-
+> And then there are sometimes when it just literally means to forget about it.
+</p>
