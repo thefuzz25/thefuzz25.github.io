@@ -18,7 +18,13 @@ The movie '_Donnie Brasco_' follows an undercover FBI agent, played by Johnny D
 
 Somewhere in that murky middle, there’s this one conversation. Casual, funny, almost nonsensical on the surface. But packed with truth. It’s about a phrase — _Forget about it_. Seems dull enough, right? But the way they break it down makes you realise that language, love, logic; none of it is fixed. It’s all context.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pS6zJ7IsJkM?si=bGfnsj3DUh71AjSq&amp;start=25" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="text-align: center;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/pS6zJ7IsJkM?si=bGfnsj3DUh71AjSq&amp;start=25" 
+    title="YouTube video player" frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+  </iframe>
+</div>
 
 <hr class="dots">
 
