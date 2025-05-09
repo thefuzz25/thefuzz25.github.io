@@ -7,7 +7,7 @@ tags: [LinesWorthRepeating]
 ---
 ## A Little Context First
 
-With the summer break in full effect, I’ve been, of course, using my time productively. It is, in my fifth movie of the week 🥲, *Donnie Brasco*, that I come across an interesting piece of conversation. 
+With the summer break in full effect, I’ve been, of course, using my time productively. It is, in my fifth movie of the week 🥲, *Donnie Brasco*, that I come across a throwaway line that wasn’t so throwaway.
 
 > - If you’ve seen the movie: good.  
 > - If you haven’t: go watch it, then come back. Decent movie.
