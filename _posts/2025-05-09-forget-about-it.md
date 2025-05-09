@@ -56,14 +56,14 @@ Such phrases aren’t just about brushing things off. They're a reminder that me
 
 [^1]: Transcript (for those who couldn't understand the convo without subtitles 🙃)
 
-**FBI Technician:** (sitting on the floor of a motel room, reserved for the FBI)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**FBI Technician:** (sitting on the floor of a motel room, reserved for the FBI)
 
-&nbsp;What's this "Forget about it" thing that you guys always say down here?
+What's this "Forget about it" thing that you guys always say down here?
 
-**Donnie Brasco:** (lying on the couch) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Donnie Brasco:** (lying on the couch) 
 
-&nbsp;“Forget about it” is, like, if you agree with someone. You know, like “Raquel Welch is absolutely stunning. Forget about it!”  
-&nbsp;But then, if you disagree, like “A Lincoln is better than a Cadillac? Forget about it!”  
-&nbsp;It’s also like if something’s the greatest thing in the world: “Minghia! Those peppers! Forget about it!”  
-&nbsp;But it can also mean “get outta here,” like “Hey Paulie, you still afraid of clowns?” and Paulie says, “Forget about it!”  
-&nbsp;And then there are sometimes when it just literally means to forget about it.
+“Forget about it” is, like, if you agree with someone. You know, like “Raquel Welch is absolutely stunning. Forget about it!”  
+But then, if you disagree, like “A Lincoln is better than a Cadillac? Forget about it!”  
+It’s also like if something’s the greatest thing in the world: “Minghia! Those peppers! Forget about it!”  
+But it can also mean “get outta here,” like “Hey Paulie, you still afraid of clowns?” and Paulie says, “Forget about it!”  
+And then there are sometimes when it just literally means to forget about it.
