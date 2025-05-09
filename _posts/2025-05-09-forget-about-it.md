@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: Forget About It.
+title: 👨🏻 Forget About It.
 tags:
 
 ---
@@ -18,17 +18,21 @@ The movie '_Donnie Brasco_' follows an undercover FBI agent, played by Johnny D
 
 Somewhere in that murky middle, there’s this one conversation. Casual, funny, almost nonsensical on the surface. But packed with truth. It’s about a phrase — _Forget about it_. Seems dull enough, right? But the way they break it down makes you realise that language, love, logic; none of it is fixed. It’s all context.
 
-<div style="text-align: center;">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/pS6zJ7IsJkM?si=bGfnsj3DUh71AjSq&amp;start=25" 
-    title="YouTube video player" frameborder="0" 
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 560px; margin: 0 auto;">
+  <iframe 
+    src="https://www.youtube.com/embed/pS6zJ7IsJkM?si=bGfnsj3DUh71AjSq&amp;start=25" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+    frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-    referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+    allowfullscreen 
+    referrerpolicy="strict-origin-when-cross-origin"
+    title="YouTube video player">
   </iframe>
 </div>
 
 <hr class="dots">
 
-## Context Really _Is_ Everything
+## Context Really _Is_ Everything
 
 A single phrase — _Forget about it_ — explained with so many meanings. Agreement. Disagreement. Praise. Dismissal. Indifference. It means everything by meaning nothing on its own (if that make sense?).
 
