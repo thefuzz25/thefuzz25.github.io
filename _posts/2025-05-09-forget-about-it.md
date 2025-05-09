@@ -33,7 +33,7 @@ Somewhere in that murky middle, there’s this one conversation. Casual, funny, 
 <hr class="dots">
 ## Context Really _Is_ Everything
 
-A single phrase,_Forget about it_, explained with so many meanings. Agreement. Disagreement. Praise. Dismissal. Indifference. It means everything by meaning nothing on its own (if that make sense?).
+A single phrase, explained with so many meanings. Agreement. Disagreement. Praise. Dismissal. Indifference. It means everything by meaning nothing on its own (if that make sense?).
 
 That’s kind of how life works too. Because really, most things don’t come with clear labels 🏷️. No moment or feeling stands completely on its own. It’s _always_ about the context — on the situation, on the timing, on who’s involved.
 
@@ -48,5 +48,5 @@ Context changes how we feel about the exact same scenario.
 
 ## And Sometimes, It _Is_ the Only Thing
 
-This phrase isn’t just about brushing things off. It’s a reminder that meaning is slippery.  Life’s a conversation full of timing, inflection, and interruptions. So the next time it throws something right at you — good or bad; just smile, shake your head, and say… 
+Such phrases aren’t just about brushing things off. They're a reminder that meaning is slippery.  Life’s a conversation full of timing, inflection, and interruptions. So the next time it throws something right at you — good or bad; just smile, shake your head, and say… 
 > _"eh, Forget about it."_ 
