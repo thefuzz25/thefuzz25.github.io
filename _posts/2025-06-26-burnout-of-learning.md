@@ -21,6 +21,4 @@ And that shift — _that change in our intent_ — is what gets to me. We’re s
 > The itch to learn is still there.  
 > But the thirst? It's gone.
 
-<hr class="dots">
-
 Maybe knowledge was always a superpower. We just stopped looking for it the moment it all got too easy. And that has only made things more difficult.
