@@ -16,7 +16,7 @@ And I’m sitting there staring blankly at the screen 💻, thinking — do any 
 
 We’ve got access to everything. Video lectures, crash courses, cheat sheets. They're not even a Google away now. AI just hands it to you like, “Here, I got you.”
 
-And that shift — _that change in our intent_ — is what gets to me. We’re still curious, sure. Curiosity’s human. But we’re rushed. Rushed through learning, through living.
+And that shift — _that change in our intent_ — is what gets to me. We’re still curious, sure. Curiosity’s human. But we’re rushed; rushed through learning, through living.
 
 > The itch to learn is still there.  
 > But the thirst? It's gone.
