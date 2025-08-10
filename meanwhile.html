@@ -1,32 +1,47 @@
 ---
 layout: page
 title: "Meanwhile"
-permalink: /meanwhile.html
+permalink: /meanwhile/
+pagination:
+  enabled: true
+  collection: bits
+  sort_field: 'date'
+  sort_reverse: true
+  per_page: 20
+  permalink: '/meanwhile/page:num/'
+---
 
 <h1>Meanwhile</h1>
 
-<div>
-  Long, complex blog posts aren’t easy to write and honestly, not that easy to read either. Perfect vocabulary, a steady tone, and the right frame of mind are rare; in college, even more so. I just watched _The Social Network_, and now Imma start a live journal. No reason. Just felt like it.
+{% if paginator.page == 1 %}
+<div class="intro">
+  Long, complex blog posts aren’t easy to write—and honestly, not that easy to read either. Perfect vocabulary, a steady tone, and the right frame of mind are rare; in college, even more so. I just watched <em>The Social Network</em>, and now Imma start a live journal. No reason. Just felt like it.
 </div>
-
 <hr class="dots">
+{% endif %}
 
 <div class="bits">
-  {% for bit in site.bits limit:10 %}
+  {% for bit in paginator.posts %}
     <article class="bit">
-
-      <h2><a href="{{ site.baseurl }}{{ bit.url }}">{{ bit.title }}</a></h2>
-
-      <div class="entry">
-        {{ bit.content | strip_html | truncatewords: 50 }}
-      </div>
-
-      <br>
-
       <div class="date">
-        {{ bit.date | date: "%b %e, %Y " }}
+        {{ bit.date | date: "%Y-%m-%d" }} — {{ bit.date | date: "%H:%M" }}
+      </div>
+      <div class="entry">
+        {{ bit.content | markdownify }}
       </div>
     </article>
+    {% unless forloop.last %}
+      <hr class="dots">
+    {% endunless %}
   {% endfor %}
 </div>
-<hr class="dots">
+
+<!-- Pagination navigation -->
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="prev">← Newer</a>
+  {% endif %}
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">Older →</a>
+  {% endif %}
+</div>
