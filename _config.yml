@@ -84,3 +84,19 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+plugins:
+  - jekyll-paginate-v2
+
+collections:
+  bits:
+    output: false
+
+pagination:
+  enabled: true
+  collection: bits
+  sort_field: 'date'
+  sort_reverse: true
+  per_page: 20
+  permalink: '/meanwhile/page:num/'
+
