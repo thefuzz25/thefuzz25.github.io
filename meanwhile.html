@@ -2,26 +2,19 @@
 layout: page
 title: "Meanwhile"
 permalink: /meanwhile/
-pagination:
-  enabled: true
-  collection: bits
-  sort_field: 'date'
-  sort_reverse: true
-  per_page: 20
-  permalink: '/meanwhile/page:num/'
 ---
 
 <h1>Meanwhile</h1>
 
-{% if paginator.page == 1 %}
-<div class="intro">
+<div>
   Long, complex blog posts aren’t easy to write—and honestly, not that easy to read either. Perfect vocabulary, a steady tone, and the right frame of mind are rare; in college, even more so. I just watched <em>The Social Network</em>, and now Imma start a live journal. No reason. Just felt like it.
 </div>
+
 <hr class="dots">
-{% endif %}
 
 <div class="bits">
-  {% for bit in paginator.posts %}
+  {% assign sorted_bits = site.bits | sort: "date" | reverse %}
+  {% for bit in sorted_bits %}
     <article class="bit">
       <div class="date">
         {{ bit.date | date: "%Y-%m-%d" }} — {{ bit.date | date: "%H:%M" }}
@@ -34,14 +27,4 @@ pagination:
       <hr class="dots">
     {% endunless %}
   {% endfor %}
-</div>
-
-<!-- Pagination navigation -->
-<div class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="prev">← Newer</a>
-  {% endif %}
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">Older →</a>
-  {% endif %}
 </div>
