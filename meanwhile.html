@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+<h1>Meanwhile</h1>
+
+<p>
+  Long, complex blog posts aren’t easy to write and honestly, not that easy to read either. Perfect vocabulary, a steady tone, and the right frame of mind are rare; in college, even more so. I just watched _The Social Network_, and now Imma start a live journal. No reason. Just felt like it.
+</p>
+
+<hr class="dots">
+
+<div class="bits">
+  {% for bit in site.bits limit:10 %}
+    <article class="bit">
+
+      <h2><a href="{{ site.baseurl }}{{ bit.url }}">{{ bit.title }}</a></h2>
+
+      <div class="entry">
+        {{ bit.content | strip_html | truncatewords: 50 }}
+      </div>
+
+      <br>
+
+      <div class="date">
+        {{ bit.date | date: "%b %e, %Y " }}
+      </div>
+    </article>
+  {% endfor %}
+</div>
+<hr class="dots">
