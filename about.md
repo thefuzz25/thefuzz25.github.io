@@ -19,3 +19,6 @@ As the son of an Olive Green, he’s grown up with wheels on his feet and a home
 ☎️ Tel:  [738-629-5387](tel:7386295387)
 
 <hr class="dots">
+
+_^I write [here]({{ site.baseurl }}/blog/). And sometimes, I write [over there]({{ site.baseurl }}/meanwhile/) when I don’t feel like making sense._
+
