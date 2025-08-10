@@ -11,6 +11,10 @@ description: I write (amongst other things).
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/thefuzz25/thefuzz25.github.io/master/images/jekyll-logo.png
 
+collections:
+  bits:
+    output: false
+
 #
 # Flags below are optional
 #
@@ -84,7 +88,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-
-collections:
-  bits:
-    output: false
