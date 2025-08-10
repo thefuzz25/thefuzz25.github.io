@@ -14,7 +14,7 @@ permalink: /meanwhile/
   {% for bit in sorted_bits %}
     <article class="bit">
       <div class="date"><h4>
-        {{ bit.date | date: "%Y-%m-%d" }} | {{ bit.date | date: "%H:%M" }}</h4>
+        {{ bit.date | date: "%a, %d %b %Y — %H:%M" }}</h4>
       </div>
       <div class="entry">
         {{ bit.content | markdownify }}
