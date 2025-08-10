@@ -359,6 +359,16 @@ nav {
 // .main
 //
 
+.bits > .bit {
+  padding-bottom: 2em;
+  border-bottom: 1px solid var(--bdr-clr);
+}
+
+.bits > .bit:last-child {
+  padding-bottom: 1em;
+  border-bottom: none;
+}
+
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid var(--bdr-clr);
