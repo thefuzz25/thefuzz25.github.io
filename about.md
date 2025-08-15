@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Faiz Zaidi is a sophomore at IIT Kharagpur, majoring in Manufacturing Science and Engineering (which sounds *cooler* if you don’t ask too many follow-up questions). He enjoys sketching and writing — the first shows up on his Instagram, the second, hopefully, here 🤞🏻.
+Faiz Zaidi is an undergrad at IIT Kharagpur, majoring in Manufacturing Science and Engineering (which sounds *cooler* if you don’t ask too many follow-up questions). He enjoys sketching and writing — the first shows up on his Instagram, the second, hopefully, here 🤞🏻.
 
-As the son of an Olive Green, he’s grown up with wheels on his feet and a home that's always on the move. Over the years, he’s collected more school IDs than friends he’s still in touch with — but in the process, has also mastered the art of packing and small talk. 🙃
+As the son of an Olive Green, he’s grown up with wheels on his feet and a home that's always on the move. Over the years, he’s collected more school IDs than friends he’s still in touch with — but in the process, has also mastered the art of packing and small talk. 
 
 **Trivia**: When it rains, you'll likely find him indoors by a window, coffee in hand ☕️. Not out prancing in the downpour, but appreciating it just the same.
 
