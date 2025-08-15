@@ -66,6 +66,13 @@ blockquote {
   margin-bottom: 1rem;
 }
 
+.bits blockquote {
+  padding-left: 1em;
+  border-left: 3px solid #ccc;
+  margin: 1em 0;
+  font-style: italic;
+}
+
 .quote{
   font-size: 18px;
   color: var(--green-clr);
