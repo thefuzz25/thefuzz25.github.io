@@ -76,6 +76,26 @@ blockquote {
   color: var(--dreen-clr);
 }
 
+blockquote {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border-left-color: var(--dreen-clr);
+  color: var(--dreen-clr);
+}
+
+.bits blockquote {
+  padding-left: 1em;
+  border-left: 3px solid #ccc;
+  margin: 1em 0;
+  font-style: italic;
+}
+
+.post blockquote,
+.post blockquote p{
+	border-left-color: 2px solid var(--dreen-clr);
+	color: var(--dreen-clr);
+}
+
 .quote{
   font-size: 18px;
   color: var(--green-clr);
