@@ -76,6 +76,15 @@ blockquote {
   color: var(--dreen-clr);
 }
 
+.post blockquote {
+	margin: 1.8em .8em;
+	border-left: 2px solid var(--dreen-clr);
+	padding: 0.1em 1em;
+	color: var(--dreen-clr);
+	font-size: 22px;
+	font-style: italic;
+}
+
 .quote{
   font-size: 18px;
   color: var(--green-clr);
