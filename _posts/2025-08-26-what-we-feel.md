@@ -3,13 +3,13 @@ layout: post
 title: 💐 The Surprise of What We Feel
 ---
 
-My sister started college this week. I wasn’t the one packing bags or walking into a new campus, but somehow, my stomach felt a little knotted. It was almost like stage fright — which was strange, because the milestone wasn't even mine. It left me wondering: Why was I nervous? Was it protectiveness? Was it pride? Or was it just watching her begin and realizing that beginnings always meant change for everyone.[^1]
+My sister started college this week. I wasn’t the one packing bags or walking into a new campus, but somehow, my stomach felt a little knotted. It was almost like stage fright — which was strange, because the milestone wasn't even mine. It left me wondering: Why was I nervous? Was it protectiveness? Was it pride? Or was it just watching her begin and realizing that beginnings always meant change for everyone.<sup>[^1]</sup>
+
+<hr class="dots">
 
 ## Why though?
 
-> A flutter of nervousness — like butterflies, but not quite.
-
-<hr class="dots">
+> A flutter of nervousness — like butterflies, but not quite. The feeling came from elsewhere but echoed quietly within.
 
 ## Because, Family.
 
