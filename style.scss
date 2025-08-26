@@ -66,38 +66,13 @@ h1, h2, h3, h4, h5, h6 {
 blockquote {
   margin-top: 1rem;
   margin-bottom: 1rem;
-  margin: 1.8em .8em;
-  border-left: 2px solid var(--dreen-clr);
-  padding: 0.1em 1em;
+  border-left-color: var(--dreen-clr);
   color: var(--dreen-clr);
-  font-size: 22px;
-  font-style: italic;
-}
-
-.bits blockquote {
-  padding-left: 1em;
-  border-left: 3px solid var(--dreen-clr);
-  margin: 1em 0;
-  font-style: italic;
-  color: var(--dreen-clr);
-}
-
-.post blockquote,
-.post blockquote p{
-	margin: 1.8em .8em;
-	border-left: 2px solid var(--dreen-clr);
-	padding: 0.1em 1em;
-	color: var(--dreen-clr);
-	font-size: 22px;
-	font-style: italic;
 }
 
 .quote{
   font-size: 18px;
   color: var(--green-clr);
-  /*padding-left: 2rem;
-  border-left: 4px solid;
-  margin-bottom: 2rem;*/
 }
 
 h1 {
