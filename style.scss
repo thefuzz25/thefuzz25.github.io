@@ -13,6 +13,7 @@
   --title-clr: #f2f2f2;
   --light-clr: #fff;
   --green-clr: #AAE6DD;
+  --dreen-clr: #9BBFBA;
   --grey-clr: #E1E7DD;
   --dark-clr: #2e2e2e;
   --bdr-clr: #808080;
@@ -69,9 +70,10 @@ blockquote {
 
 .bits blockquote {
   padding-left: 1em;
-  border-left: 3px solid #ccc;
+  border-left: 3px solid var(--dreen-clr);
   margin: 1em 0;
   font-style: italic;
+  color: var(--dreen-clr);
 }
 
 .quote{
