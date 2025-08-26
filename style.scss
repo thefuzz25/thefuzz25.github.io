@@ -157,6 +157,59 @@ img {
   font-size: 12px;
 }
 
+/* Footnote reference (the little number in text) */
+sup.footnote-ref {
+  font-size: 0.75em;
+  vertical-align: super;
+  line-height: 1;
+  margin-left: 2px;
+}
+
+sup.footnote-ref a {
+  text-decoration: none;
+  color: #888; /* muted color */
+  cursor: pointer;
+}
+
+sup.footnote-ref a:hover {
+  color: #333; /* darken on hover */
+}
+
+/* Footnote section at the bottom */
+.footnotes {
+  border-top: 1px solid #ddd;
+  margin-top: 2rem;
+  padding-top: 1rem;
+  font-size: 0.9em;
+  color: #555;
+}
+
+.footnotes ol {
+  padding-left: 1.2rem;
+  margin: 0;
+}
+
+.footnotes li {
+  margin-bottom: 0.5rem;
+}
+
+.footnotes li p {
+  display: inline;
+}
+
+/* Backlink (↩︎ or ↑ usually generated) */
+.footnotes a.footnote-backref {
+  text-decoration: none;
+  font-size: 0.8em;
+  margin-left: 4px;
+  color: #aaa;
+}
+
+.footnotes a.footnote-backref:hover {
+  color: #333;
+}
+
+
 /*.ian{
   height: 8.5rem;
   border: 1px solid var(--bdr-clr);
