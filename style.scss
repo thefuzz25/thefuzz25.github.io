@@ -66,6 +66,12 @@ h1, h2, h3, h4, h5, h6 {
 blockquote {
   margin-top: 1rem;
   margin-bottom: 1rem;
+  margin: 1.8em .8em;
+  border-left: 2px solid var(--dreen-clr);
+  padding: 0.1em 1em;
+  color: var(--dreen-clr);
+  font-size: 22px;
+  font-style: italic;
 }
 
 .bits blockquote {
@@ -190,11 +196,11 @@ sup.footnote-ref a:hover {
 
 /* Footnote section at the bottom */
 .footnotes {
-  border-top: 1px solid #ddd;
+  border-top: 1px solid #666;
   margin-top: 2rem;
   padding-top: 1rem;
   font-size: 0.9em;
-  color: #555;
+  color: #666;
 }
 
 .footnotes ol {
