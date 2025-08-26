@@ -76,7 +76,8 @@ blockquote {
   color: var(--dreen-clr);
 }
 
-.post blockquote {
+.post blockquote,
+.post blockquote p{
 	margin: 1.8em .8em;
 	border-left: 2px solid var(--dreen-clr);
 	padding: 0.1em 1em;
