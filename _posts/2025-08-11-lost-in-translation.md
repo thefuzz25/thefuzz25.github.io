@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 🍜� Lost In Translation
+title: 🍜 Lost In Translation
 ---
 
 > "A little fullness is better than perfect completeness" ~ a Chinese proverb, or so I was told. [^1]
