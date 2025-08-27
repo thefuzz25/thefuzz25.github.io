@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 📚 On the Quiet Burnout of Learning
-tags: [ThoughtDump]
+tags: [Thoughts]
 ---
 
 > Knowledge went from a necessity to a superpower real quick. 🦸🏻
