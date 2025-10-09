@@ -38,7 +38,7 @@ For the 'now', we could work with a woman on the last metro back from the office
 #### 9:31 pm
 [Stomach growls] I'm hungry.
 #### 9:46 pm
-How do jellyfish see? [Slap] Sorry. Back to it. Uhh, where were we? This 'thinking out loud experiment' has really scattered my train of thought. Let's start again.
+How do jellyfish see? [Slap] Sorry. Back to it. Uhh, where were we? This _'thinking out loud experiment'_ has really scattered my train of thought. Let's start again.
 #### 9:50 pm
 **Step 1: The Structure**
 
@@ -80,7 +80,7 @@ After a lot of internal debate (it was 2 minutes tops), this is what I'm going w
 Later that day, the girl is setting dinner for herself and catches herself humming the song. She smiles wistfully.
 
 #### 10:22 pm
-Wow, over 1200 words that ~~you had~~ my fingers had to endure. My esteemed readers, I will not torture you with the writing and iterations of the actual poem. But since the thinking was, well, *thoroughly thought-out*, it actually didn’t take very long. [Drumroll] Here’s what rose out of this experiment. Enjoy.
+Wow, over 1200 words that ~~you had~~ my fingers had to endure. My esteemed readers, I will not torture you with the writing and iterations of the actual poem. But since the thinking was, well, *thoroughly thought-out*, it actually didn’t take very long. [Drumroll] Here’s what rose out of this experiment. [^1] Enjoy.
 
 <hr class="dots">
 
@@ -105,3 +105,5 @@ Wow, over 1200 words that ~~you had~~ my fingers had to endure. My esteemed read
 > the tune slipping softly from her lips.   
 > A silly little song —    
 > foolish, human, and hers wholly.
+
+[^1]: Another thing that rose out of this so-called experiment — and arguably the more important one — was acknowledging the effort and planning that all artists pour into their work. It is more often than not the process that we hold dear and not the finished piece itself.
