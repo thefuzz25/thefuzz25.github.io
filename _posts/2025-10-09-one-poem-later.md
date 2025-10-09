@@ -48,6 +48,7 @@ I have no formal poetry know-how, so I'll just do what feels right purely on the
 - a stop-and-start 5-2-5-2, or
 - a built-up 3-3-3-5, or
 - a fragmented 2-3-2-3-5 or 2-4-1-4
+
 Leaning towards the third option for now.
 #### 9:58 pm
 **Step 2: The Phases**
@@ -57,11 +58,15 @@ Leaning towards the third option for now.
 - the almost moment
 - second act / the foolishness
 - the reflection
+
+
 #### 10:00 pm
 **Step 3: The Characters**
 
 - the boy — hesitant, wannabe cool, ends up sincere
 - the girl — pretty, wannabe sophisticated, ends up wistful
+
+
 This is how they look in my head. [Snaps fingers] They vaguely remind me of that _Don’t Stop Believin’_ intro — go listen to it, good song.
 
 **Step 4: The Setting**
