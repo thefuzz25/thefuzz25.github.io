@@ -106,4 +106,4 @@ Wow, over 1200 words that ~~you had~~ my fingers had to endure. My esteemed read
 > A silly little song —    
 > foolish, human, and hers wholly.
 
-[^1]: Another thing that rose out of this so-called experiment — and arguably the more important one — was acknowledging the effort and planning that all artists pour into their work. It is more often than not the process that we hold dear and not the finished piece itself.
+[^1]: Another thing that rose out of this so-called experiment — and arguably the more important one — was acknowledging the unseen hours, the effort and the planning that all artists pour into their finished work. It’s the process we fall in love with, far more than the piece itself. 
