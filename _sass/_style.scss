@@ -23,6 +23,10 @@ body {
   }
 }
 
+.baseurl {
+  float: left;
+}
+
 nav{
   float: right;
   color: mix($color-text, white, 80%);
