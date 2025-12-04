@@ -1,4 +1,8 @@
---- title: my new digital library ---
+--- 
+
+title: my new digital library 
+
+---
 
 Make a notes of something, [[create a link]], or try [the Importer](https://help.obsidian.md/Plugins/Importer)!
 
