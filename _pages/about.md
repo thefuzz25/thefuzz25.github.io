@@ -9,9 +9,9 @@ I’m Faiz. Depending on when and how you met me, I’m either a student, an art
 
 - **Writing**
 - **Projects**
-	- [In a Nutshell]([[ian]])
+	- [In a Nutshell](ian)
     - Deep Dives
-	- [Live Journal]([[livejournal]])
+	- [Live Journal](livejournal)
 - **Bookshelf**
 
 ## Meanwhile
