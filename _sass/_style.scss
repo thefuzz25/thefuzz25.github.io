@@ -23,6 +23,16 @@ body {
   }
 }
 
+nav.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav-links a {
+  margin-left: 1rem; /* spacing between nav items */
+}
+
 time {
   display: block;
   color: $color-subtext;
