@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about
 ---
-# About me
+## About me
 
 I’m Faiz. Depending on when and how you met me, I’m either a student, an artist, or an athlete. A few places to start:
 
@@ -26,4 +26,6 @@ You can reach out to me at:
 
 This site is written and edited in Obsidian, then compiled with Jekyll and served through GitHub Pages.
 
-This workflow takes inspiration from [Stephan](https://stephango.com/vault) while the design uses the Vesper palette and a template by [Max](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll), which I’m shaping as I go.
+This workflow takes inspiration from [Steph](https://stephango.com/vault) while the design uses the Vesper palette and a template by [Max](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll), which I’m shaping as I go.
+
+---
