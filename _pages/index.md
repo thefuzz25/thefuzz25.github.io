@@ -11,15 +11,20 @@ permalink: /
 </p>
 #### Latest
 {% assign recent_notes = site.notes | sort: "date" | reverse %}
-  {% for note in recent_notes limit: 1%}
-      <h4>
-      <a class="internal-link" href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}</a>
-      </h4>
-{{ note.date | date: "%B %d, %Y" }}
-      <div class="entry">
-        {{ post.content | strip_html | truncatewords: 12 }}
-      </div>
-  {% endfor %}
+{% assign note = recent_notes.first %}
+<h4>
+  <a class="internal-link" href="{{ site.baseurl }}{{ note.url }}">
+    {{ note.title }}
+  </a>
+</h4>
+
+<p class="note-date">
+  {{ note.date | date: "%B %d, %Y" }}
+</p>
+
+<div class="entry">
+  {{ note.content | strip_html | truncatewords: 12 }}
+</div>
 
 ####  Recent
 
@@ -27,7 +32,7 @@ permalink: /
   {% assign recent_notes = site.notes | sort: "date" | reverse %}
   {% for note in recent_notes limit: 20 %}
     <li>
-      {{ note.date | date: "%Y-%m-%d" }} — 
+      {{ note.date | date: "%Y·%m" }}   
       <a class="internal-link" href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}</a>
     </li>
   {% endfor %}
