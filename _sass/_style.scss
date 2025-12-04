@@ -23,6 +23,11 @@ body {
   }
 }
 
+nav{
+  float: right;
+  color: mix($color-text, white, 80%);
+}
+
 time {
   display: block;
   color: $color-subtext;
