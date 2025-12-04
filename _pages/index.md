@@ -12,19 +12,19 @@ permalink: /
 #### Latest
 {% assign recent_notes = site.notes | sort: "date" | reverse %}
 {% assign note = recent_notes.first %}
-<h4>
-  <a class="internal-link" href="{{ site.baseurl }}{{ note.url }}">
-    {{ note.title }}
-  </a>
-</h4>
-
-<p class="note-date">
-  {{ note.date | date: "%B %d, %Y" }}
-</p>
-
-<div class="entry">
-  {{ note.content | strip_html | truncatewords: 12 }}
-</div>
+<a class="internal-link" href="{{ site.baseurl }}{{ note.url }}">
+	<h3>
+	    {{ note.title }}
+	</h3>
+	
+	<p class="note-date">
+	  {{ note.date | date: "%B %d, %Y" }}
+	</p>
+	
+	<div class="entry">
+	  {{ note.content | strip_html | truncatewords: 25 }}
+	</div>
+</a>
 
 ####  Recent
 
