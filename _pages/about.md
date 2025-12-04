@@ -20,7 +20,7 @@ You can reach out to me at:
 
 - **Mail:** [sfrzaidi25@gmail.com](mailto:sfrzaidi25@gmail.com)
 - **Tel:** [+91 73862 95387](tel:7386395397)
-- **Instagram:** @thefuzz25
+- **Instagram:** [@thefuzz_25](https://www.instagram.com/thefuzz_25/#)
 
 ## Colophon
 
