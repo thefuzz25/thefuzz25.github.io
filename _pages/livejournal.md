@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Meanwhile
-permalink: /meanwhile
+title: Live Journal
+permalink: /livejournal
 ---
-# Meanwhile
+# Live Journal
 
 Big words, the right mood and some semblance of sanity are rare; in college, even more so. Just watched _The Social Network_, and now I'm starting a live journal. No reason. Just felt like it.
 
@@ -42,7 +42,6 @@ This is what each one of my several hospital visits have looked like:
 > Doctor: That you are.
 
 And that’s that.
-
 #### Sat, 27 Sep 2025 — 21:09
 
 Travel is a b**** . Although the thought of going back home does take away some exhaustion from it.
@@ -60,9 +59,7 @@ Yes, yes, some of you will say that exams shouldn’t be feared. But that isn’
 > So, so you think you can tell  
 > Heaven from Hell? Blue skies from pain?  
 > Can you tell a green field from a cold steel rail?  
-> A smile from a veil? Do you think you can tell?
-
-~ _Pink Floyd_
+> A smile from a veil? Do you think you can tell? ~ _Pink Floyd_
 
 #### Thu, 11 Sep 2025 — 00:20
 
