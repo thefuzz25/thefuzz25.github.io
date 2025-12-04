@@ -107,5 +107,3 @@ Wow, over 1200 words that ~~you had~~ my fingers had to endure. My esteemed read
 ---
 
 [^1]: Another thing that rose out of this so-called experiment — and arguably the more important one — was acknowledging the unseen hours, the effort and the planning that all artists pour into their finished work. It’s the process we fall in love with, far more than the piece itself. 
-
----
