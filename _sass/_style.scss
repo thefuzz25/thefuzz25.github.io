@@ -23,13 +23,14 @@ body {
   }
 }
 
-.baseurl {
-  float: left;
+nav.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
-nav{
-  float: right;
-  color: mix($color-text, white, 80%);
+.nav-links a {
+  margin-left: 1rem; /* spacing between nav items */
 }
 
 time {
