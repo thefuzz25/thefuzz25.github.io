@@ -9,7 +9,7 @@ My (wise) reflections on what was and my takes on what's to come. Spoiler: humou
 
 #### Latest
 
-{% include latest-card.html from="" %}
+{% include latest-card.html filter="ian" %}
 ####  Recent
 <ul class="no-bullets">
   {% assign recent_notes = site.notes | sort: "date" | reverse %}
