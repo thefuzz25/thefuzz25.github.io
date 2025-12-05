@@ -12,7 +12,7 @@ Someone rightly said;
 
 “Expectations are the thief of joy.”
 
-And owning to this very fact, we all must have had a pretty good time, as expectations were probably an all time low [[2020, in a Nutshell|after 2020]]. And as a treat, the year started off, with the impeachment of Donald Trump from the White House (more on that later…) before we had the Olympics and the IPL to consume ourselves with; ending on quite a bittersweet note, with the Omicron on our hands.
+And owning to this very fact, we all must have had a pretty good time, as expectations were probably an all time low after 2020. And as a treat, the year started off, with the impeachment of Donald Trump from the White House (more on that later…) before we had the Olympics and the IPL to consume ourselves with; ending on quite a bittersweet note, with the Omicron on our hands.
 
 In this chronicle, you have got a lot to look up for, as I present to you my highlights of the stellar year 2021!
 

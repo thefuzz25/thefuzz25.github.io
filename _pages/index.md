@@ -8,12 +8,4 @@ permalink: /
 
 {% include latest-card.html %}
 ####  Recent
-<ul class="no-bullets">
-  {% assign recent_notes = site.notes | sort: "date" | reverse %}
-  {% for note in recent_notes limit: 20 %}
-	  <li>
-      {{ note.date | date: "%Y · %m" }} &nbsp;&nbsp;
-      <a class="internal-link" href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}</a>
-      </li>
-  {% endfor %}
-</ul>
+{% include recent-notes.html type="note" group_by_year=true %}

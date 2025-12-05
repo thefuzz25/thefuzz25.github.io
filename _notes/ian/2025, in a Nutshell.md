@@ -7,8 +7,6 @@ type: ian
 ---
 ### Preface
 
-
-
 ---
 ### Chapters
 ---

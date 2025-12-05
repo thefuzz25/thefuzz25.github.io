@@ -11,12 +11,4 @@ My (wise) reflections on what was and my takes on what's to come. Spoiler: humou
 
 {% include latest-card.html filter="ian" %}
 ####  Recent
-<ul class="no-bullets">
-  {% assign recent_notes = site.notes | sort: "date" | reverse %}
-  {% for note in recent_notes limit: 20 %}
-	  <li>
-      {{ note.date | date: "%Y · %m" }} &nbsp;&nbsp;
-      <a class="internal-link" href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}</a>
-      </li>
-  {% endfor %}
-</ul>
+{% include recent-notes.html type="ian" %}

@@ -12,7 +12,7 @@ Everything feels new, unbelievable, overwhelming. At the same time, it feels as 
 
 We all experienced loads of ‘Long time no see!’  greetings this year. Not to mention the awkward hugs; the cubicle-to-cubicle chatter; and those perplexing, horrible introductions to the friends of your friends. 
 
-In the beginning, there was some concern that 2022 would scrimp on the number of shocks and outrages it’d provide us, coming as it did on the heels of a [[2021, in a Nutshell|pretty awesome 2021]].  But we needn’t have worried… 
+In the beginning, there was some concern that 2022 would scrimp on the number of shocks and outrages it’d provide us, coming as it did on the heels of a pretty awesome 2021.  But we needn’t have worried… 
 
 In this chronicle, let’s revisit and review the highlights of the tumultuous year 2022!
 
