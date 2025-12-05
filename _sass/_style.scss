@@ -40,7 +40,7 @@ time {
 }
 
 footer {
-  margin: 2em 0;
+  margin: 0;
   font-size: 0.8em;
   color: mix($color-text, white, 80%);
   padding-top: 1em;
@@ -190,7 +190,7 @@ nav {
 }
 
 .footnotes {
-  font-size: 0.8em;
+  font-size: 0.8em !important;
 }
 
 .backlink-box {
