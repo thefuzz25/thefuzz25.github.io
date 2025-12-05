@@ -1,59 +1,51 @@
 {% comment %}
-Include usage:
+USAGE:
+{% include notes-list.html type="journal" limit="20" group_by_year=true %}
 
-Default flat list:
-  {% include recent-notes.html from="notes" limit=20 %}
-
-Grouped by year:
-  {% include recent-notes.html from="notes" limit=20 group_by_year=true %}
-
-For journal:
-  {% include recent-notes.html from="journal" group_by_year=true %}
+Parameters:
+- type: filter notes by front matter key "type"
+- limit: optional number of notes
+- group_by_year: true/false
 {% endcomment %}
 
-{% assign collection_name = include.from | default: "notes" %}
-{% assign limit_count = include.limit | default: 20 %}
-{% assign group_years = include.group_by_year | default: false %}
+{% assign notes_all = site.notes | where: "type", include.type | sort: "date" | reverse %}
 
-{% assign items = site[collection_name] | sort: "date" | reverse %}
-
-{% if group_years %}
-
-  {%- assign current_year = "" -%}
-  <ul class="no-bullets">
-    {% for note in items limit: limit_count %}
-      {% assign year = note.date | date: "%Y" %}
-
-      {% if year != current_year %}
-        {% if current_year != "" %}
-          </ul>
-        {% endif %}
-        <h3>{{ year }}</h3>
-        <ul class="no-bullets">
-        {% assign current_year = year %}
-      {% endif %}
-
-      <li>
-        {{ note.date | date: "%m · %d" }} &nbsp;&nbsp;
-        <a class="internal-link" href="{{ site.baseurl }}{{ note.url }}">
-          {{ note.title }}
-        </a>
-      </li>
-
-    {% endfor %}
-  </ul>
-
+{% if include.limit %}
+  {% assign notes = notes_all | slice: 0, include.limit %}
 {% else %}
-
-  <ul class="no-bullets">
-    {% for note in items limit: limit_count %}
-      <li>
-        {{ note.date | date: "%Y · %m" }} &nbsp;&nbsp;
-        <a class="internal-link" href="{{ site.baseurl }}{{ note.url }}">
-          {{ note.title }}
-        </a>
-      </li>
-    {% endfor %}
-  </ul>
-
+  {% assign notes = notes_all %}
 {% endif %}
+
+<ul class="no-bullets">
+
+{% if include.group_by_year %}
+  {% assign current_year = "" %}
+  {% for note in notes %}
+    {% assign note_year = note.date | date: "%Y" %}
+
+    {% if note_year != current_year %}
+      {% unless forloop.first %}</ul>{% endunless %}
+      <h3 class="year-heading">{{ note_year }}</h3>
+      <ul class="no-bullets">
+      {% assign current_year = note_year %}
+    {% endif %}
+
+    <li>
+      {{ note.date | date: "%B %-d" }} &nbsp;&nbsp;
+      <a class="internal-link" href="{{ site.baseurl }}{{ note.url }}">
+        {{ note.title }}
+      </a>
+    </li>
+  {% endfor %}
+{% else %}
+  {% for note in notes %}
+    <li>
+      {{ note.date | date: "%Y · %m" }} &nbsp;&nbsp;
+      <a class="internal-link" href="{{ site.baseurl }}{{ note.url }}">
+        {{ note.title }}
+      </a>
+    </li>
+  {% endfor %}
+{% endif %}
+
+</ul>
