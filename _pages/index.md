@@ -27,7 +27,7 @@ permalink: /
 {% assign recent_notes = site.notes | sort: "date" | reverse %}
 {% assign note = recent_notes.first %}
 
-<a href="{{ site.baseurl }}{{ note.url }}" class="card-link">
+<a href="{{ site.baseurl }}{{ note.url }}" class="card-link" markdown="0">
   <h3>{{ note.title }}</h3>
   <p class="note-date">
     {{ note.date | date: "%B %d, %Y" }}
