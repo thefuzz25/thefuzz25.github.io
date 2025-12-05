@@ -8,7 +8,7 @@ type: ian
 ---
 ### Preface
 
-As we embark on the retrospective journey of 2023, it's a mix of familiarity and novelty that greets us. There were aspects that we hoped would change [[2022, in a Nutshell|in the last year]] and that we hoped wouldn't. Yet, much like flipping through the pages of an Agatha Christie novel, we experienced a mix of recognition and surprise as the year unfolded, delivering unexpected twists at every turn.
+As we embark on the retrospective journey of 2023, it's a mix of familiarity and novelty that greets us. There were aspects that we hoped would change [[2022, in a Nutshell\|in the last year]] and that we hoped wouldn't. Yet, much like flipping through the pages of an Agatha Christie novel, we experienced a mix of recognition and surprise as the year unfolded, delivering unexpected twists at every turn.
 
 And so without any more delay, let's dive straight into the review of the not-so-peaceful 2023!
 
