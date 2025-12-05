@@ -78,6 +78,14 @@ img {
   }
 }
 
+.no-bullets {
+  @media (min-width: 800px) {
+    list-style: none;
+    padding-left: 0;
+    margin-left: 0;
+  }
+}
+
 blockquote {
   padding: 1.5em;
   margin: 0;
