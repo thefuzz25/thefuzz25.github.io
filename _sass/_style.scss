@@ -79,7 +79,7 @@ img {
 }
 
 .no-bullets {
-  @media (min-width: 800px) {
+  @media (max-width: 800px) {
     list-style: none;
     padding-left: 0;
     margin-left: 0;
