@@ -1,5 +1,6 @@
 ---
 title: 1200 Words and One Poem Later
-date: 2025-10-09
+date: 2025-05-09
+folder: ian
 ---
 wassup
