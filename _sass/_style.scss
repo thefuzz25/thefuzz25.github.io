@@ -138,7 +138,8 @@ a {
   &.internal-link:after,
   &.footnote:after,
   &.reversefootnote:after, 
-  &.avatar-link:after {
+  &.avatar-link:after,
+  &.card-link:after {
     content: "";
   }
   &.avatar-link {
