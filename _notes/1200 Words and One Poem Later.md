@@ -2,12 +2,12 @@
 title: 1200 Words and One Poem Later
 date: 2025-10-09
 ---
-## The Prelude
+### The Prelude
 I want to write a poem. Right now. I don't know why — it's just an impulse. So I will. And while I’m at it, why not experiment a little? In the next 1200 words, you get the rare privilege of peeking into my brain as I try and fail, gracefully, to sound poetic.
 
 <hr class="dots">
 
-## The Process
+### The Process
 #### 8:23 pm
 The topic: unknown. The reason: unknown. But I want to, and... no that's basically it. So let me capture live what I'm thinking as I (hopefully) churn out a melody which is (hopefully) reasonable and not a suffering for you all, my dear readers. [Chuckles] Wow, 'my dear readers' makes me sound as though I am a sixty-year-old grandpa, but anyhow. My initial thought was to write about love, but then remembered I'd have to make most of it up. Uh, what about despair? Too moody. About life? Too big. Moving on.
 #### 8:31 pm
@@ -82,7 +82,7 @@ Wow, over 1200 words that ~~you had~~ my fingers had to endure. My esteemed read
 
 <hr class="dots">
 
-## The Poem
+### The Poem
 
 > Half-empty seats hum with fatigue,  
 > lights flicker softly, half-asleep. 

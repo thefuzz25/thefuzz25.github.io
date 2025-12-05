@@ -5,20 +5,6 @@ id: home
 permalink: /
 ---
 #### Latest
-{% assign recent_notes = site.notes | sort: "date" | reverse %}
-{% assign note = recent_notes.first %}
-
-<div class="card-link">
-  <a href="{{ site.baseurl }}{{ note.url }}">
-    <h3>{{ note.title }}</h3>
-    <p class="note-date">
-      {{ note.date | date: "%B %d, %Y" }}
-    </p>
-    <div class="entry">
-      {{ note.content | strip_html | truncatewords: 40 }}
-    </div>
-  </a>
-</div>
 
 {% include latest-card.html %}
 ####  Recent
