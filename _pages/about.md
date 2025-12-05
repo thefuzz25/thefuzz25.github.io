@@ -9,9 +9,9 @@ I’m Faiz. Depending on when and how you met me, I’m either a student, an art
 
 - **Writing**
 - **Projects**
-	- [In a Nutshell](ian)
+	- [[ian|In a Nutshell]]
     - Deep Dives
-	- [Live Journal](livejournal)
+	- [[livejournal|Live Journal]]
 - **Bookshelf**
 
 ### Meanwhile
@@ -27,5 +27,3 @@ You can reach out to me at:
 This site is written and edited in Obsidian, then compiled with Jekyll and served through GitHub Pages.
 
 This workflow takes inspiration from [Steph](https://stephango.com/vault) while the design uses a template by [Max](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll), which I’m shaping as I go.
-
----

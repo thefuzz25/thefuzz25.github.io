@@ -1,6 +1,7 @@
 ---
 title: The Surprise of What We Feel
 date: 2025-08-27
+type: note
 ---
 Emotions sneak up in strange ways. My sister started college this week and while I wasn’t the one packing bags 🎒 or walking into a new campus, somehow, my stomach felt a little knotted. It was almost like stage fright — which was weird, because the milestone  wasn't even mine. It left me wondering: Why was I nervous? Was it protectiveness? Was it pride? Or was it just watching her begin and realizing that beginnings always meant change for everyone. [^1]
 ### Why though?

@@ -1,6 +1,7 @@
 ---
 title: New Year, New Me?
 date: 2025-01-12
+type: note
 ---
 New Year, New Me. We all have heard that someplace or the other. But it seldom works out. In most cases, it doesn't work out. And why I know that for a fact? Because we've all _tried_ the same philosophy at some point in our lives as well.
 

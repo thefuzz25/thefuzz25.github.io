@@ -1,6 +1,7 @@
 ---
 title: On the Quiet Burnout of Learning
 date: 2025-06-26
+type: note
 ---
 > Knowledge went from a necessity to a superpower real quick. 🦸🏻
 

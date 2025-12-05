@@ -1,6 +1,7 @@
 ---
 title: The Misty Cost of Late Nights
 date: 2025-04-12
+type: note
 ---
 > Never thought I’d trade dawns for midnights. And for a while, everything seemed fine.
 

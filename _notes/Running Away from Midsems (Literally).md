@@ -1,6 +1,7 @@
 ---
 title: Running Away from Midsems (Literally)
 date: 2025-02-26
+type: note
 ---
 ### What Actually Went Down
 

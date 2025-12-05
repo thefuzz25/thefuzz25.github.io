@@ -1,6 +1,7 @@
 ---
 title: When This is Over
 date: 2025-03-20
+type: note
 ---
 There’s this poem that I came across during the pandemic. I even used a part of it in my [2020, in a Nutshell](https://thefuzz25.github.io/ian). Penned by Laura Kelly Fanucci, its essence is still worth living by. Thought I'd share.
 
