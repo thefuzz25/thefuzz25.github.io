@@ -7,13 +7,21 @@ There’s this poem that I came across during the pandemic. I even used a part o
 ---
 
 > When this is over
+> 
 > May we never again
+> 
 > Take for granted
+> 
 > A handshake with a stranger
+> 
 > Conversations with the neighbors
+> 
 > Cutely annoying cousins 
+> 
 > The boring Tuesdays
+> 
 > A crowded theatre
+> 
 > And life itself
 
 <hr class="dots">
