@@ -31,4 +31,3 @@ permalink: /
       </li>
   {% endfor %}
 </ul>
----

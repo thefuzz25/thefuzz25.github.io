@@ -166,5 +166,3 @@ UPDATE: Perhaps, a buzz cut wasn’t the best way to vent it out. But whatever m
 Feeling awfully tired this week; I guess the prolonged travel from St. Pete got to me. The amount of work I have got piled up is beyond obscene. And then there are the labs to compensate as well. My my…
 
 Ok maybe I just need a therapeutic outlet to vent it out. HAIRCUT TIME!
-
----
