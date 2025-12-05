@@ -37,6 +37,7 @@ permalink: /
   </div>
 </a>
 
+
 ####  Recent
 <ul class="no-bullets">
   {% assign recent_notes = site.notes | sort: "date" | reverse %}
