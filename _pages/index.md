@@ -26,19 +26,17 @@ permalink: /
 </p>
 {% assign recent_notes = site.notes | sort: "date" | reverse %}
 {% assign note = recent_notes.first %}
-<a href="{{ site.baseurl }}{{ note.url }}" class="card-link">
 
-	<h3>{{ note.title }}</h3>
-	
-	<p class="note-date">
-	  {{ note.date | date: "%B %d, %Y" }}
-	</p>
-	
-	<div class="entry">
-	  {{ note.content | strip_html | truncatewords: 25 }}
-	</div>
-	
+<a href="{{ site.baseurl }}{{ note.url }}" class="card-link">
+  <h3>{{ note.title }}</h3>
+  <p class="note-date">
+    {{ note.date | date: "%B %d, %Y" }}
+  </p>
+  <div class="entry">
+    {{ note.content | strip_html | truncatewords: 25 }}
+  </div>
 </a>
+
 ####  Recent
 <ul class="no-bullets">
   {% assign recent_notes = site.notes | sort: "date" | reverse %}
