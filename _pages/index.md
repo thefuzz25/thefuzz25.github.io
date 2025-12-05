@@ -15,7 +15,7 @@ permalink: /
       {{ note.date | date: "%B %d, %Y" }}
     </p>
     <div class="entry">
-      {{ note.content | strip_html | truncatewords: 25 }}
+      {{ note.content | strip_html | truncatewords: 40 }}
     </div>
   </a>
 </div>
