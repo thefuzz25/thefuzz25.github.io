@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about
 ---
-## About me
+### About me
 
 I’m Faiz. Depending on when and how you met me, I’m either a student, an artist, or an athlete. A few places to start:
 
@@ -14,7 +14,7 @@ I’m Faiz. Depending on when and how you met me, I’m either a student, an art
 	- [Live Journal](livejournal)
 - **Bookshelf**
 
-## Meanwhile
+### Meanwhile
 
 You can reach out to me at:
 
@@ -22,7 +22,7 @@ You can reach out to me at:
 - **Tel:** [+91 73862 95387](tel:7386395397)
 - **Instagram:** [@thefuzz_25](https://www.instagram.com/thefuzz_25/#)
 
-## Colophon
+### Colophon
 
 This site is written and edited in Obsidian, then compiled with Jekyll and served through GitHub Pages.
 
