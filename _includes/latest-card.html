@@ -1,20 +1,23 @@
-{%- assign collection = include.from | default: "notes" -%}
-{%- assign recent_notes = site[collection] | sort: "date" | reverse -%}
-{%- assign note = recent_notes.first -%}
+{%- assign filter_type = include.filter | default: "note" -%}
 
-{%- assign word_limit = include.words | default: 40 -%}
-{%- assign date_format = include.date_format | default: "%B %d, %Y" -%}
+{%- assign filtered_notes = site.notes
+  | where: "type", filter_type
+  | sort: "date"
+  | reverse
+-%}
 
+{%- assign note = filtered_notes.first -%}
+
+{%- if note -%}
 <div class="card-link">
   <a href="{{ site.baseurl }}{{ note.url }}">
     <h3>{{ note.title }}</h3>
-
     <p class="note-date">
-      {{ note.date | date: date_format }}
+      {{ note.date | date: "%B %d, %Y" }}
     </p>
-
     <div class="entry">
-      {{ note.content | strip_html | truncatewords: word_limit }}
+      {{ note.content | strip_html | truncatewords: 40 }}
     </div>
   </a>
 </div>
+{%- endif -%}
