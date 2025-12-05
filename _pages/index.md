@@ -4,9 +4,13 @@ title: Home
 id: home
 permalink: /
 ---
-#### Latest
+#### Latest entry
 
 {% include latest-card.html %}
-####  Recent
+
+#### Topics
+
+> [Writing](archive) · [In a Nutshell](ian) · [Bookshelf](bookshelf)
+####  Recent notes
 
 {% include recent-notes.html type="note" limit="5" %}
