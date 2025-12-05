@@ -1,0 +1,20 @@
+{%- assign collection = include.from | default: "notes" -%}
+{%- assign recent_notes = site[collection] | sort: "date" | reverse -%}
+{%- assign note = recent_notes.first -%}
+
+{%- assign word_limit = include.words | default: 40 -%}
+{%- assign date_format = include.date_format | default: "%B %d, %Y" -%}
+
+<div class="card-link">
+  <a href="{{ site.baseurl }}{{ note.url }}">
+    <h3>{{ note.title }}</h3>
+
+    <p class="note-date">
+      {{ note.date | date: date_format }}
+    </p>
+
+    <div class="entry">
+      {{ note.content | strip_html | truncatewords: word_limit }}
+    </div>
+  </a>
+</div>
