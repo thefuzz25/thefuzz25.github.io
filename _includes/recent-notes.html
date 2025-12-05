@@ -1,0 +1,51 @@
+{% comment %}
+USAGE:
+{% include notes-list.html type="journal" limit="20" group_by_year=true %}
+
+Parameters:
+- type: filter notes by front matter key "type"
+- limit: optional number of notes
+- group_by_year: true/false
+{% endcomment %}
+
+{% assign notes_all = site.notes | where: "type", include.type | sort: "date" | reverse %}
+
+{% if include.limit %}
+  {% assign notes = notes_all | slice: 0, include.limit %}
+{% else %}
+  {% assign notes = notes_all %}
+{% endif %}
+
+<ul class="no-bullets">
+
+{% if include.group_by_year %}
+  {% assign current_year = "" %}
+  {% for note in notes %}
+    {% assign note_year = note.date | date: "%Y" %}
+
+    {% if note_year != current_year %}
+      {% unless forloop.first %}</ul>{% endunless %}
+      <h3 class="year-heading">{{ note_year }}</h3>
+      <ul class="no-bullets">
+      {% assign current_year = note_year %}
+    {% endif %}
+
+    <li>
+      {{ note.date | date: "%B %-d" }} &nbsp;&nbsp;
+      <a class="internal-link" href="{{ site.baseurl }}{{ note.url }}">
+        {{ note.title }}
+      </a>
+    </li>
+  {% endfor %}
+{% else %}
+  {% for note in notes %}
+    <li>
+      {{ note.date | date: "%Y · %m" }} &nbsp;&nbsp;
+      <a class="internal-link" href="{{ site.baseurl }}{{ note.url }}">
+        {{ note.title }}
+      </a>
+    </li>
+  {% endfor %}
+{% endif %}
+
+</ul>
