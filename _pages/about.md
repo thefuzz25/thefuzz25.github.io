@@ -5,14 +5,14 @@ permalink: /about
 ---
 ### About me
 
-I’m Faiz. Depending on when and how you met me, I’m either a student, an artist, or an athlete. A few places to start:
+I’m Faiz. Depending on when and where you met me, I’m either a student, an artist, or an athlete. A few links to explore:
 
-- **Writing**
+- **[[Writing]]**
 - **Projects**
-	- [[ian|In a Nutshell]]
-    - Deep Dives
-	- [[livejournal|Live Journal]]
-- **Bookshelf**
+	- [In a Nutshell](ian)
+	- [Live Journal](livejournal)
+	-  
+- **[[Bookshelf]]**
 
 ### Meanwhile
 

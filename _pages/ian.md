@@ -10,5 +10,6 @@ My (wise) reflections on what was and my takes on what's to come. Spoiler: humou
 #### Latest
 
 {% include latest-card.html filter="ian" %}
-####  Recent
+####  All
+
 {% include recent-notes.html type="ian" %}

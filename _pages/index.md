@@ -8,4 +8,5 @@ permalink: /
 
 {% include latest-card.html %}
 ####  Recent
-{% include recent-notes.html type="note" group_by_year=true %}
+
+{% include recent-notes.html type="note" limit="5" %}
