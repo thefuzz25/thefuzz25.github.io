@@ -1,6 +1,7 @@
 ---
 title: 1200 Words and One Poem Later
 date: 2025-10-09
+type: note
 ---
 ### The Prelude
 I want to write a poem. Right now. I don't know why — it's just an impulse. So I will. And while I’m at it, why not experiment a little? In the next 1200 words, you get the rare privilege of peeking into my brain as I try and fail, gracefully, to sound poetic.

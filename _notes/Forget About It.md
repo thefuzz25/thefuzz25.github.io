@@ -1,6 +1,7 @@
 ---
 title: Forget About It
 date: 2025-05-09
+type: note
 ---
 ### A Little Context First
 
