@@ -153,6 +153,10 @@ a {
   }
 }
 
+.card-link a:after {
+  content: "";
+}
+
 *:focus {
   background: #ffe8bc !important;
   color: black !important;
