@@ -1,11 +1,9 @@
 {% comment %}
-USAGE:
+USAGE EXAMPLES:
+{% include notes-list.html type="journal" %}
+{% include notes-list.html type="journal" show_dates=false %}
+{% include notes-list.html type="journal" group_by_year=true show_dates=true %}
 {% include notes-list.html type="journal" limit="20" group_by_year=true %}
-
-Parameters:
-- type: filter notes by front matter key "type"
-- limit: optional number of notes
-- group_by_year: true/false
 {% endcomment %}
 
 {% assign notes_all = site.notes | where: "type", include.type | sort: "date" | reverse %}
@@ -16,9 +14,12 @@ Parameters:
   {% assign notes = notes_all %}
 {% endif %}
 
+{% assign show_dates = include.show_dates | default: true %}
+{% assign group = include.group_by_year | default: false %}
+
 <ul class="no-bullets">
 
-{% if include.group_by_year %}
+{% if group %}
   {% assign current_year = "" %}
   {% for note in notes %}
     {% assign note_year = note.date | date: "%Y" %}
@@ -31,16 +32,21 @@ Parameters:
     {% endif %}
 
     <li>
-      {{ note.date | date: "%b %-d" }} &nbsp;&nbsp;
+      {% if show_dates %}
+        {{ note.date | date: "%B %-d" }} &nbsp;&nbsp;
+      {% endif %}
       <a class="internal-link" href="{{ site.baseurl }}{{ note.url }}">
         {{ note.title }}
       </a>
     </li>
   {% endfor %}
+
 {% else %}
   {% for note in notes %}
     <li>
-      {{ note.date | date: "%Y · %m" }} &nbsp;&nbsp;
+      {% if show_dates %}
+        {{ note.date | date: "%Y · %m" }} &nbsp;&nbsp;
+      {% endif %}
       <a class="internal-link" href="{{ site.baseurl }}{{ note.url }}">
         {{ note.title }}
       </a>
