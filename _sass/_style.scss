@@ -54,6 +54,11 @@ img {
   border-radius: $border-radius;
 }
 
+.footer-avatar img {
+  display: block;
+  float: left;
+}
+
 blockquote {
   padding: 1.5em;
   margin: 0;
@@ -105,8 +110,14 @@ a {
   }
   &.internal-link:after,
   &.footnote:after,
-  &.reversefootnote:after {
+  &.reversefootnote:after, 
+  &.avatar-link:after {
     content: "";
+  }
+  &.avatar-link {
+    border-bottom: none;
+    padding: 0;
+    background: none;
   }
 }
 
