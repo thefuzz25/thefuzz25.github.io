@@ -15,11 +15,8 @@ USAGE EXAMPLES:
 {% endif %}
 
 {% assign show_dates_raw = include.show_dates | default: true %}
-{% if show_dates_raw == false or show_dates_raw == "false" %}
-  {% assign show_dates = false %}
-{% else %}
-  {% assign show_dates = true %}
-{% endif %}
+{% assign show_dates_str = show_dates_raw | downcase %}
+{% assign show_dates = show_dates_str != "false" and show_dates_str != "0" %}
 
 {% assign group = include.group_by_year | default: false %}
 
