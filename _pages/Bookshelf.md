@@ -5,7 +5,7 @@ permalink: /bookshelf
 ---
 ## Bookshelf
 
-Yadayadayada, that's me when I skim through the boring parts of any book. But seriously, some are really good.
+*Yadayadayada*... that's me when I skim through the boring parts of any book. But seriously, some are really good.
 
 #### Latest
 
