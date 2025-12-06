@@ -5,7 +5,7 @@ permalink: /ian
 ---
 ## In a Nutshell
 
-My (wise) reflections on what was and my takes on what's to come. Spoiler: humour refuses to stay out of it.
+My (wise) reflections on what was and my takes on what's to come. Spoiler: satire refuses to stay out of it.
 
 #### Latest
 

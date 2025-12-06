@@ -4,7 +4,7 @@ title: Home
 id: home
 permalink: /
 ---
-#### Latest entry
+#### Latest
 
 {% include latest-card.html %}
 
