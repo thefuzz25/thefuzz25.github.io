@@ -5,4 +5,4 @@ permalink: /archive
 ---
 ## Archive
 
-{% include recent-notes.html filter="note" group_by_year="true" limit="100" %}
+{% include recent-notes.html type="note" group_by_year="true" limit="100" %}
