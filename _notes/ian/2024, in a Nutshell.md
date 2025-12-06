@@ -4,6 +4,7 @@ date: 2025-01-12
 type: ian
 ---
 > 🥗  “The unexamined life is not worth living, but the un-humorous life? Well, that’s just like a salad: nutritious, yes, but no one actually enjoys it.” **— Partly Socrates, Partly Me**
+
 ---
 ### Preface
 

@@ -7,12 +7,12 @@ permalink: /about
 
 I’m Faiz. Depending on when and where you met me, I’m either a student, an artist, or an athlete. A few links to explore:
 
-- **[Writing](archive)**
+- **[[archive|Writing]]**
 - **Projects**
 	- [[ian|In a Nutshell]]
-	- [Live Journal](livejournal)
+	- [[livejournal|Live Journal]]
 	-  
-- **[Bookshelf](bookshelf)**
+- **[[bookshelf|Bookshelf]]**
 
 ### Meanwhile
 
