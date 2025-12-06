@@ -9,7 +9,7 @@ Yadayadayada
 
 #### Latest
 
-{% include latest-card.html filter="bookshelf" %}
+{% include latest-card.html filter="book" %}
 ####  All
 
-{% include recent-notes.html type="bookshelf" %}
+{% include recent-notes.html type="book" %}
