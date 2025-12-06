@@ -5,7 +5,7 @@ permalink: /about
 ---
 ### About me
 
-I’m Faiz. Depending on when and where you met me, I’m either a student, an artist, or an athlete. A few links to explore:
+I’m Faiz. Depending on when and where you met me, I’m either a student, an artist, or an athlete. A few links to explore: 
 
 - **[Writing](archive)**
 - **Projects**
