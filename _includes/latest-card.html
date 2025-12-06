@@ -10,7 +10,7 @@
 
 {%- if note -%}
 <div class="card-link">
-  <a href="{{ site.baseurl }}{{ note.url }}">
+  <a class="internal-link" href="{{ site.baseurl }}{{ note.url }}">
     <h3 style="margin-top:0;">{{ note.title }}</h3>
     <p class="note-date">
       {{ note.date | date: "%B %d, %Y" }}
