@@ -6,7 +6,15 @@ USAGE EXAMPLES:
 {% include notes-list.html type="journal" limit="20" group_by_year=true %}
 {% endcomment %}
 
-{% assign notes_all = site.notes | where: "type", include.type | sort: "date" | reverse %}
+{% assign raw_types = include.type | split: ',' %}
+{% assign types = "" | split: "" %}
+
+{% for t in raw_types %}
+  {% assign trimmed = t | strip %}
+  {% assign types = types | push: trimmed %}
+{% endfor %}
+
+{% assign notes_all = site.notes | where_exp: "note", "types contains note.type" | sort: "date" | reverse %}
 
 {% if include.limit %}
   {% assign notes = notes_all | slice: 0, include.limit %}
