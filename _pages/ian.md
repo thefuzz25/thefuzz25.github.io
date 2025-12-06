@@ -12,4 +12,4 @@ My (wise) reflections on what was and my takes on what's to come. Spoiler: humou
 {% include latest-card.html filter="ian" %}
 ####  All
 
-{% include recent-notes.html type="ian" show_dates=false %}
+{% include recent-notes.html type="ian" show_dates="false" %}
