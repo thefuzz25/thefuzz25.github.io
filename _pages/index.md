@@ -10,9 +10,14 @@ permalink: /
 
 #### Topics
 
-- **[Writing](archive)**: Archives, some of which I might not even remember. So don't hold 'em against me!
-- **[In a Nutshell](ian)**: My year-in-reviews. Six years in the running now. Surprising.
-- **[Bookshelf](bookshelf)**: Opinions (erm, mostly rants but still) of books I have read but not understood.
+- **[Writing](archive)**: 
+	Archive notes, some of which I might not even remember. So don't hold 'em against me!
+
+- **[In a Nutshell](ian)**: 
+	My year-in-reviews. Six years in the running now. Surprising.
+
+- **[Bookshelf](bookshelf)**: 
+	Opinions (erm, mostly rants but still) of books I have read but not understood.
 
 ####  Recent notes
 
