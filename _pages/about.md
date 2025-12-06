@@ -9,7 +9,7 @@ I’m Faiz. Depending on when and where you met me, I’m either a student, an a
 
 - **[Writing](archive)**
 - **Projects**
-	- [In a Nutshell](ian)
+	- [[ian|In a Nutshell]]
 	- [Live Journal](livejournal)
 	-  
 - **[Bookshelf](bookshelf)**
