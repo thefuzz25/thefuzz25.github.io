@@ -79,14 +79,24 @@ class BidirectionalLinksGenerator < Jekyll::Generator
       notes_linking_to_current_note = all_notes.filter do |e|
         next if e.url == current_note.url
       
-        url_variants = [
-          current_note.url,                          # original
-          current_note.url.gsub(/index\.html$/, ''), # remove index.html
-          current_note.url.gsub(/\/$/, '.html'),     # folder → .html
-          current_note.url.gsub(/\.html$/, '/'),     # .html → folder
+        url = current_note.url
+      
+        # Generate variants
+        variants = [
+          url,
+          url.gsub(/index\.html$/, ''),
+          url.gsub(/\/$/, '.html'),
+          url.gsub(/\.html$/, '/')
         ].uniq
       
-        url_variants.any? { |variant| e.content.include?(variant) }
+        # Detect any of these patterns:
+        found = variants.any? do |v|
+          e.content.include?(v) ||                      
+          e.content.include?("href=\"#{v}\"") ||        
+          e.content.include?("href='#{v}'")             
+        end
+      
+        found
       end
 
       # Nodes: Graph
