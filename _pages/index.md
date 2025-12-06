@@ -8,7 +8,7 @@ permalink: /
 
 {% include latest-card.html %}
 
-#### Topics
+#### And then there were three
 
 - **[Writing](archive)**: Archived notes, some of which I might not even recall. So don't hold 'em against me!
 - **[In a Nutshell](ian)**: My year-in-reviews. Six years in the running now. Surprising.
