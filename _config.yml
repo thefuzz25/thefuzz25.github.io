@@ -1,20 +1,10 @@
 title:               Faiz Reza
 include:             ['_pages']
 exclude:             ['_includes/notes_graph.json']
-# You may need to change the base URL depending on your deploy configuration.
 baseurl:             ''
 
-# If you are using a host that cannot resolve URLs that do
-# not end with .html (such as Neocities), set this to 'true'.
 use_html_extension:  false
-
-# Set to `true` to open non-internal links in new tabs, or
-# set to `false` to open non-internal links in current tab.
 open_external_links_in_new_tab: true
-
-# Set to `true` to replace tweet URLs with Twitter embeds.
-# Note that doing so will negatively the reader's privacy
-# as their browser will communicate with Twitter's servers.
 embed_tweets: false
 
 permalink:           pretty
@@ -22,6 +12,7 @@ relative_permalinks: false
 
 plugins:
   - jekyll-last-modified-at
+  - jekyll-wikilinks        # ← added plugin
 
 sass:
   sass_dir:          _sass
@@ -30,7 +21,14 @@ sass:
 collections:
   notes:
     output: true
-    permalink: /:slug
+    permalink: /:slug        # this is fine and compatible with wikilinks
+
+# Wikilinks configuration
+wikilinks:
+  collections: ["notes"]     # wikilinks resolve only inside _notes
+  html_class: "internal-link" # gives <a class="internal-link">
+  # strip_extension: true    # optional if you want to remove .md
+  # slugify: true            # optional if note filenames don't match titles
 
 defaults:
   - scope:
