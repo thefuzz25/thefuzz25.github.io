@@ -14,7 +14,13 @@ USAGE EXAMPLES:
   {% assign notes = notes_all %}
 {% endif %}
 
-{% assign show_dates = include.show_dates | default: true %}
+{% assign show_dates_raw = include.show_dates | default: true %}
+{% if show_dates_raw == false or show_dates_raw == "false" %}
+  {% assign show_dates = false %}
+{% else %}
+  {% assign show_dates = true %}
+{% endif %}
+
 {% assign group = include.group_by_year | default: false %}
 
 <ul class="no-bullets">
