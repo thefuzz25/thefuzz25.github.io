@@ -1,73 +1,37 @@
-# Generates backlinks for notes using Obsidian-style wikilinks:
-# [[Note Title]]
-# [[Note Title|Alias]]
-#
-# Each note will receive:
-#   page.data["backlinks"] = [
-#     { "url" => "...", "title" => "...", "excerpt" => "..." }
-#   ]
+# _plugins/backlinks.rb
 
-module Jekyll
-  class BacklinksGenerator < Generator
-    safe true
-    priority :low
+Jekyll::Hooks.register :site, :post_read do |site|
+  # Only process pages inside the notes collection
+  notes = site.collections["notes"].docs
 
-    # Matches [[target]] or [[target|alias]]
-    WIKILINK_REGEX = /\[\[([^\|\]]+)(?:\|([^\]]+))?\]\]/
+  # Clear backlinks
+  notes.each do |note|
+    note.data["backlinks"] = []
+  end
 
-    def generate(site)
-      # All documents in all collections (notes, pages, posts, etc.)
-      docs = site.collections.values.flat_map(&:docs) + site.pages
+  notes.each do |note|
+    content = note.content
 
-      # Build lookup table: title + slug → doc
-      lookup = {}
-      docs.each do |doc|
-        title = doc.data["title"] || doc.basename_without_ext
+    # Find all wikilinks: [[Note]] or [[Note|Alias]]
+    wikilinks = content.scan(/\[\[([^\]]+)\]\]/).flatten
 
-        title_key = title.to_s.downcase.strip
-        slug_key  = Jekyll::Utils.slugify(title, mode: "default")
+    wikilinks.each do |raw|
+      target = raw.split("|")[0]  # extract left side before alias
 
-        lookup[title_key] = doc
-        lookup[slug_key]  = doc
-      end
+      # slugify so [[My Note]] matches file "my-note.md"
+      slug = Jekyll::Utils.slugify(target)
 
-      # Initialize backlinks
-      docs.each { |d| d.data["backlinks"] = [] }
+      # find matching note
+      linked = notes.find { |n| n.data["slug"] == slug || n.basename_without_ext == slug }
 
-      # Scan each document for wikilinks
-      docs.each do |doc|
-        next unless doc.content
+      next unless linked
 
-        doc.content.scan(WIKILINK_REGEX).each do |match|
-          raw_target = match[0].strip
-          target_key_title = raw_target.downcase
-          target_key_slug  = Jekyll::Utils.slugify(raw_target, mode: "default")
-
-          # Resolve target
-          target_doc =
-            lookup[target_key_title] ||
-            lookup[target_key_slug]
-
-          next unless target_doc
-
-          # Store backlink
-          target_doc.data["backlinks"] << {
-            "url"     => doc.url,
-            "title"   => doc.data["title"] || doc.basename_without_ext,
-            "excerpt" => extract_excerpt(doc)
-          }
-        end
-      end
-    end
-
-    private
-
-    def extract_excerpt(doc)
-      if doc.data["excerpt"]
-        doc.data["excerpt"].to_s
-      else
-        doc.content.to_s.gsub(/\s+/, " ")[0..200]
-      end
+      # Push backlink to the target note
+      linked.data["backlinks"] << {
+        "title" => note.data["title"] || File.basename(note.basename, ".*"),
+        "url"   => note.url,
+        "excerpt" => note.content[0..200]
+      }
     end
   end
 end
