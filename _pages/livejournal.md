@@ -242,7 +242,8 @@ document.addEventListener("DOMContentLoaded", function() {
     // Add message at the bottom
     const message = document.createElement('p');
     message.style.fontStyle = 'italic';
-    message.style.marginTop = '1em';
+    message.style.marginTop = '2em';
+    message.style.textAlign = 'right';
     message.textContent = "Not all words are meant for first glance. Append `#` followed by the title of my favorite novel to the link to continue.";
     entriesContainer.appendChild(message);
   }
