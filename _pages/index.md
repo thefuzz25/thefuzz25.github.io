@@ -9,7 +9,7 @@ permalink: /
 {% include latest-card.html %}
 
 <br>
-#### And then there were three
+#### Pick a path
 
 - **[[archive|Writing]]**: Archived notes, some of which I might not even recall. So don't hold 'em against me!
 - **[[ian|In a Nutshell]]**: My year-in-reviews. Six years in the running now. Surprising.
