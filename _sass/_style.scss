@@ -216,3 +216,7 @@ code {
   color: #ccc;
   cursor: help;
 }
+
+.entries > h4:nth-of-type(n+4) {
+  display: none;
+}
