@@ -19,4 +19,4 @@ permalink: /
 
 ####  Recent notes
 
-{% include recent-notes.html type="note" limit="5" %}
+{% include recent-notes.html type="note, book" limit="5" %}
