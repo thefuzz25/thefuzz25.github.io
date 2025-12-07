@@ -9,24 +9,33 @@ Big words, the right mood and some semblance of sanity are rare; in college, eve
 
 ---
 
-#### Thu, 09 Oct 2025 — 19:39
+#### Mon, 01 Dec 2025 — 14:03
+Whew! Another semester done and dusted. Reached back home a few days back but hey, you know how the initial week after every sem is like (think: food, tv and sleep). I am now finally halfway through my college life. And while I have achieved a lot in that time, **something** still feels off. **I** feel off. And that is what I intend for this winter to me. An ode to looking inside. Amen.
 
-Just when everything starts going absolutely great, doth it thunder. I finally got a diagnosis for my lower back — turns out I’m _flexion intolerant_ with a minor L4-L5 disc herniation.
+#### Thu, 13 Nov 2025 — 13:36
+> Hope is tricky like water. It always finds its way in. *~ Six of Crows*
 
-- The upside: it’s still in the onset phase and can be fixed with core strengthening.
-- The downside: there aren’t many core exercises one can _actually_ do in this situation. Like, what the heck. How on earth am I supposed to recover with only planks and freakin’ cat-cows?
+^*Context*: End semester examinations
 
-A mockery, really. To heal, I must bend without bending.
+#### Mon, 09 Nov 2025 — 20:51
+Lately, a lot of people have been complimenting me on my dressing sense. It’s nice, of course; nothing to lean too much into. But the thing is, I haven’t actually changed anything from past semesters, or even before that. What I _have_ changed, now that I think about it, is how I take care of myself — my posture, workouts, and self-care in general. These things don’t pay off in obvious ways, but they do, quietly. And they keep on giving.
+#### Sun, 08 Nov 2025 — 14:09
+2025-11-08 — 14:09
+For the past couple of months or so, I've start consuming a lot more literature and news. And it felt, like, really good not to let your life subconsciously revolve around classes and gym and all the regular college activities. That was the initial motive, yes. But it slowly started growing on me more that I thought it would. That, and the fact that I always considered myself a *Jack* as in *a jack of all trades but a master of none*. I've been reading more into this and recently found a quirky little analogy about Jacks and Polymaths, and I think this is the right time for me to go down that route. Another factor that ties to it is me craving intellectual discussions (something which is a total no go right now in my circle). A very very far-off objective is to start a Dead Poets Society-esque thingy here on campus. A really ambitious project so should absolutely think this through.
 
-#### Mon, 06 Oct 2025 — 16:07
+#### Sun, 02 Nov 2025 — 22:37
+Goddammit man. Everyone's playing sports and running 5Ks and stuff. And then there is this guy (me) who's going to physio six days a week. Last few days, I thought that this hiatus might actually be a blessing in disguise. In the sense that I can put my energy into other more productive (erm, academically inclined) activities. But while that is true, I feel more like an old unc in rehab, watching the new generation proudly play and run around.
 
-Man, this past week at home flew right by. Between eating, sleeping, and doing absolutely nothing, I got no work done whatsoever. Not that I care though, it was totally worth it.
+> All work and no play does indeed make Jack a dull boy.
 
-But now I’m back on campus, relaxed plenty, and ready to get started!
+#### Sun, 19 Oct 2025 — 22:48
+Things still aren't clear. Technically, I might have no work done today. And if not for the principle of exclusion, I would have believed that too. But I have considerably narrowed down the field I wish to pursue. One thing is for sure as ever, that I do not want to rush this decision. This upcoming week, I intend to talk to a few alums and figure out a roadmap. Then the only thing left would be to revv my engines for the race to come.
 
-#### Wed, 01 Oct 2025 — 11:43
+#### Sun, 19 Oct 2025 — 19:15
+It is night already and I noticed just yet, that I haven't spoken a single word today (apart from a short phone call to dad). And the thing to note is, that I did not, for one moment, feel to need to. I know that humans are supposed to be social beings but sometimes you just need to sit in solitude and think. Where you at, what you wanna do and how are you gonna do just that. I don't have all the answers at the end of the day. But what I do have, is a start.
 
-I know there’s something wrong with my left knee. There has been for three years now. But _what_ exactly is wrong, no one can figure that out. And that uncertainty gnaws at me more than the pain itself.
+#### Sat, 18 Oct 2025 — 11:43
+I know there’s something wrong with my left knee. There has been for three years now. But _what_ exactly is wrong — no one can figure that out. And that uncertainty gnaws at me more than the pain itself.
 
 This is what each one of my several hospital visits have looked like:
 
@@ -35,16 +44,35 @@ This is what each one of my several hospital visits have looked like:
 > (Several hours and a small fortune later.)  
 > Doctor: Nothing’s wrong, kiddo. You’re fine.  
 > Me: So I can play again?  
-> Doctor: No, no. Don’t do nothing more than walk. Rest and recover.  
+> Doctor: No, no. Don’t do anything more than walk. Rest and recover.  
 > Me: But why?  
 > Doctor: Because of the injury.  
 > Me: What injury? You just said I’m fine.  
 > Doctor: That you are.
 
 And that’s that.
+
+#### Thu, 16 Oct 2025 — 22:39
+This is it. This is life. A sudden realization, sure, but a welcome one at that. Yes, I want to play the long game. Yes, I want to see results. Yes, I want success. But, somewhere along the way, I forgot to smile.
+Today, I did. Truly. After a long time. And for that, I have my sister to thank. Just listening her chatter about college life all bubbly and breathless — after a tough few months settling in — warmed something in me I didn't know had gone cold. 
+Ambition is a funny thing: let's not take it too seriously.
+
+#### Sun, 10 Oct 2025 — 15:56
+Everyone is busy pretending to be more than they actually are. But, I mean, like, WHY. This has started to annoy me so much more now since I've learnt to see through it.
+
+#### Thu, 09 Oct 2025 — 19:39
+
+Just when everything starts settling down, doth it thunder. I finally got a diagnosis for my lower back — turns out I’ve a small disc herniation.
+
+- The upside: it’s still in the onset phase and can be fixed with core strengthening.
+- The downside: there aren’t many core exercises one can _actually_ do in this situation. Like, what the heck. How on earth am I supposed to recover with only planks and freakin' cat-cows? A mockery, really. To heal, I must bend without bending.
+
+#### Mon, 06 Oct 2025 — 16:07
+Man, this past week at home flew right by. Between eating, sleeping, and doing absolutely nothing, I got no work done whatsoever. Not that I care though, it was totally worth it.  
+But now I’m back on campus, relaxed plenty, and ready to get started!
 #### Sat, 27 Sep 2025 — 21:09
 
-Travel is a b**** . Although the thought of going back home does take away some exhaustion from it.
+Travel is a b****** . Although the thought of going back home does take away some exhaustion from it.
 
 #### Thu, 18 Sep 2025 — 15:43
 
