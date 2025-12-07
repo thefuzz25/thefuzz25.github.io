@@ -8,7 +8,7 @@ permalink: /livejournal
 Big words, the right mood and some semblance of sanity are rare; in college, even more so. Just watched _The Social Network_, and now I'm starting a live journal. No reason. Just felt like it.
 
 ---
-<section class="entries">
+<section class="entries" markdown="1">
 
 #### Mon, 01 Dec 2025 — 14:03
 
