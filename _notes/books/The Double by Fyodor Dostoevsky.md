@@ -9,6 +9,7 @@ Reasons threefold:
 - I’d had enough of clean, modern narratives and wanted to return to a classic author.
 - Visiting St. Petersburg recently made *Dostoevsky* an obvious pick, since so much of his work is rooted in that city.
 - Was up for a challenging novel.
+
 ### How the read went
 
 And boy, this was a difficult read. The story revolved around a single character but the way his mind spirals made me feel like I was spiraling with him. The only respite was recognizing the places mentioned in the book thanks to my trip there. And seriously, why the hell do Russians address each other with five different names? One or two would have done the job.
