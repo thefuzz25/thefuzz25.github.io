@@ -23,7 +23,6 @@ Reaching this point marks a milestone: I am now halfway through my college life.
 #### Mon, 09 Nov 2025 — 20:51
 Lately, a lot of people have been complimenting me on my dressing sense. It’s nice, of course; nothing to lean too much into. But the thing is, I haven’t actually changed anything from past semesters, or even before that. What I _have_ changed, now that I think about it, is how I take care of myself — my posture, workouts, and self-care in general. These things don’t pay off in obvious ways, but they do, quietly. And they keep on giving.
 #### Sun, 08 Nov 2025 — 14:09
-2025-11-08 — 14:09
 For the past couple of months or so, I've start consuming a lot more literature and news. And it felt, like, really good not to let your life subconsciously revolve around classes and gym and all the regular college activities. That was the initial motive, yes. But it slowly started growing on me more that I thought it would. That, and the fact that I always considered myself a *Jack* as in *a jack of all trades but a master of none*. I've been reading more into this and recently found a quirky little analogy about Jacks and Polymaths, and I think this is the right time for me to go down that route. Another factor that ties to it is me craving intellectual discussions (something which is a total no go right now in my circle). A very very far-off objective is to start a Dead Poets Society-esque thingy here on campus. A really ambitious project so should absolutely think this through.
 
 #### Sun, 02 Nov 2025 — 22:37
@@ -205,20 +204,25 @@ document.addEventListener("DOMContentLoaded", function() {
   const entriesContainer = document.querySelector('.entries');
   const headings = entriesContainer.querySelectorAll('h4');
 
-  // Hide all entries after the first 3
-  headings.forEach((h, index) => {
-    let next = h.nextElementSibling;
-    if (index >= 3) {
-      h.style.display = 'none';
-      while(next && next.tagName !== 'H4') {
-        next.style.display = 'none';
-        next = next.nextElementSibling;
-      }
-    }
-  });
+  // Number of entries to show by default
+  const previewLimit = 3;
 
-  // If URL has the secret phrase, show everything
-  if (window.location.href.includes("sixofcrows")) {
+  // Function to hide entries beyond preview limit
+  function hideExtraEntries() {
+    headings.forEach((h, index) => {
+      let next = h.nextElementSibling;
+      if (index >= previewLimit) {
+        h.style.display = 'none';
+        while(next && next.tagName !== 'H4') {
+          next.style.display = 'none';
+          next = next.nextElementSibling;
+        }
+      }
+    });
+  }
+
+  // Function to show all entries
+  function showAllEntries() {
     headings.forEach(h => {
       h.style.display = 'block';
       let next = h.nextElementSibling;
@@ -227,6 +231,20 @@ document.addEventListener("DOMContentLoaded", function() {
         next = next.nextElementSibling;
       }
     });
+  }
+
+  // Check if secret phrase is in URL
+  if (window.location.href.includes("sixofcrows")) {
+    showAllEntries();
+  } else {
+    hideExtraEntries();
+
+    // Add message at the bottom
+    const message = document.createElement('p');
+    message.style.fontStyle = 'italic';
+    message.style.marginTop = '1em';
+    message.textContent = "Not all words are meant for first glance. Append `#` followed by the title of my favorite novel to the link to continue.";
+    entriesContainer.appendChild(message);
   }
 });
 </script>
