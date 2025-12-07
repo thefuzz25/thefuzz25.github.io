@@ -9,6 +9,9 @@ Big words, the right mood and some semblance of sanity are rare; in college, eve
 
 ---
 <section class="entries" markdown="1">
+#### Sat, 06 Dec 2025 — 15:48
+
+It feels strange to make this LiveJournal public, but that is precisely why I began it: to learn to stand by my thoughts with a little more confidence.
 #### Mon, 01 Dec 2025 — 14:03
 
 Another semester draws to a close. I returned home a few days ago but hey, you know how the first week back after every sem is like (think: food, tv and sleep)
