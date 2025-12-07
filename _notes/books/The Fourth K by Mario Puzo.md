@@ -18,7 +18,6 @@ As *Mail on Sunday* puts it:
 
 > 'This book paints a fine satirical portrait of the super-rich oligarchs who pull the strings of political power.' 
 
-
 And that it does (albeit repetitively). Through a fictional member of the Kennedy dynasty, Puzo does portray how power and manipulation pools at the top and how the rest of the world is at their mercy. With assassinations, terrorism, bombings and dictatorship; this book had it all (which, for me, was a little too much). 
 
 ### Should you read it?
