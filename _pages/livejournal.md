@@ -8,9 +8,13 @@ permalink: /livejournal
 Big words, the right mood and some semblance of sanity are rare; in college, even more so. Just watched _The Social Network_, and now I'm starting a live journal. No reason. Just felt like it.
 
 ---
+<section class="entries">
 
 #### Mon, 01 Dec 2025 — 14:03
-Whew! Another semester done and dusted. Reached back home a few days back but hey, you know how the initial week after every sem is like (think: food, tv and sleep). I am now finally halfway through my college life. And while I have achieved a lot in that time, **something** still feels off. **I** feel off. And that is what I intend for this winter to me. An ode to looking inside. Amen.
+
+Another semester draws to a close. I returned home a few days ago but hey, you know how the first week back after every sem is like (think: food, tv and sleep)
+
+Reaching this point marks a milestone: I am now halfway through my college life. And while I have achieved a lot in that time, **something** still feels off. **I** feel off. So I intend for this winter to serve inwards. A pause. A deliberate look within.
 
 #### Thu, 13 Nov 2025 — 13:36
 > Hope is tricky like water. It always finds its way in. *~ Six of Crows*
@@ -194,3 +198,20 @@ UPDATE: Perhaps, a buzz cut wasn’t the best way to vent it out. But whatever m
 Feeling awfully tired this week; I guess the prolonged travel from St. Pete got to me. The amount of work I have got piled up is beyond obscene. And then there are the labs to compensate as well. My my…
 
 Ok maybe I just need a therapeutic outlet to vent it out. HAIRCUT TIME!
+
+</section>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  if (window.location.href.includes("sixofcrows")) {
+    document.querySelectorAll('.entries > h4').forEach(function(el){
+      el.style.display = "block";
+      let next = el.nextElementSibling;
+      while(next && next.tagName !== "H4") {
+        next.style.display = "block";
+        next = next.nextElementSibling;
+      }
+    });
+  }
+});
+</script>
