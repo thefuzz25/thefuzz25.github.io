@@ -9,7 +9,6 @@ Big words, the right mood and some semblance of sanity are rare; in college, eve
 
 ---
 <section class="entries" markdown="1">
-
 #### Mon, 01 Dec 2025 — 14:03
 
 Another semester draws to a close. I returned home a few days ago but hey, you know how the first week back after every sem is like (think: food, tv and sleep)
@@ -203,12 +202,28 @@ Ok maybe I just need a therapeutic outlet to vent it out. HAIRCUT TIME!
 
 <script>
 document.addEventListener("DOMContentLoaded", function() {
+  const entriesContainer = document.querySelector('.entries');
+  const headings = entriesContainer.querySelectorAll('h4');
+
+  // Hide all entries after the first 3
+  headings.forEach((h, index) => {
+    let next = h.nextElementSibling;
+    if (index >= 3) {
+      h.style.display = 'none';
+      while(next && next.tagName !== 'H4') {
+        next.style.display = 'none';
+        next = next.nextElementSibling;
+      }
+    }
+  });
+
+  // If URL has the secret phrase, show everything
   if (window.location.href.includes("sixofcrows")) {
-    document.querySelectorAll('.entries > h4').forEach(function(el){
-      el.style.display = "block";
-      let next = el.nextElementSibling;
-      while(next && next.tagName !== "H4") {
-        next.style.display = "block";
+    headings.forEach(h => {
+      h.style.display = 'block';
+      let next = h.nextElementSibling;
+      while(next && next.tagName !== 'H4') {
+        next.style.display = 'block';
         next = next.nextElementSibling;
       }
     });
