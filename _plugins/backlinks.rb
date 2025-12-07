@@ -1,37 +1,56 @@
-# _plugins/backlinks.rb
+# frozen_string_literal: true
 
-Jekyll::Hooks.register :site, :post_read do |site|
-  # Only process pages inside the notes collection
-  notes = site.collections["notes"].docs
+# Simple backlink generator for Jekyll notes
+class BacklinksGenerator < Jekyll::Generator
+  safe true
+  priority :low
 
-  # Clear backlinks
-  notes.each do |note|
-    note.data["backlinks"] = []
+  def generate(site)
+    notes = site.collections['notes'].docs
+    pages = site.pages
+    all_docs = notes + pages
+
+    # Precompute URL → doc map for fast lookup
+    url_map = all_docs.map { |d| [d.url, d] }.to_h
+
+    # Build backlink lists
+    all_docs.each do |doc|
+      doc.data['backlinks'] = []
+    end
+
+    all_docs.each do |source|
+      all_docs.each do |target|
+        next if source == target
+
+        # Detect internal link by final resolved URL (html-extension aware)
+        target_url = resolved_url(site, target)
+
+        if source.content.include?(target_url)
+          source_title = source.data['title'] || File.basename(source.basename, File.extname(source.basename))
+          target.data['backlinks'] << {
+            "url" => source.url,
+            "title" => source_title,
+            "excerpt" => extract_excerpt(source)
+          }
+        end
+      end
+    end
   end
 
-  notes.each do |note|
-    content = note.content
+  private
 
-    # Find all wikilinks: [[Note]] or [[Note|Alias]]
-    wikilinks = content.scan(/\[\[([^\]]+)\]\]/).flatten
+  # handle .html extension flag
+  def resolved_url(site, doc)
+    ext = site.config["use_html_extension"] ? ".html" : ""
+    "#{doc.url}#{ext}"
+  end
 
-    wikilinks.each do |raw|
-      target = raw.split("|")[0]  # extract left side before alias
-
-      # slugify so [[My Note]] matches file "my-note.md"
-      slug = Jekyll::Utils.slugify(target)
-
-      # find matching note
-      linked = notes.find { |n| n.data["slug"] == slug || n.basename_without_ext == slug }
-
-      next unless linked
-
-      # Push backlink to the target note
-      linked.data["backlinks"] << {
-        "title" => note.data["title"] || File.basename(note.basename, ".*"),
-        "url"   => note.url,
-        "excerpt" => note.content[0..200]
-      }
+  # Simple excerpt generator
+  def extract_excerpt(doc)
+    if doc.data['excerpt']
+      doc.data['excerpt'].to_s
+    else
+      doc.content.gsub(/<\/?[^>]*>/, '').split[0..25].join(" ")
     end
   end
 end
