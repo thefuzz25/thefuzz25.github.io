@@ -4,6 +4,8 @@ date: 2025-12-10
 type: book
 ---
 > Still in work.
+
+
 ### Why I picked it up
 Because... coincidence.
 - More than one person recommended _The Silent Patient_ to me, more than once, and all within the last month. At some point you just give in.
