@@ -14,7 +14,7 @@ permalink: /
 - **[[archive|Writing]]**: Archived notes, some of which I might not even recall. So don't hold 'em against me!
 - **[[ian|In a Nutshell]]**: My year-in-reviews. Six years in the running now. Surprising.
 - **[[bookshelf|Bookshelf]]**: Opinions (erm, mostly rants but still) of books I have read but not understood.
-- [[scribbles|Scribbles]]: When words become boring. Sketching was in fact my first love.
+- **[[scribbles|Scribbles]]:** When words become boring. In fact, sketching was my gateway to all this.
 <br>
 
 ####  Recent notes
