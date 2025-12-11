@@ -10,7 +10,8 @@ permalink: /bookshelf
 #### Upcoming
 
 - Cloud Atlas by David Mitchell
-- The Silent Patient by Alex Michaelides
+- Crime and Punishment by Fyodor Dostoevsky
+- The Fault in our Stars by John Green
 
 #### Latest
 
