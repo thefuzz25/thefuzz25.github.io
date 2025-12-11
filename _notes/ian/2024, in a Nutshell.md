@@ -3,6 +3,8 @@ title: 2024, in a Nutshell
 date: 2025-01-12
 type: ian
 ---
+<img src="{{ site.baseurl }}/assets/ian/2024.jpeg"/>
+
 > 🥗  “The unexamined life is not worth living, but the un-humorous life? Well, that’s just like a salad: nutritious, yes, but no one actually enjoys it.” **— Partly Socrates, Partly Me**
 
 ---
