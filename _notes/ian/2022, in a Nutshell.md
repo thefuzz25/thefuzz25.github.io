@@ -5,7 +5,7 @@ type: ian
 ---
 <img src="{{ site.baseurl }}/assets/ian/2022.jpeg"/>
 
-> 🤔 “In the rush to return back to normal, use this time to consider which parts of normal are _worth_ rushing back to?” **— Dave Hollis**
+> 🤔 “In the rush to return back to normal, use this time to consider which parts of normal are _worth_ rushing back to?” **~ Dave Hollis**
 
 ---
 ### Preface

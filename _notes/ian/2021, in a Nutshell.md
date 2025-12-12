@@ -5,7 +5,7 @@ type: ian
 ---
 <img src="{{ site.baseurl }}/assets/ian/2021.jpeg"/>
 
-> ⛵️ “On the other side of a storm is the strength that comes from having navigated through it. Raise your sail and begin.” **— Gregory S. Williams**
+> ⛵️ “On the other side of a storm is the strength that comes from having navigated through it. Raise your sail and begin.” **~ Gregory S. Williams**
 
 ---
 ### Preface

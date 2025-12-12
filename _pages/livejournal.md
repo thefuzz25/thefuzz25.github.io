@@ -9,6 +9,14 @@ Big words, the right mood and some semblance of sanity are rare; in college, eve
 
 ---
 <section class="entries" markdown="1">
+#### Fri, 12 Dec 2025 — 13:10
+
+Something felt unsettling the past few days. I couldn't it point out then, but it lingered at the back of my mind. Now I realize it was the book 'The Silent Patient', in particular the two main characters. Everything about them screamed the frailty of the human mind and how disturbed all of us really are, if only we were to look inside. 
+
+I found myself looking back on some of my not-so-pleasant memories. And it put me off balance, even after all this time. But the memories themselves weren’t the real problem. It was the mindset the book pushed: the insistence that our minds are fragile things waiting to crack. That’s what made me feel weaker than I am.
+
+And I don’t agree with that. Deep down, my belief is this: the mind is only as tough, or as weak, as you decide to make it. In the end, it’s still you versus whatever you’re carrying.
+
 #### Sat, 06 Dec 2025 — 15:48
 
 It feels strange to make this LiveJournal public, but that is precisely why I began it: to learn to stand by my thoughts with a little more confidence.

@@ -5,7 +5,7 @@ type: ian
 ---
 <img src="{{ site.baseurl }}/assets/ian/2020.jpeg"/>
 
-> 🌅 "A renewed and pandemic cleansed Earth will emerge in 2021, like the Sun after rain. Amen." **— Me**
+> 🌅 "A renewed and pandemic cleansed Earth will emerge in 2021, like the Sun after rain. Amen." **~ Me**
 
 ---
 ### Preface
