@@ -12,7 +12,9 @@ Big words, the right mood and some semblance of sanity are rare; in college, eve
 #### Sun, 21 Dec 2025 — 22:20
 
 > Please allow me to introduce myself
+> 
 > I'm a man of wealth and taste
+> 
 > Stole many a man's soul and faith *~ The Rolling Stones*
 
 #### Mon, 15 Dec 2025 — 21:50
