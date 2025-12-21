@@ -31,3 +31,5 @@ Some days, I forget. I rush through mornings, complain about professors or mess 
 We promised ourselves we wouldn’t forget what mattered.
 
 Maybe it’s time to re-promise.
+
+^If you have a fancy for poems, go read [[1200 Words and One Poem Later]]!
