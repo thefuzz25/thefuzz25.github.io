@@ -9,6 +9,22 @@ Big words, the right mood and some semblance of sanity are rare; in college, eve
 
 ---
 <section class="entries" markdown="1">
+#### Sun, 21 Dec 2025 — 22:20
+
+> Please allow me to introduce myself
+> I'm a man of wealth and taste
+> Stole many a man's soul and faith *~ The Rolling Stones*
+
+#### Mon, 15 Dec 2025 — 21:50
+
+I met an uncle at the gym today. But before I get to that, let me set the scene. The gym’s in the cantonment, so about 99% of the people there are army officers — some at the peak of their physical abilities, others well past it, but impressive regardless. And then there’s the remaining 1%, which is more or less just me.
+
+Back to today’s encounter. This guy walked in drenched in sweat, 10 kg dumbbells in each hand. Did 20 pull-ups, a hundred-something squats, threw in a some more random exercises, and called it a day. As we got talking (me mostly in awe), he said he likes to surprise his body every day. Some evenings, even he doesn’t know what he’s going to do next.
+
+Now, whether or not that approach is the most efficient (or even recommended) is debatable. But it got me thinking. Is it really worth obsessing over tracking apps, rigid routines, and self-imposed deadlines for gains? Improvement is a perpetual process. Maybe it’s meant to be lived and enjoyed, not constantly measured and pushed around.
+
+For much of last year, I’ve been trying to become more *efficient*, more *capable*.  But perhaps the latter is not totally dependent on the former.
+
 #### Fri, 12 Dec 2025 — 13:10
 
 Something felt unsettling the past few days. I couldn't it point out then, but it lingered at the back of my mind. Now I realize it was the book 'The Silent Patient', in particular the two main characters. Everything about them screamed the frailty of the human mind and how disturbed all of us really are, if only we were to look inside. 
