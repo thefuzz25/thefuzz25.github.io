@@ -11,7 +11,6 @@ permalink: /bookshelf
 
 - Cloud Atlas by David Mitchell
 - Crime and Punishment by Fyodor Dostoevsky
-- The Fault in our Stars by John Green
 
 #### Latest
 
