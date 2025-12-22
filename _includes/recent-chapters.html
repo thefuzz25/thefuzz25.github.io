@@ -11,7 +11,8 @@ Requires front matter field: serial
 {%- assign types = "" | split: "" -%}
 
 {%- for t in raw_types -%}
-  {%- assign types = types | push: t | map: "strip" -%}
+  {%- assign trimmed = t | strip -%}
+  {%- assign types = types | push: trimmed -%}
 {%- endfor -%}
 
 {%- assign notes_all = site.notes
@@ -35,7 +36,7 @@ Requires front matter field: serial
 <ul class="no-bullets">
   {%- for note in notes -%}
     <li>
-      {%- if list_style == "numbered" -%}
+      {%- if list_style == "numbered" and note.serial -%}
         {{ note.serial | prepend: "0" | slice: -2, 2 }}.
       {%- endif -%}
       <a class="internal-link" href="{{ site.baseurl }}{{ note.url }}">
