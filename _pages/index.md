@@ -6,7 +6,7 @@ permalink: /
 ---
 #### Latest
 
-{% include latest-card.html %}
+{% include latest-card.html filter="note,book,ian,char"%}
 
 <br>
 #### Pick a path
