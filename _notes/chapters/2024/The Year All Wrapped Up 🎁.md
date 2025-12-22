@@ -1,6 +1,7 @@
 ---
 title: The Year All Wrapped Up 🎁
 type: "2024"
+serial: "1"
 ---
 > To: The Historian Intern of 2074
 > 
