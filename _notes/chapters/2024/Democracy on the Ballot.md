@@ -1,5 +1,5 @@
 ---
-title: Democracy on the Ballot
+title: Democracy on the Ballot 📮
 type: "2024"
 serial: "2"
 date: 2025-01-12
