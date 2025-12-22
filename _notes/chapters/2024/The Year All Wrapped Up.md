@@ -16,7 +16,7 @@ Hey kid,
 
 Look, I don’t know what version of the internet you’re running this on 📟. I know reading hurts your brain.  I know you’ve got the stats. You’ve got the timeline. What you don’t have is the vibe. So let me help you out.
 
-I’m writing from 2024 — a year where nothing made sense, but everything kept happening. So yeah, lean in.
+I’m writing from 2024: an year where nothing made sense, but everything kept happening. Read ahead.
 
 ---  
 
