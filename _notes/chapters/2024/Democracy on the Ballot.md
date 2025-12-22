@@ -40,4 +40,4 @@ It’s an unnerving exciting time to be alive, as the post-election nations will
 
 ---
 
-Source(s): www.hindustantimes.com, en.wikipedia.org, www.aljazeera.com, www.statista.com
+[^1]: Source(s): www.hindustantimes.com, en.wikipedia.org, www.aljazeera.com, www.statista.com

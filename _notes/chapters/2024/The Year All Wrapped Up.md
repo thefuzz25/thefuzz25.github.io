@@ -10,8 +10,6 @@ date: 2025-01-12
 > 
 > Subject: Yes, All of This Actually Happened
 
----
-
 Hey kid,
 
 Look, I don’t know what version of the internet you’re running this on 📟. I know reading hurts your brain.  I know you’ve got the stats. You’ve got the timeline. What you don’t have is the vibe. So let me help you out.
