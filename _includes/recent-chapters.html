@@ -1,0 +1,46 @@
+{% comment %}
+USAGE:
+{% include notes-list.html type="journal,ian" %}
+{% include notes-list.html type="journal" list_style="numbered" %}
+{% include notes-list.html type="journal" list_style="numbered" order="asc" limit="10" %}
+
+Requires front matter field: serial
+{% endcomment %}
+
+{%- assign raw_types = include.type | split: ',' -%}
+{%- assign types = "" | split: "" -%}
+
+{%- for t in raw_types -%}
+  {%- assign types = types | push: t | map: "strip" -%}
+{%- endfor -%}
+
+{%- assign notes_all = site.notes
+  | where_exp: "note", "types contains note.type"
+  | sort: "serial"
+-%}
+
+{%- assign order = include.order | default: "desc" -%}
+{%- if order == "desc" -%}
+  {%- assign notes_all = notes_all | reverse -%}
+{%- endif -%}
+
+{%- if include.limit -%}
+  {%- assign notes = notes_all | slice: 0, include.limit -%}
+{%- else -%}
+  {%- assign notes = notes_all -%}
+{%- endif -%}
+
+{%- assign list_style = include.list_style | default: "bullets" -%}
+
+<ul class="no-bullets">
+  {%- for note in notes -%}
+    <li>
+      {%- if list_style == "numbered" -%}
+        {{ note.serial | prepend: "0" | slice: -2, 2 }}.
+      {%- endif -%}
+      <a class="internal-link" href="{{ site.baseurl }}{{ note.url }}">
+        {{ note.title }}
+      </a>
+    </li>
+  {%- endfor -%}
+</ul>
