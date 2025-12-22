@@ -2,14 +2,16 @@
 {%- assign filters = "" | split: "" -%}
 
 {%- for f in raw_filters -%}
-  {%- assign filters = filters | push: f | map: "strip" -%}
+  {%- assign trimmed = f | strip -%}
+  {%- assign filters = filters | push: trimmed -%}
 {%- endfor -%}
 
 {%- assign filtered_notes = site.notes
-  | where_exp: "note", "filters contains note.type"
+  | where_exp: "note", "note.type and filters contains note.type"
   | sort: "date"
   | reverse
 -%}
+
 
 
 {%- assign note = filtered_notes.first -%}
