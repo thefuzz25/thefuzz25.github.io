@@ -33,15 +33,22 @@ Requires front matter field: serial
 
 {%- assign list_style = include.list_style | default: "bullets" -%}
 
+{% if list_style == "numbered" %}
+<ol class="numbered-list">
+{% else %}
 <ul class="no-bullets">
+{% endif %}
+
   {%- for note in notes -%}
     <li>
-      {%- if list_style == "numbered" and note.serial -%}
-        {{ note.serial | prepend: "0" | slice: -2, 2 }}.
-      {%- endif -%}
       <a class="internal-link" href="{{ site.baseurl }}{{ note.url }}">
         {{ note.title }}
       </a>
     </li>
   {%- endfor -%}
+
+{% if list_style == "numbered" %}
+</ol>
+{% else %}
 </ul>
+{% endif %}
