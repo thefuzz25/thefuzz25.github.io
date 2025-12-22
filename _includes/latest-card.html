@@ -1,10 +1,16 @@
-{%- assign filter_type = include.filter | default: "note" -%}
+{%- assign raw_filters = include.filter | default: "note" | split: "," -%}
+{%- assign filters = "" | split: "" -%}
+
+{%- for f in raw_filters -%}
+  {%- assign filters = filters | push: f | map: "strip" -%}
+{%- endfor -%}
 
 {%- assign filtered_notes = site.notes
-  | where: "type", filter_type
+  | where_exp: "note", "filters contains note.type"
   | sort: "date"
   | reverse
 -%}
+
 
 {%- assign note = filtered_notes.first -%}
 
