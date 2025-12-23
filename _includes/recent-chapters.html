@@ -34,9 +34,9 @@ Requires front matter field: serial
 {%- assign list_style = include.list_style | default: "bullets" -%}
 
 {% if list_style == "numbered" %}
-<ol class="numbered-list">
+<ol>
 {% else %}
-<ul class="no-bullets">
+<ul>
 {% endif %}
 
   {%- for note in notes -%}
