@@ -28,6 +28,6 @@ Oh, and Australia banned social media for kids. Cute. South Africa’s ruling pa
 
 ---  
 
-So yeah, 2024 happened.
+#### So yeah, 2024 happened.
 
 It's your job to make sense of all this. You probably won’t, but good luck trying. Now go write your paper. And for the love of humanity, don’t let AI write it for you.

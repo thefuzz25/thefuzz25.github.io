@@ -34,10 +34,8 @@ Donald Trump emerged victorious in November after defeating Kamala Harris by a c
 - In Nov, Trump defeated Harris comfortably, securing a chaotic but commanding return to the White House.
 
 ---
-#### So... what now?
+#### Erm... what now?
 
 It’s an unnerving exciting time to be alive, as the post-election nations will begin to discover, with varying degrees of excitement, what it voted for. [^1]
-
----
 
 [^1]: Source(s): www.hindustantimes.com, en.wikipedia.org, www.aljazeera.com, www.statista.com
