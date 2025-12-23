@@ -4,11 +4,11 @@ type: "2024"
 serial: "1"
 date: 2025-01-12
 ---
-> To: The Historian Intern of 2074
+> **To:** The Historian Intern of 2074
 > 
-> From: Someone Who Made It Through 2024 (Barely)
+> **From:** Someone Who Made It Through 2024 (Barely)
 > 
-> Subject: Yes, All of This Actually Happened
+> **Subject:** Yes, All of This Actually Happened
 
 Hey kid,
 
