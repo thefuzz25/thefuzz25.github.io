@@ -4,7 +4,7 @@ type: "2024"
 serial: "3"
 date: 2025-01-12
 ---
-> "You can't say civilization isn't advancing. In every war, they kill you in a new way." *~ Will Rogers*
+> "You can't say civilization isn't advancing. In every war, they kill you in a new way." **~ Will Rogers**
 
 Let's get one thing straight: this is *not* World War Three, although President Putin does like to dangle that threat to scare the West away from sending weapons to Ukraine. Still, from Ukraine to Gaza, Syria to Sudan, and even Yemen, 2024 slipped into a nonstop series of global dramas — none of which exactly earned the *“Chill Guy”* award.
 

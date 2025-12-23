@@ -4,7 +4,7 @@ type: "2024"
 serial: "2"
 date: 2025-01-12
 ---
-> "More the things change, more they stay the same — will be as true for 2025 as it was for 2024. Only the sameness will be messier as the old world order unravels, and a new order tries to emerge both politically and economically." *~ Hindustan Times*
+> "More the things change, more they stay the same — will be as true for 2025 as it was for 2024. Only the sameness will be messier as the old world order unravels, and a new order tries to emerge both politically and economically." **~ Hindustan Times**
 
 About 60 countries representing roughly half the world’s population were set to go to the polls in 2024, more than any year in the past. Japan, France, the UK, the US, and, of course, India all held major elections. As many people put it, democracy was on the ballot in 2024.
 
