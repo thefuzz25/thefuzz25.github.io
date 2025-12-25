@@ -1,5 +1,5 @@
 ---
-title: 📬 The Silent Patient by Alex Michaelides
+title: 📬 The Silent Patient by Alex Michael
 date: 2025-12-10
 type: book
 ---
