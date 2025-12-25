@@ -46,3 +46,5 @@ Think Ray-Bans that can take photos, transcribe conversations, or display turn-b
 The only question now is: are we adapting fast enough to keep up? [^1]
 
 [^1]:Source(s): www.pcmag.com, www.medium.com, www.bbc.com, www.vox.com
+
+^*Next chapter, [[Culturally Uncultured.]]*

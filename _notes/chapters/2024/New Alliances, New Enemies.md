@@ -27,3 +27,5 @@ Sudan’s civil war passed its second anniversary in 2024, with nearly *half* th
 And then there’s Yemen. And Congo. Reminders that some wars don't need headlines to keep taking lives. In 2024, the world didn't erupt. It just kept bleeding... quietly.[^1]
 
 [^1]: Source(s): svet.charita.cz, www.bbc.com, www.thehindu.com, www.britannica.com
+
+^*Next chapter, [[Finally Past the ‘Writing Poems’ Stage]]*
