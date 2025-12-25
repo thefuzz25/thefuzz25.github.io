@@ -3,7 +3,7 @@ title: 2023, in a Nutshell
 date: 2024-01-04
 type: ian
 ---
-<img src="{{ site.baseurl }}/assets/ian/2023.png"/>
+<img src="{{ site.baseurl }}/assets/ian/2023.jpeg"/>
 
 > 🚘 "Looking back at last year is like checking your rearview mirror before hurtling into the unknown of the next one — sure, you might see a few potholes you missed, but let's be real, you're probably just gonna end up swerving into more chaos anyway!" **~ Me**
 
