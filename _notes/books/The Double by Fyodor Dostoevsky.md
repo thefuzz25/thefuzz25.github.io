@@ -1,5 +1,5 @@
 ---
-title: The Double by Fyodor Dostoevsky
+title: 🔖 The Double by Fyodor Dostoevsky
 date: 2025-10-04
 type: book
 ---
