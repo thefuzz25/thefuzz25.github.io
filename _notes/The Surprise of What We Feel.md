@@ -1,5 +1,5 @@
 ---
-title: The Surprise of What We Feel
+title: The Surprise of What We Feel 💐
 date: 2025-08-27
 type: note
 ---

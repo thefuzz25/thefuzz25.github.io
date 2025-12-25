@@ -1,5 +1,5 @@
 ---
-title: On the Quiet Burnout of Learning
+title: On the Quiet Burnout of Learning 📚
 date: 2025-06-26
 type: note
 ---
