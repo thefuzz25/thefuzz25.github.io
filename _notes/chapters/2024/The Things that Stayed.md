@@ -1,5 +1,5 @@
 ---
-title: The Things that Stayed 🌊
+title: 🌊 The Things that Stayed
 type: "2024"
 serial: "8"
 date: 2025-01-12

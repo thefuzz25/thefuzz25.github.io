@@ -1,5 +1,5 @@
 ---
-title: New Alliances, New Enemies 🌋
+title: 🌋 New Alliances, New Enemies
 type: "2024"
 serial: "3"
 date: 2025-01-12

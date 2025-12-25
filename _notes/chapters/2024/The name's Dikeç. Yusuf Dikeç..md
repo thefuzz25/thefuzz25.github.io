@@ -1,5 +1,5 @@
 ---
-title: The name's Dikeç. Yusuf Dikeç. 🎯
+title: 🎯 The name's Dikeç. Yusuf Dikeç.
 type: "2024"
 serial: "6"
 date: 2025-01-12

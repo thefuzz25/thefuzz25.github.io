@@ -1,5 +1,5 @@
 ---
-title: Culturally Uncultured. 🎬
+title: 🎬 Culturally Uncultured
 type: "2024"
 serial: "5"
 date: 2025-01-12

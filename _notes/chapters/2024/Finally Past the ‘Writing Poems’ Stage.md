@@ -1,5 +1,5 @@
 ---
-title: Finally Past the ‘Writing Poems’ Stage 💻
+title: 💻 Finally Past the ‘Writing Poems’ Stage
 type: "2024"
 serial: "4"
 date: 2025-01-12

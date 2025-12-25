@@ -1,5 +1,5 @@
 ---
-title: Down the Meme-ory Lane 🛣️
+title: 🛣️ Down the Meme-ory Lane
 type: "2024"
 serial: "7"
 date: 2025-01-12
