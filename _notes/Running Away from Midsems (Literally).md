@@ -1,5 +1,5 @@
 ---
-title: Running Away from Midsems 🏃🏻
+title: 🏃🏻 Running Away from Midsems
 date: 2025-02-26
 type: note
 ---

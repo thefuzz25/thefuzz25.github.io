@@ -1,5 +1,5 @@
 ---
-title: Forget About It 👨🏻
+title: 👨🏻 Forget About It
 date: 2025-05-09
 type: note
 ---

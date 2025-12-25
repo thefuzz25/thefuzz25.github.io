@@ -1,5 +1,5 @@
 ---
-title: " Lost in Translation 🍜"
+title: 🍜  Lost in Translation
 date: 2025-08-11
 type: note
 ---

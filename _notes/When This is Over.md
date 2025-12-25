@@ -1,5 +1,5 @@
 ---
-title: When This is Over 🤞🏻
+title: 🤞🏻 When This is Over
 date: 2025-03-20
 type: note
 ---

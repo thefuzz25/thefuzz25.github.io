@@ -1,5 +1,5 @@
 ---
-title: New Year, New Me? 🪞
+title: 🪞 New Year, New Me?
 date: 2025-01-12
 type: note
 ---

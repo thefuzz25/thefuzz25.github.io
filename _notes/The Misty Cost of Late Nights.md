@@ -1,5 +1,5 @@
 ---
-title: The Misty Cost of Late Nights 🦉
+title: 🦉 The Misty Cost of Late Nights
 date: 2025-04-12
 type: note
 ---
