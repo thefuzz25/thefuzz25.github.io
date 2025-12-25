@@ -1,5 +1,5 @@
 ---
-title: 2020, in a Nutshell
+title: 2020, in a Nutshell 📕
 date: 2021-01-09
 type: ian
 ---
