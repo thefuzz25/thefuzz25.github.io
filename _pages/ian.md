@@ -5,14 +5,11 @@ permalink: /ian
 ---
 ## In a Nutshell
 
-> This page is still in the works, so let it be. But if you do want to read, [visit this link](https://aliens-live-ecl.craft.me/6kqOkLAQYmdefw).
-
-
 My (wise) reflections on what was and my takes on what's to come. Spoiler: satire refuses to stay out of it.
 
-#### Latest
+### Latest
 
 {% include latest-card.html filter="ian" %}
-####  All
+###  All
 
 {% include recent-chapters.html type="ian" %}

@@ -7,6 +7,6 @@ permalink: /archive
 
 'Whatever's happened, happened.' ~ Someone from the movie *Tenet* I think
 
-#### Here you go
+### Here you go
 
 {% include recent-notes.html type="note, book" group_by_year="true" limit="100" %}

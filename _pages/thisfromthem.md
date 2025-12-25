@@ -7,9 +7,9 @@ permalink: /tft
 
 A running collection of traits, habits, and ways of being I consider borrowing: from real people, fictional ones, and sometimes strangers.
 
-#### Latest
+### Latest
 
 {% include latest-card.html filter="tft" %}
-####  All
+###  All
 
 {% include recent-notes.html type="tft" %}
