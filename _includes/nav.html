@@ -4,7 +4,7 @@
 
     {% if page.type == "2024" %}
       <span class="breadcrumb-sep"> / </span>
-      <a class="internal-link" href="/2024-in-a-nutshell">2024, In a Nutshell</a>
+      <a class="internal-link" href="/2024-in-a-nutshell">2024, IAN</a>
 
     {% elsif page.type == "book" %}
       <span class="breadcrumb-sep"> / </span>
@@ -14,6 +14,11 @@
     {% elsif page.type == "note" %}
       <span class="breadcrumb-sep"> / </span>
       <a class="internal-link" href="/archive">Writing</a>
+    {% endif %}
+
+    {% elsif page.type == "ian" %}
+      <span class="breadcrumb-sep"> / </span>
+      <a class="internal-link" href="/ian">IAN</a>
     {% endif %}
   </div>
 
