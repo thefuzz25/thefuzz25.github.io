@@ -1,5 +1,5 @@
 ---
-title: 2024, in a Nutshell 📔
+title: 📔 2024, in a Nutshell
 date: 2025-01-12
 type: ian
 ---
