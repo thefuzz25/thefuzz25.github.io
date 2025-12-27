@@ -5,7 +5,6 @@ type: book
 ---
 > Still in work.
 
-
 ### Why I picked it up
 Because... coincidence.
 - More than one person recommended _The Silent Patient_ to me, more than once, and all within the last month. At some point you just give in.
@@ -19,7 +18,7 @@ To avoid spoilers, just think: Agatha Christie, but with fewer characters, more 
 
 ### What sits beneath the story
 
-At its heart, _The Silent Patient_ is playing with the idea of silence—what it protects, what it hides, and what it forces others to project onto it. It’s a story about trauma, obsession, and the narratives we create for ourselves when the truth feels too heavy or too ugly to confront. The book also nudges you into questioning how much of someone’s personality you can really piece together from the outside, and how dangerous it is when people mistake their interpretations for reality.
+At its core, _The Silent Patient_ plays with the idea of silence — what it protects, what it hides, and what it forces others to project onto it. It’s a story about trauma, obsession, and the narratives we create for ourselves when the truth feels too heavy or too ugly to confront. The book also nudges you into questioning how much of someone’s personality you can really piece together from the outside, and how dangerous it is when people mistake their interpretations for reality.
 
 ### Should you read it?
 All in all, I did finish the book in just a couple of days. Maybe it was the hype for the much-talked-about ending or maybe the storytelling is genuinely compelling. Either way, it’s worth picking up. 

@@ -40,4 +40,4 @@ It’s an unnerving exciting time to be alive, as the post-election nations will
 
 [^1]: Source(s): www.hindustantimes.com, en.wikipedia.org, www.aljazeera.com, www.statista.com
 
-^*Next chapter, [[New Alliances, New Enemies]]*
+^*Next chapter, [[_notes/_notes/chapters/2024/New Alliances, New Enemies]]*
