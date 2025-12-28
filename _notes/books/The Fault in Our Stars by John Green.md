@@ -1,6 +1,6 @@
 ---
 title: The Fault in Our Stars by John Green
-date: 2025-12-19
+date: 2025-12-29
 type: book
 ---
 > Still in work.
