@@ -25,7 +25,7 @@ It's only at the reveal that the second aspect comes into focus. We're forced to
 
 And then there are also the coping mechanisms that humans invent in the face of tragedy. These mechanisms are, in their own way, another kind of silence — the truth we keep even from ourselves. In that silence, we create narratives that soften or distort reality when it feels too heavy or too ugly to confront.
 
-> All psychological novels eventually circle such ideas, but they still prompt you to think every time you pick them up.
+> All *psychological* novels eventually circle such ideas, but they still prompt you to think every time you pick them up.
 
 ### Should you read it?
-All in all, I did finish the book in just a couple of days. Maybe it was the hype for the much-talked-about ending or maybe the storytelling is genuinely compelling. Either way, it’s worth picking up. 
+All in all, I did finish the book in just a couple of days. Maybe it was the hype for the *much-talked-about ending* or maybe the storytelling is genuinely compelling. Either way, it’s worth picking up. 
