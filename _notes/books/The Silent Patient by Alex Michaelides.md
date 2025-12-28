@@ -1,10 +1,8 @@
 ---
-title: 📬 The Silent Patient by Alex Michael
+title: 📬 The Silent Patient by Alex Michaelides
 date: 2025-12-10
 type: book
 ---
-> Still in work.
-
 ### Why I picked it up
 Because... coincidence.
 - More than one person recommended _The Silent Patient_ to me, more than once, and all within the last month. At some point you just give in.
@@ -18,7 +16,16 @@ To avoid spoilers, just think: Agatha Christie, but with fewer characters, more 
 
 ### What sits beneath the story
 
-At its core, _The Silent Patient_ plays with the idea of silence — what it protects, what it hides, and what it forces others to project onto it. It’s a story about trauma, obsession, and the narratives we create for ourselves when the truth feels too heavy or too ugly to confront. The book also nudges you into questioning how much of someone’s personality you can really piece together from the outside, and how dangerous it is when people mistake their interpretations for reality.
+The premise plays with the idea of silence:
+1. what it hides or protects from others, and
+2. what it forces other to project onto it.
+For most of the novel, Alex Michaelides pushes us to focus on the first. The story is told through Theo, the narrator and for the most part, I believed him. But as readers, while we're drawn to his version of events, we still crave the truth from Alicia herself. This is what keeps us turning pages.
+
+It's only at the reveal that the second aspect comes into focus. We're forced to revisit the story and realize just how much of our observations were built on projection. It nudges you into questioning how much of someone's personality you can piece together from the outside. You can never really know what it was like to be them in that moment, or why they did what they did.
+
+And then there are also the coping mechanisms that humans invent in the face of tragedy. These mechanisms are, in their own way, another kind of silence — the truth we keep even from ourselves. In that silence, we create narratives that soften or distort reality when it feels too heavy or too ugly to confront.
+
+> All psychological novels eventually circle such ideas, but they still prompt you to think every time you pick them up.
 
 ### Should you read it?
 All in all, I did finish the book in just a couple of days. Maybe it was the hype for the much-talked-about ending or maybe the storytelling is genuinely compelling. Either way, it’s worth picking up. 

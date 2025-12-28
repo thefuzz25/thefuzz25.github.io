@@ -14,6 +14,6 @@ permalink: /
 
 {% include latest-card.html filter="note,book,ian,char"%}
 
-###  Recent notes
+###  Recent
 
 {% include recent-notes.html type="note, book" limit="5" %}

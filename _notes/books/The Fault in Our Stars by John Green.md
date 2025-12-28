@@ -5,7 +5,6 @@ type: book
 ---
 > Still in work.
 
-
 ### Why I picked it up
 
 ### How the read went
