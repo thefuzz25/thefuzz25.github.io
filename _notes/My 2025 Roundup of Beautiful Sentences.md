@@ -5,7 +5,7 @@ type: note
 ---
 This world can do with a little more beauty, can't it? I got this idea from [Kolina Cicero](https://substack.com/@kolinacicero) on Substack and it seems a good way to wrap up my readings of the year.
 
-## 01.
+## 01
 
 > “Because there is no glory in illness. There is no meaning to it. There is no honor in dying of.”
 
@@ -14,6 +14,7 @@ This world can do with a little more beauty, can't it? I got this idea from [Kol
 **Why I love it:** 
 
 ---
+## 02
 
 > “I must not fear. Fear is the mind-killer. Fear is the little-death that brings total obliteration. I will face my fear. I will permit it to pass over me and through me. And when it has gone past I will turn the inner eye to see its path. Where the fear has gone there will be nothing. Only I will remain.”  
 
