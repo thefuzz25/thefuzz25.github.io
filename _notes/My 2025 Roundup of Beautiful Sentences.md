@@ -5,7 +5,7 @@ type: note
 ---
 This world can do with a little more beauty, can't it? I got this idea from [Kolina Cicero](https://substack.com/@kolinacicero) on Substack and it seems a good way to wrap up my readings of the year.
 
-### 01.
+## 01.
 
 > “Because there is no glory in illness. There is no meaning to it. There is no honor in dying of.”
 
