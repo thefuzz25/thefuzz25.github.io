@@ -11,7 +11,6 @@ I’m Faiz. Depending on when and where you met me, I’m either a student, an a
 - **Projects**
 	- [[ian|In a Nutshell]]
 	- [[bookshelf|Bookshelf]]
-	- [[thisfromthem|This, From Them]]
 	- [[livejournal|Live Journal]]
 - **[[scribbles|Scribbles]]**
 

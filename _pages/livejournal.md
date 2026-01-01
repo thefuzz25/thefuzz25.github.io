@@ -9,6 +9,9 @@ Big words, the right mood and some semblance of sanity are rare; in college, eve
 
 ---
 <section class="entries" markdown="1">
+#### Thu, 01 Jan 2026 — 19:55
+
+Last year felt like I was always short on time. Which is absurd, since I’m only goddamn 20. This time around, I refuse to rush. Intentionally so.
 
 #### Sun, 21 Dec 2025 — 23:04
 

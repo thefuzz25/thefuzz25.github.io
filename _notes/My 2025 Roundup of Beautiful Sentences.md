@@ -1,0 +1,24 @@
+---
+title: 25 of the Most Beautiful Sentences I Read in 2025
+date: 2026-01-04
+type: note
+---
+# My 2025 Roundup of Beautiful Sentences
+
+This world can do with a little more beauty, can't it? I got this idea from [Kolina Cicero](https://substack.com/@kolinacicero) on Substack and it seems a good way to wrap up my readings of the year.
+
+> Quote
+
+#### *John Green*, The Fault in Our Stars
+
+**Why I love it:** 
+
+---
+
+> Quote
+
+#### *John Green*, The Fault in Our Stars
+
+**Why I love it:** 
+
+---
