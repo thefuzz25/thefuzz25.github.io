@@ -1,6 +1,6 @@
 ---
 title: 25 of the Most Beautiful Sentences I Read in 2025
-date: 2026-01-04
+date: 2026-01-01
 type: note
 ---
 # My 2025 Roundup of Beautiful Sentences
