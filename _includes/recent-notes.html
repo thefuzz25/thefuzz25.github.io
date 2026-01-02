@@ -42,26 +42,31 @@ USAGE EXAMPLES:
       {% assign current_year = note_year %}
     {% endif %}
 
-    <li>
-      {% if show_dates %}
-        {{ note.date | date: "%B %-d" }} &nbsp;&nbsp;
-      {% endif %}
-      <a class="internal-link" href="{{ site.baseurl }}{{ note.url }}">
-        {{ note.title }}
-      </a>
-    </li>
+  <li class="note-row">
+    {% if show_dates %}
+      <span class="note-date-prefix">
+        {{ note.date | date: "%Y · %m" }}
+      </span>
+    {% endif %}
+    <a class="internal-link note-title" href="{{ site.baseurl }}{{ note.url }}">
+      {{ note.title }}
+    </a>
+  </li>
   {% endfor %}
 
 {% else %}
   {% for note in notes %}
-    <li>
-      {% if show_dates %}
-        {{ note.date | date: "%Y · %m" }} &nbsp;&nbsp;
-      {% endif %}
-      <a class="internal-link" href="{{ site.baseurl }}{{ note.url }}">
-        {{ note.title }}
-      </a>
-    </li>
+  <li class="note-row">
+    {% if show_dates %}
+      <span class="note-date-prefix">
+        {{ note.date | date: "%Y · %m" }}
+      </span>
+    {% endif %}
+    <a class="internal-link note-title" href="{{ site.baseurl }}{{ note.url }}">
+      {{ note.title }}
+    </a>
+  </li>
+
   {% endfor %}
 {% endif %}
 
