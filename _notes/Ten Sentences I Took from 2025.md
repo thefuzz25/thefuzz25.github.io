@@ -3,7 +3,7 @@ title: 📚 Ten Sentences I Took from 2025
 date: 2026-01-02
 type: note
 ---
-I don’t remember everything I read this year, but I remember a few things: a few sentences, how they felt when I read them, where I was, and the look they pulled from me.
+I don’t remember everything I read this year, but I remember a few things: a few sentences, how they felt when I read them, where I was, and the look they pulled out of me.
 
 Inspired by [Kolina Cicero](https://kolinacicero.substack.com/p/the-25-most-beautiful-sentences-i?r=6mcf3k&utm_medium=ios&shareImageVariant=overlay&triedRedirect=true), this is my list from 2025.
 ## 01
@@ -72,7 +72,7 @@ Inspired by [Kolina Cicero](https://kolinacicero.substack.com/p/the-25-most-beau
 
 ~ *Fyodor Dostoyevsky*, Notes from the Underground
 
-**Why I love it:** 
+**Why I love it:** A piano key feels like an odd comparison at first, but it’s weirdly precise. It waits. It’s pressed. It sounds. It does the same thing again and again. It is Dostoyevsky's rejection of the idea that humans are predictable or programmable.
 
 ---
 ## 08
@@ -81,7 +81,7 @@ Inspired by [Kolina Cicero](https://kolinacicero.substack.com/p/the-25-most-beau
 
 ~ *Brandon Sanderson*, The Warbreaker
 
-**Why I love it:**
+**Why I love it:** It gives a nice weight to things that don't necessarily have any.
 
 ---
 ## 09
@@ -92,7 +92,7 @@ Inspired by [Kolina Cicero](https://kolinacicero.substack.com/p/the-25-most-beau
 
 ~ *Brandon Sanderson*, The Warbreaker
 
-**Why I love it:**
+**Why I love it:** This conversation features here solely because of the reaction it got off me (literal chills for those wondering). I remember exactly where I was when I heard it — walking through a cool March evening, the audiobook playing in my ears — when the book seemed to pause and tilt on itself completely.
 
 ---
 ## 10
@@ -101,6 +101,6 @@ Inspired by [Kolina Cicero](https://kolinacicero.substack.com/p/the-25-most-beau
 
 ~ *Robert Ludlum*, Bourne Legacy
 
-**Why I love it:**
+**Why I love it:** It just feels so well put. This line reduces a complicated character to a single measure of what he cannot reach. Everything else falls away.
 
 ---
