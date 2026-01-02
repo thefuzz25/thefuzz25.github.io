@@ -113,10 +113,17 @@ img {
 
 .note-date-prefix {
   white-space: nowrap;
+  color: #777;
+}
+
+.note-title-wrap {
+  display: inline-block;
+  max-width: 100%;
 }
 
 .note-title {
-  min-width: 0; /* critical for wrapping */
+  display: inline;
+  line-height: normal;
 }
 
 blockquote {
