@@ -48,9 +48,11 @@ USAGE EXAMPLES:
         {{ note.date | date: "%Y · %m" }}
       </span>
     {% endif %}
-    <a class="internal-link note-title" href="{{ site.baseurl }}{{ note.url }}">
-      {{ note.title }}
-    </a>
+    <span class="note-title-wrap">
+      <a class="internal-link note-title" href="{{ site.baseurl }}{{ note.url }}">
+        {{ note.title }}
+      </a>
+    </span>
   </li>
   {% endfor %}
 
@@ -62,9 +64,11 @@ USAGE EXAMPLES:
         {{ note.date | date: "%Y · %m" }}
       </span>
     {% endif %}
-    <a class="internal-link note-title" href="{{ site.baseurl }}{{ note.url }}">
-      {{ note.title }}
-    </a>
+    <span class="note-title-wrap">
+      <a class="internal-link note-title" href="{{ site.baseurl }}{{ note.url }}">
+        {{ note.title }}
+      </a>
+    </span>
   </li>
 
   {% endfor %}
