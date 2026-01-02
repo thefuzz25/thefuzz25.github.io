@@ -104,6 +104,27 @@ img {
   }
 }
 
+.note-row {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  column-gap: 0.6em;
+  align-items: baseline;
+}
+
+.note-date-prefix {
+  white-space: nowrap;
+}
+
+.note-title-wrap {
+  display: inline-block;
+  max-width: 100%;
+}
+
+.note-title {
+  display: inline;
+  line-height: normal;
+}
+
 blockquote {
   padding: 1.5em;
   margin: 0;
