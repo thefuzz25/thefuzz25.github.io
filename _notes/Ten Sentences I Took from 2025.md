@@ -1,6 +1,6 @@
 ---
-title: Ten Sentences I Kept from 2025
-date: 2026-01-01
+title: 📚 Ten Sentences I Took from 2025
+date: 2026-01-02
 type: note
 ---
 I don’t remember everything I read this year, but I remember a few things: a few sentences, how they felt when I read them, where I was, and the look they pulled from me.
@@ -16,7 +16,7 @@ Inspired by [Kolina Cicero](https://kolinacicero.substack.com/p/the-25-most-beau
 
 ~ _Richard Langston_, Hill Walk
 
-**Why I love it:**
+**Why I love it:** It sits slightly off-center: enough to catch your attention, enough to remind you that you don’t have complete control. The poem holds human encounter very lightly, and this ending leaves room for uncertainty without trying to resolve it. I love the visual picture this painted in my mind.
 
 ---
 ## 02
