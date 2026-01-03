@@ -37,6 +37,7 @@ All that done and dusted, I opened Final Cut Pro and imported roughly 50 GB of f
 
 <br>
 [One and a half year later]
+
 <br>
 
 #### Oct 2025
