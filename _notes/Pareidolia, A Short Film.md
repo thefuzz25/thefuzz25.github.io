@@ -39,7 +39,6 @@ All that done and dusted, I opened Final Cut Pro and imported roughly 50 GB of f
 [One and a half year later]
 
 <br>
-
 #### Oct 2025
 
 Panic, it turns out, is an excellent creative motivator. I resumed editing the film, not because I fancied it, but because my sister’s 18th birthday was approaching and I hadn’t sent a gift yet 😬.
