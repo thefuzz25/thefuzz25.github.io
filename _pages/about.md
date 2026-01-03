@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about
 ---
-### About me
+### About me 
 
 ==I’m Faiz.== Depending on when and where you met me, I’m either a student, an artist, or an athlete. This venture of mine is mostly an attempt to keep track of things before they disappear. A few links to explore:
 
