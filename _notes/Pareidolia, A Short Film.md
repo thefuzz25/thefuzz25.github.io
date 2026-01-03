@@ -3,6 +3,14 @@ title: 🎬 Pareidolia, A Short Film
 date: 2025-11-17
 type: note
 ---
+## The Film
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MB87j0uXxXA?si=rDSCBTIhFq9zjTDO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+## How It Came to Be
+
 #### Apr 2024
 
 The summer of ’24 arrived with me back home after ~~surviving~~ acing my freshman year of college. My sister had just finished 11th grade. Between the two of us, there was a surplus of time, confidence, and very little sense of consequence.
@@ -34,6 +42,3 @@ A friend suggested editing to music. I began searching for a song that changed m
 The edit came together just in time.
 
 And that’s how _Pareidolia_ came to be: a film named after the tendency to find meaning in randomness: faces in clouds, shapes in shadows, and trust in a project that took about a couple years to finish (mostly by accident).
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MB87j0uXxXA?si=rDSCBTIhFq9zjTDO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
