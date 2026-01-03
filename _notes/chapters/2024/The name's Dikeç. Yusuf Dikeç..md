@@ -36,4 +36,4 @@ Swimmer 🏊🏻‍♀️ Katie Ledecky became the most successful female Olympi
 
 [^1]: Source(s): morningbrew.com, www.olympics.com, www.hindustantimes.com
 
-^*Next chapter, [[_notes/_notes/chapters/2024/Down the Meme-ory Lane]]*
+^*Next chapter, [[Down the Meme-ory Lane]]*

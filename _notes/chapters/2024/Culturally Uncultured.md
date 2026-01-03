@@ -46,4 +46,4 @@ Since it blew up on the internet, everyone got in on it – the new *Ghostbuster
 
 [^1]: Source(s): www.miamiherald.com, www.bbc.com, www.morningbrew.com
 
-^*Next chapter, [[_notes/_notes/chapters/2024/The name's Dikeç. Yusuf Dikeç.]]*
+^*Next chapter, [[The name's Dikeç. Yusuf Dikeç.]]*

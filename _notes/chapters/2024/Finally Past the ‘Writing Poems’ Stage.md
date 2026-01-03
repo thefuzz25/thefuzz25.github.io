@@ -47,4 +47,4 @@ The only question now is: are we adapting fast enough to keep up? [^1]
 
 [^1]:Source(s): www.pcmag.com, www.medium.com, www.bbc.com, www.vox.com
 
-^*Next chapter, [[_notes/_notes/chapters/2024/Culturally Uncultured]]*
+^*Next chapter, [[Culturally Uncultured]]*

@@ -28,4 +28,4 @@ And then there’s Yemen. And Congo. Reminders that some wars don't need headlin
 
 [^1]: Source(s): svet.charita.cz, www.bbc.com, www.thehindu.com, www.britannica.com
 
-^*Next chapter, [[_notes/_notes/chapters/2024/Finally Past the ‘Writing Poems’ Stage]]*
+^*Next chapter, [[Finally Past the ‘Writing Poems’ Stage]]

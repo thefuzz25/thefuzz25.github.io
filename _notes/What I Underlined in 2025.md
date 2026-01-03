@@ -1,5 +1,5 @@
 ---
-title: 📚 What I Underlined in 2025
+title: 🖋️ What I Underlined in 2025
 date: 2026-01-02
 type: note
 ---

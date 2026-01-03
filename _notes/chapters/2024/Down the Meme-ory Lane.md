@@ -52,4 +52,4 @@ From cats singing about tomatoes to a dog in sneakers who became our emotional r
 
 [^1]: Source(s): www.knocksense.com, www.rollingstone.com, www.complex.com
 
-^*Next chapter, [[_notes/_notes/chapters/2024/The Things that Stayed]]*
+^*Next chapter, [[The Things that Stayed]]*
