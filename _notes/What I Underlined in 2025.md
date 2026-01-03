@@ -100,5 +100,3 @@ I don’t remember everything I read this past year, but I do remember a few thi
 ~ *Robert Ludlum*, Bourne Legacy
 
 **Why I love it:** It just feels so well put. This line reduces a complicated character to a single measure of what he cannot reach. Everything else falls away.
-
----
