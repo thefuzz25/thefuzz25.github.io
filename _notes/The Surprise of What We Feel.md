@@ -6,7 +6,7 @@ type: note
 Emotions sneak up in strange ways. My sister started college this week and while I wasn’t the one packing bags 🎒 or walking into a new campus, somehow, my stomach felt a little knotted. It was almost like stage fright — which was weird, because the milestone  wasn't even mine. It left me wondering: Why was I nervous? Was it protectiveness? Was it pride? Or was it just watching her begin and realizing that beginnings always meant change for everyone. [^1]
 ### Why though?
 
-> A flutter of nervousness — like butterflies, but not quite. The feeling came from elsewhere but echoed quietly within.
+> A flutter of nervousness; like butterflies, but not quite. The feeling came from elsewhere but echoed quietly within.
 
 ### Because, Family. [^2]
 
@@ -14,7 +14,7 @@ Emotions sneak up in strange ways. My sister started college this week and while
 
 I ache, I hold my breath, I glow, I melt — but not always for myself. These feelings weren't mine but a borrowed reflection 🪞 of someone I love, of how far we’ve both come, how far there is to go, and how in ways big and small, we’ll keep carrying pieces of each other along the way.
 
-And maybe, that’s what we live for: to live not only our own story, but to be stitched into the stories of the people we love. ==To live more than once.==
+And maybe, that’s what we live for: to live not only our own story, but to be stitched 🧵 into the stories of the people we love. ==To live more than once.==
 
 ---
 

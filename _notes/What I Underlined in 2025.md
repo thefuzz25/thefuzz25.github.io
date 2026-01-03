@@ -3,7 +3,7 @@ title: 🖋️ What I Underlined in 2025
 date: 2026-01-02
 type: note
 ---
-I don’t remember everything I read this past year, but I do remember a few things: a few sentences, how they felt when I read them, where I was, and the reaction they got from me. Below are ==ten sentences== that stayed with me in 2025.
+I don’t remember everything I read this past year, but I do remember a few things: a few sentences, how they felt when I read them, where I was, and the reaction they got from me 🫣😩😵. Below are ==ten sentences== that stayed with me in 2025.
 ## 01
 
 > “So you could walk  
@@ -14,7 +14,7 @@ I don’t remember everything I read this past year, but I do remember a few thi
 
 ~ _Richard Langston_, Hill Walk
 
-**Why I love it:** It sits just slightly off-center: enough to catch your attention, enough to remind you that you don’t have complete control. The poem holds human encounter very lightly, and I love the visual picture this ending stanza paints in my mind.
+**Why I love it:** It sits just slightly off-center: enough to catch your attention, enough to remind you that you don’t have complete control. The poem holds human encounter very lightly , and I love the visual picture this ending stanza paints in my mind.
 
 ---
 ## 02
@@ -23,7 +23,7 @@ I don’t remember everything I read this past year, but I do remember a few thi
 
 ~ *Frank Herbert*, Dune
 
-**Why I love it:** This one had to be here. Because every time it appeared in the book, it pulled me deeper into the world of *Dune*. Its power isn't in the meaning of any single line, but in the act of letting the words do their thing until fear dissociates completely.
+**Why I love it:** This one had to be here. Because every time it appeared in the book, it pulled me deeper into the world of *Dune* 🏝️. Its power isn't in the meaning of any single line, but in the act of letting the words do their thing until fear dissociates completely.
 
 ---
 ## 03
@@ -46,7 +46,7 @@ I don’t remember everything I read this past year, but I do remember a few thi
 ---
 ## 05
 
-> “I swear, my dear. Sometimes our conversations remind me of a broken sword."  
+> “I swear, my dear. Sometimes our conversations remind me of a broken sword. ⚔️"  
 > She raised an eyebrow.
 > "Sharp as hell," Lightsong said, "but lacking a point.”
 
@@ -70,7 +70,7 @@ I don’t remember everything I read this past year, but I do remember a few thi
 
 ~ *Fyodor Dostoyevsky*, Notes from the Underground
 
-**Why I love it:** A piano key feels like an odd comparison at first, but it’s weirdly precise. It waits. It’s pressed. It sounds. It does the same thing again and again. It is Dostoyevsky's rejection of the idea that humans are predictable or programmable.
+**Why I love it:** A piano key 🎹 feels like an odd comparison at first, but it’s weirdly precise. It waits. It’s pressed. It sounds. It does the same thing again and again. It is Dostoyevsky's rejection of the idea that humans are predictable or programmable.
 
 ---
 ## 08
@@ -90,7 +90,7 @@ I don’t remember everything I read this past year, but I do remember a few thi
 
 ~ *Brandon Sanderson*, The Warbreaker
 
-**Why I love it:** This conversation features here solely because of the reaction it got off me (literal chills for those wondering). I remember exactly where I was when I heard it — walking through a cool March evening, the audiobook playing in my ears — when the book seemed to pause and tilt on itself completely.
+**Why I love it:** This conversation features here solely because of the reaction it got off me (literal chills for those wondering). I remember exactly where I was when I heard it — walking 🚶 through a cool March evening, the audiobook playing in my ears — when the book seemed to pause and tilt on itself completely.
 
 ---
 ## 10
