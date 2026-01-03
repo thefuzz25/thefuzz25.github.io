@@ -35,7 +35,9 @@ Shooting was exhausting. Between set design, direction, lighting (and convincing
 
 All that done and dusted, I opened Final Cut Pro and imported roughly 50 GB of footage. I stared at it for a while. The screen stared back. Apart from basic sequencing of the clips, I couldn't figure out head or tail of the software. So I closed the project and did what any reasonable person would do: nothing. 🎉
 
+<br>
 [One and a half year later]
+<br>
 
 #### Oct 2025
 
