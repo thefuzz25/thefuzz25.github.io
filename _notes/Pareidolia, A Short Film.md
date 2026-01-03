@@ -47,4 +47,4 @@ A friend suggested editing to music. I began searching for a song that changed m
 
 The edit came together just in time.
 
-And that’s how ==_Pareidolia_== ☁️ came to be: a film named after the tendency to find meaning in randomness: faces in clouds, shapes in shadows, and trust in a project that took about a couple years to finish (mostly by accident).
+And that’s how _==Pareidolia==_ ☁️ came to be: a film named after the tendency to find meaning in randomness: faces in clouds, shapes in shadows, and trust in a project that took about a couple years to finish (mostly by accident).
