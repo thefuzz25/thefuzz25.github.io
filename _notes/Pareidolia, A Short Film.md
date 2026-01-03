@@ -41,7 +41,7 @@ All that done and dusted, I opened Final Cut Pro and imported roughly 50 GB of f
 <br>
 #### Oct 2025
 
-Panic, it turns out, is an excellent creative motivator. I resumed editing the film, not because I fancied it, but because my sister’s 18th birthday was approaching and I hadn’t sent a gift yet 😬.
+Panic, it turns out, is an excellent ==creative== motivator. I resumed editing the film, not because I fancied it, but because my sister’s 18th birthday was approaching and I hadn’t sent a gift yet 😬.
 
 A friend suggested editing to music. I began searching for a song that changed moods dramatically, covered multiple genres, and could carry an unfinished film through sheer force of personality. Something in the _Bohemian Rhapsody_ family tree. *Cue:* days of searching (and an unreasonable amount of overthinking); I landed on _Live and Let Die_ by Beatles' bassist Paul McCartney 👨🏻‍🎤. It worked absurdly well.
 
