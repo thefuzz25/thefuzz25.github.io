@@ -139,6 +139,15 @@ img {
   border: 0;
 }
 
+mark {
+  background: linear-gradient(
+    to top,
+    #ffe8bc 35%,
+    transparent 35%
+  );
+  color: inherit;
+  padding: 0;
+}
 
 blockquote {
   padding: 1.5em;
