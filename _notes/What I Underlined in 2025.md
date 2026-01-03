@@ -3,7 +3,7 @@ title: 🖋️ What I Underlined in 2025
 date: 2026-01-02
 type: note
 ---
-I don’t remember everything I read this past year, but I do remember a few things: a few sentences, how they felt when I read them, where I was, and the reaction they got from me. Below are ten sentences that stayed with me in 2025.
+I don’t remember everything I read this past year, but I do remember a few things: a few sentences, how they felt when I read them, where I was, and the reaction they got from me. Below are ==ten sentences== that stayed with me in 2025.
 ## 01
 
 > “So you could walk  

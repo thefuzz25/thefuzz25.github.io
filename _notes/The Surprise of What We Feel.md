@@ -14,7 +14,7 @@ Emotions sneak up in strange ways. My sister started college this week and while
 
 I ache, I hold my breath, I glow, I melt — but not always for myself. These feelings weren't mine but a borrowed reflection 🪞 of someone I love, of how far we’ve both come, how far there is to go, and how in ways big and small, we’ll keep carrying pieces of each other along the way.
 
-And maybe, that’s what we live for: to live not only our own story, but to be stitched into the stories of the people we love. To live more than once.
+And maybe, that’s what we live for: to live not only our own story, but to be stitched into the stories of the people we love. ==To live more than once.==
 
 ---
 

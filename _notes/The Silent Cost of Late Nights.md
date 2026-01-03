@@ -74,7 +74,7 @@ Woke up even before the sun today — No clutter, no rush.
 
 Had time to _think_ before the day started. Wild.
 
-As it turns out, the mornings didn't change. **I did.**
+As it turns out, the mornings didn't change. ==**I did.**==
 
 <hr class="dots">
 
