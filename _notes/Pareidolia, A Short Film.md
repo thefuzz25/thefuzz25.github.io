@@ -6,7 +6,7 @@ type: note
 ## The Film
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 560px; margin: 0 auto;">
-	  <iframe width="560"  src="https://www.youtube.com/embed/MB87j0uXxXA?si=rDSCBTIhFq9zjTDO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+	  <iframe width="560" height="315" src="https://www.youtube.com/embed/MB87j0uXxXA?si=rDSCBTIhFq9zjTDO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 ---
 
