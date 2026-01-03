@@ -44,9 +44,13 @@ USAGE EXAMPLES:
 
   <li class="note-row">
     {% if show_dates %}
-      <span class="note-date-prefix">
+    <span class="note-date-prefix">
+      {% if group %}
+        {{ note.date | date: "%B %d" }}
+      {% else %}
         {{ note.date | date: "%Y · %m" }}
-      </span>
+      {% endif %}
+    </span>
     {% endif %}
     <span class="note-title-wrap">
       <a class="internal-link note-title" href="{{ site.baseurl }}{{ note.url }}">
