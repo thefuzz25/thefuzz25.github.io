@@ -28,8 +28,6 @@ Thinking about it since morning, or rather since I read [[The Fault in Our Stars
 
 > I'm on a rollercoaster that only goes up.
 
-Thinking about starting a mini-project on the same. Let us see.
-
 #### Sun, 21 Dec 2025 — 12:20
 
 > Please allow me to introduce myself
