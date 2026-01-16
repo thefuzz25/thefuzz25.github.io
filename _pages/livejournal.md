@@ -9,6 +9,15 @@ Big words, the right mood and some semblance of sanity are rare; in college, eve
 
 ---
 <section class="entries" markdown="1">
+
+#### Wed, 14 Jan 2026 — 22:55
+
+I am so scared right now. Scared of the realization that I have so much potential. Potential which might (potentially) go out the window if I don't set things straight. 
+
+But how. 
+
+How do I do that.
+
 #### Thu, 01 Jan 2026 — 19:55
 
 Last year felt like I was always short on time. Which is absurd, since I’m only goddamn 20. This time around, I refuse to rush. Intentionally so.
