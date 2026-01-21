@@ -10,6 +10,10 @@ Big words, the right mood and some semblance of sanity are rare; in college, eve
 ---
 <section class="entries" markdown="1">
 
+#### Tue, 20 Jan 2026 — 17:43
+
+College life is a literal seesaw. You can either choose to work on yourself in isolation or dabble here, there and everywhere. Success is both ways. For this Tuesday, I've gone with the former. 
+
 #### Wed, 14 Jan 2026 — 22:55
 
 I am so scared right now. Scared of the realization that I have so much potential. Potential which might (potentially) go out the window if I don't set things straight. 
