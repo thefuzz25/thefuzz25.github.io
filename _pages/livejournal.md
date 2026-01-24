@@ -10,6 +10,24 @@ Big words, the right mood and some semblance of sanity are rare; in college, eve
 ---
 <section class="entries" markdown="1">
 
+
+#### Sat, 24 Jan 2026 — 09:07
+
+I dreamt last night of dying. Not exactly, but of knowing that the day ahead would be my last on earth. Absurd, *obviously*. Still, I was intrigued by how my dream-self reacted to that knowledge.
+
+I’d always assumed I’d do things I hadn’t done before. Maybe take a puff, maybe get that first kiss, *definitely* eat good food. But he didn’t do any of that.
+
+He went for a walk. Breathed in the smell of freshly cut grass and the cool breeze. He spent the day with his family, content and unhurried. He sat at his desk and wrote letters. Letters of gratitude to everyone he could remember.
+
+At night, he lay in bed, sighed deeply, and closed his eyes with a small smile curling at the edge of his lips.
+
+There, he slept. And I woke up.
+
+#### Fri, 23 Jan 2026 — 13:06
+
+> "A dead thing can go with the stream, but only a living thing can go against it." _~ G.K. Chesterton_
+
+
 #### Tue, 20 Jan 2026 — 17:43
 
 College life is a literal seesaw. You can either choose to work on yourself in isolation or dabble here, there and everywhere. Success is both ways. For this Tuesday, I've gone with the former. 
