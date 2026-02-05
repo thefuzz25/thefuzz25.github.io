@@ -37,13 +37,13 @@ It was beautiful.
 #### Fri, 30 Jan 2026 — 11:32
 
 _[Come on man. You can do it.]_  
+
 That’s me hyping myself up for the past few days. But today I saw her IRL and whew... she’s beautiful. I’ve never asked anyone out for a cup of coffee before, but this time I’m going to.
 
 \* **UPDATE:** She said no. And I’m sad. But still, a _huuuuge_ leap for me. If it’s not meant to be, it’s not meant to be.
 
 \*\* **UPDATE:** I stress-ate a waffle. Honestly, if I had to choose between a girlfriend and good food, I’m not sure which I’d pick. 
-
-Girl, that waffle was _fine_.
+That waffle was _fine_.
 
 #### Sat, 24 Jan 2026 — 09:07
 
