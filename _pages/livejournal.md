@@ -10,6 +10,40 @@ Big words, the right mood and some semblance of sanity are rare; in college, eve
 ---
 <section class="entries" markdown="1">
 
+#### Thu, 05 Feb 2026 — 14:09
+
+Ugh. It’s been _so_ long since I last talked to myself. He feels lonely; and so do I. Every stupid silence lately gets unconsciously filled with either
+
+- Arctic Monkeys (yes, I’m in my indie rock phase), or
+- another episode of _Shrinking_ (honestly worth the watch, love it), or
+- vicious Instagram scrolling.
+
+I should be stronger.  
+I _am_ stronger than this.  
+Arrrgh.
+
+#### Sun, 01 Feb 2026 — 23:31
+
+Our college hosted an International Folk Music Festival this weekend, and I finally managed to check it out today. Bands from Latvia, Spain, Denmark, and a few other countries performed. Individually, they were really good — the _we-had-fun-listening_ kind of good.
+
+But just as the curtains were about to close, the emcee announced the grand finale: all the bands performing together.
+
+And it was something else entirely. It was awesome — the *once-in-a-lifetime* kind of awesome.
+
+There are very few moments when you get to see, firsthand, how music and dance don’t just cross language barriers, they erase them. Latvians dancing with Romanians. Spanish harmonizing with Danes. Everyone moving to a Hungarian violin and a Bengali dholak.
+
+It was beautiful.
+
+#### Fri, 30 Jan 2026 — 11:32
+
+_[Come on man. You can do it.]_  
+That’s me hyping myself up for the past few days. But today I saw her IRL and whew... she’s beautiful. I’ve never asked anyone out for a cup of coffee before, but this time I’m going to.
+
+\* **UPDATE:** She said no. And I’m sad. But still, a _huuuuge_ leap for me. If it’s not meant to be, it’s not meant to be.
+
+\*\* **UPDATE:** I stress-ate a waffle. Honestly, if I had to choose between a girlfriend and good food, I’m not sure which I’d pick. 
+
+Girl, that waffle was _fine_.
 
 #### Sat, 24 Jan 2026 — 09:07
 
