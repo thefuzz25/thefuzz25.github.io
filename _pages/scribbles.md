@@ -7,14 +7,18 @@ permalink: /scribbles
 
 And then there are moments when words become boring. Or rather, they don't let me run wild with my imagination as a pencil does.
 
-#### Thu, 11 Dec 2025 — 16:56
+#### 24 Jan 2025
+
+<img src="{{ site.baseurl }}/assets/sketches/4.jpeg"/>
+
+#### 11 Dec 2025
 
 <img src="{{ site.baseurl }}/assets/sketches/3.jpg"/>
 
-#### Mon, 16 Sept 2024 — 00:15
+#### 16 Sept 2024
 
 <img src="{{ site.baseurl }}/assets/sketches/2.jpeg"/>
 
-#### Wed, 29 May 2024 — 12:39
+#### 29 May 2024
 
 <img src="{{ site.baseurl }}/assets/sketches/1.jpeg"/>
