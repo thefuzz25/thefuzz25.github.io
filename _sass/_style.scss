@@ -142,12 +142,14 @@ img {
 mark {
   background: linear-gradient(
     to top,
-    #ffe8bc 35%,
+    #dedeff 35%,
     transparent 35%
   );
   color: inherit;
   padding: 0;
 }
+
+/* #ffe8bc is the original highlight color */
 
 blockquote {
   padding: 1.5em;
