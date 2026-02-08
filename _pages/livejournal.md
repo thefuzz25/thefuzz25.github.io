@@ -9,6 +9,11 @@ Big words, the right mood and some semblance of sanity are rare; in college, eve
 
 ---
 <section class="entries" markdown="1">
+#### Sun, 08 Feb 2026 — 22:37
+
+Feel like someone's standing on top of me. It's *that* bad. 
+
+\#F\*\*\*CoughandCold
 
 #### Thu, 05 Feb 2026 — 14:09
 
