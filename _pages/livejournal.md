@@ -9,11 +9,22 @@ Big words, the right mood and some semblance of sanity are rare; in college, eve
 
 ---
 <section class="entries" markdown="1">
-#### Sun, 08 Feb 2026 — 22:37
+#### Tue, 10 Feb 2026 — 07:23
+
+Omg, I never knew that I wasn't shaving the right way. That is crazy (considering that I'm soon to turn 21 now). 
+
+Note to self: From now on, _always_ shave in the direction of hair grain, not downwards all the time, you stupid fellow.
+
+#### Mon, 09 Feb 2026 — 13:10
+
+Today marks the half-year milestone of this live journal and I'm glad that I started this. With y'all ofc [wink wink].
+#### Sun, 08 Feb 2026 — 22:37 
 
 Feel like someone's standing on top of me. It's *that* bad. 
 
-\#F\*\*\*CoughandCold
+\#F\*\*\*Viral
+
+\*TWODAYSLATER: Coughed up blood. Evidently it doesn't go away if you ignore it. Friendship taught me the quite opposite lol.
 
 #### Thu, 05 Feb 2026 — 14:09
 
