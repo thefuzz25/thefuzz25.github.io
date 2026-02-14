@@ -5,7 +5,7 @@ permalink: /livejournal
 ---
 ## Live Journal
 
-Big words, the right mood and some semblance of sanity are rare; in college, even more so. Just watched _The Social Network_, and now I'm starting a live journal. No reason. Just felt like it.
+Big words, the right mood and some semblance of sanity are rare; in college, even more so. Just rewatched _The Social Network_ (this was back in the August of 2025), and now I'm starting a live journal. No reason. Just felt like it.
 
 ---
 <section class="entries" markdown="1">
@@ -17,33 +17,40 @@ Big words, the right mood and some semblance of sanity are rare; in college, eve
 >To have someone to walk ahead of my life.
 >Someone I can go to when I need advice.
 >Someone to protect me from everything that hurt them.
->  
+>
+>
 That’s what it really means to have an older sibling:  
 someone I don’t even remember meeting,  
 someone who loved me before I knew love was a feeling.
+>
 >
 And man, it must be hard.  
 Being mom and dad’s first.  
 Being the kid who taught them how to be adults.  
 Being the one who met all their flaws and all their expectations first.
 >
+>
 They say the first child becomes the third parent.  
 When you’re young, you think they’re just one of you.  
 Then you grow up, look back, and realize they had to grow up faster  
 so you could stay a kid.
+>
 >
 He took care of me.  
 I did everything with my older brother, and only now do I realize, 
 the foundation he was.  
 I build my life on the things that he does.
 >
+>
 He’s the oldest.  
 And he's just up there alone. 
 He did everything I did, but on his own.
 >
+>
 It’s nice having that.  
 Someone who listens.  
 Someone you can trust.
+>
 >
 Older siblings don’t just grow up.  
 They help grow us.
