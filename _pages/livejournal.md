@@ -11,12 +11,12 @@ Big words, the right mood and some semblance of sanity are rare; in college, eve
 <section class="entries" markdown="1">
 
 
-#### Sat, 14 Feb 2026 — 10:52
+#### ==Sat, 14 Feb 2026 — 10:52==
 
 >How lucky am I to have an older sibling.  
-To have someone to walk ahead of my life
-Someone I can go to when I need advice 
-Someone to protect me from everything that hurt them
+>To have someone to walk ahead of my life.
+>Someone I can go to when I need advice.
+>Someone to protect me from everything that hurt them.
 >
 That’s what it really means to have an older sibling:  
 someone I don’t even remember meeting,  
@@ -47,7 +47,8 @@ Someone you can trust.
 >
 Older siblings don’t just grow up.  
 They help grow us.
-#### Fri, 13 Feb 2026 — 21:09
+
+#### ==Fri, 13 Feb 2026 — 21:09==
 
 This whole act of convincing people not to study and calling it “friendship” is nonsense. You don’t push someone onto a worse path and then pat yourself on the back for it.
 
@@ -55,7 +56,7 @@ Sure, _you’ve_ already studied. But I’m supposed to slack off just because
 Bullshit.
 
 Real friends push each other forward, not off a cliff.
-#### Tue, 10 Feb 2026 — 07:23
+#### ==Tue, 10 Feb 2026 — 07:23==
 
 Omg. I just realized I haven’t been shaving the right way. Ever.  
 
