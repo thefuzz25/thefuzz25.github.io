@@ -9,23 +9,71 @@ Big words, the right mood and some semblance of sanity are rare; in college, eve
 
 ---
 <section class="entries" markdown="1">
+
+
+#### Sat, 14 Feb 2026 — 10:52
+
+>How lucky am I to have an older sibling.  
+To have someone to walk ahead of my life
+Someone I can go to when I need advice 
+Someone to protect me from everything that hurt them
+>
+That’s what it really means to have an older sibling:  
+someone I don’t even remember meeting,  
+someone who loved me before I knew love was a feeling.
+>
+And man, it must be hard.  
+Being mom and dad’s first.  
+Being the kid who taught them how to be adults.  
+Being the one who met all their flaws and all their expectations first.
+>
+They say the first child becomes the third parent.  
+When you’re young, you think they’re just one of you.  
+Then you grow up, look back, and realize they had to grow up faster  
+so you could stay a kid.
+>
+He took care of me.  
+I did everything with my older brother, and only now do I realize, 
+the foundation he was.  
+I build my life on the things that he does.
+>
+He’s the oldest.  
+And he's just up there alone. 
+He did everything I did, but on his own.
+>
+It’s nice having that.  
+Someone who listens.  
+Someone you can trust.
+>
+Older siblings don’t just grow up.  
+They help grow us.
+#### Fri, 13 Feb 2026 — 21:09
+
+This whole act of convincing people not to study and calling it “friendship” is nonsense. You don’t push someone onto a worse path and then pat yourself on the back for it.
+
+Sure, _you’ve_ already studied. But I’m supposed to slack off just because you’re free now?  
+Bullshit.
+
+Real friends push each other forward, not off a cliff.
 #### Tue, 10 Feb 2026 — 07:23
 
-Omg, I never knew that I wasn't shaving the right way. That is crazy (considering that I'm soon to turn 21 now). 
+Omg. I just realized I haven’t been shaving the right way. Ever.  
 
-Note to self: From now on, _always_ shave in the direction of hair grain, not downwards all the time, you stupid fellow.
+Which is wild, considering I’m about to turn 21.
+
+Note to self: from now on, _always_ shave in the direction of hair growth, not straight down like an idiot.
 
 #### Mon, 09 Feb 2026 — 13:10
 
 Today marks the half-year milestone of this live journal and I'm glad that I started this. With y'all ofc [wink wink].
 #### Sun, 08 Feb 2026 — 22:37 
 
-Feel like someone's standing on top of me. It's *that* bad. 
+Feels like someone’s standing on my chest. It’s _that_ bad.
 
 \#F\*\*\*Viral
 
-\*TWODAYSLATER: Coughed up blood. Evidently it doesn't go away if you ignore it. Friendship taught me the quite opposite lol.
-
+\***TWO DAYS LATER:** Coughed up blood. Turns out ignoring things doesn’t make them go away.  
+Friendship taught me the exact opposite, lol.
 #### Thu, 05 Feb 2026 — 14:09
 
 Ugh. It’s been _so_ long since I last talked to myself. He feels lonely; and so do I. Every stupid silence lately gets unconsciously filled with either
