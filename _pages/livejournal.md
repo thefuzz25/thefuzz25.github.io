@@ -13,7 +13,7 @@ Big words, the right mood, and some semblance of sanity are rare; in college, ev
 
 #### ==Sat, 14 Feb 2026 — 10:52==
 
-This poem online got me teary-eyed a bit.
+This poem online got me teary-eyed a bit. And it's not all us but younger siblings as well which are more often then not our reason to smile and to live.
 
 >  How lucky am I to have an older sibling.  
 >To have someone to walk ahead of my life. 
