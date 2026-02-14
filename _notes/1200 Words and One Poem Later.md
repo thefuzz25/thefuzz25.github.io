@@ -85,25 +85,25 @@ Wow, over 1200 words that ~~you had~~ my fingers had to endure. My esteemed read
 
 ### The Poem
 
-> Half-empty seats hum with fatigue,  
-> lights flicker softly, half-asleep. 
-> 
-> He hums to himself —    
-> off-key, wandering.    
-> Lost inside his own world, was he.
-> 
-> She catches the faint thread,  
-> hums along without knowing, does she.
-> 
-> Their eyes meet for a flicker,  
-> a hush, half-smiles,    
-> both suddenly aware of the absurdity.
-> 
-> Later, she sets the dinner,  
-> stirring the pasta slowly,    
-> the tune slipping softly from her lips.   
-> A silly little song —    
-> foolish, human, and hers wholly.
+>  Half-empty seats hum with fatigue,  
+>lights flicker softly, half-asleep. 
+> <br><br>
+>  He hums to himself —    
+>off-key, wandering.    
+>Lost inside his own world, was he.
+> <br><br>
+>  She catches the faint thread,  
+>hums along without knowing, does she.
+> <br><br>
+>  Their eyes meet for a flicker,  
+>a hush, half-smiles,    
+>both suddenly aware of the absurdity.
+> <br><br>
+>  Later, she sets the dinner,  
+>stirring the pasta slowly,    
+>the tune slipping softly from her lips.   
+>A silly little song —    
+>foolish, human, and hers wholly.
 
 ^Do give [[The Surprise of What We Feel]] a read as well!
 

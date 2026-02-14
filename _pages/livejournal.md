@@ -16,8 +16,8 @@ Big words, the right mood, and some semblance of sanity are rare; in college, ev
 This poem online got me teary-eyed a bit. And it's not all us but younger siblings as well which are more often then not our reason to smile and to live.
 
 >  How lucky am I to have an older sibling.  
->To have someone to walk ahead of my life. 
->Someone I can go to when I need advice. 
+>To have someone to walk ahead of my life.  
+>Someone I can go to when I need advice.  
 >Someone to protect me from everything that hurt them. 
 > <br><br>
 >  That’s what it really means to have an older sibling:  
