@@ -17,12 +17,12 @@ Big words, the right mood, and some semblance of sanity are rare; in college, ev
 >To have someone to walk ahead of my life.
 >Someone I can go to when I need advice.
 >Someone to protect me from everything that hurt them.
-> <br>
-That’s what it really means to have an older sibling:  
+>
+>  That’s what it really means to have an older sibling:  
 someone I don’t even remember meeting,  
 someone who loved me before I knew love was a feeling.
 ><br>
-And man, it must be hard.  
+>  And man, it must be hard.  
 Being mom and dad’s first.  
 Being the kid who taught them how to be adults.  
 Being the one who met all their flaws and all their expectations first.
