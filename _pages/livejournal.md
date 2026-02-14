@@ -13,14 +13,14 @@ Big words, the right mood, and some semblance of sanity are rare; in college, ev
 
 #### ==Sat, 14 Feb 2026 — 10:52==
 
-> How lucky am I to have an older sibling.  
-> To have someone to walk ahead of my life.
-> Someone I can go to when I need advice.
-> Someone to protect me from everything that hurt them.
-> 
+>How lucky am I to have an older sibling.  
+>To have someone to walk ahead of my life.
+>Someone I can go to when I need advice.
+>Someone to protect me from everything that hurt them.
+> <br><br>
 >  That’s what it really means to have an older sibling:  
-> someone I don’t even remember meeting,  
-> someone who loved me before I knew love was a feeling.
+>someone I don’t even remember meeting,  
+>someone who loved me before I knew love was a feeling.
 > 
 >  And man, it must be hard.  
 > Being mom and dad’s first.  
