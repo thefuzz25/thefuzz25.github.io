@@ -13,40 +13,42 @@ Big words, the right mood, and some semblance of sanity are rare; in college, ev
 
 #### ==Sat, 14 Feb 2026 — 10:52==
 
->How lucky am I to have an older sibling.  
->To have someone to walk ahead of my life.
->Someone I can go to when I need advice.
->Someone to protect me from everything that hurt them.
+This poem online got me teary-eyed a bit.
+
+>  How lucky am I to have an older sibling.  
+>To have someone to walk ahead of my life. 
+>Someone I can go to when I need advice. 
+>Someone to protect me from everything that hurt them. 
 > <br><br>
 >  That’s what it really means to have an older sibling:  
 >someone I don’t even remember meeting,  
 >someone who loved me before I knew love was a feeling.
-> 
+> <br><br>
 >  And man, it must be hard.  
-> Being mom and dad’s first.  
-> Being the kid who taught them how to be adults.  
-> Being the one who met all their flaws and all their expectations first.
-><br>
-They say the first child becomes the third parent.  
-When you’re young, you think they’re just one of you.  
-Then you grow up, look back, and realize they had to grow up faster  
-so you could stay a kid.
-> <br>
-He took care of me.  
-I did everything with my older brother, and only now do I realize, 
-the foundation he was.  
-I build my life on the things that he does.
-><br>
-He’s the oldest.  
-And he's just up there alone. 
-He did everything I did, but on his own.
-><br>
-It’s nice having that.  
-Someone who listens.  
-Someone you can trust.
-><br>
-Older siblings don’t just grow up.  
-They help grow us.
+>Being mom and dad’s first.  
+>Being the kid who taught them how to be adults.  
+>Being the one who met all their flaws and all their expectations first.
+><br><br>
+>  They say the first child becomes the third parent.  
+>When you’re young, you think they’re just one of you.  
+>Then you grow up, look back, and realize they had to grow up faster  
+>so you could stay a kid.
+><br><br>
+>  He took care of me.  
+>I did everything with my older brother, and only now do I realize, 
+>the foundation he was.  
+>I build my life on the things that he does.
+><br><br>
+>  He’s the oldest.  
+>And he's just up there alone. 
+>He did everything I did, but on his own.
+><br><br>
+>It’s nice having that.  
+>Someone who listens.  
+>Someone you can trust.
+><br><br>
+>  Older siblings don’t just grow up.  
+>They help grow us.
 
 #### ==Fri, 13 Feb 2026 — 21:09==
 
