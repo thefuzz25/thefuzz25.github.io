@@ -17,7 +17,7 @@ Big words, the right mood and some semblance of sanity are rare; in college, eve
 >To have someone to walk ahead of my life.
 >Someone I can go to when I need advice.
 >Someone to protect me from everything that hurt them.
->
+>  
 That’s what it really means to have an older sibling:  
 someone I don’t even remember meeting,  
 someone who loved me before I knew love was a feeling.
@@ -58,15 +58,13 @@ Bullshit.
 Real friends push each other forward, not off a cliff.
 #### ==Tue, 10 Feb 2026 — 07:23==
 
-Omg. I just realized I haven’t been shaving the right way. Ever.  
+Omg. I just realized I haven’t been shaving the right way. Ever. Which is wild, considering I’m about to turn 21.
 
-Which is wild, considering I’m about to turn 21.
-
-Note to self: from now on, _always_ shave in the direction of hair growth, not straight down like an idiot.
+_Note to self:_ from now on, _always_ shave in the direction of hair growth, not straight down like an idiot.
 
 #### Mon, 09 Feb 2026 — 13:10
 
-Today marks the half-year milestone of this live journal and I'm glad that I started this. With y'all ofc [wink wink].
+Today marks the half-year milestone of this live journal and I'm glad that I started this. With y'all ofc _[wink wink]_.
 #### Sun, 08 Feb 2026 — 22:37 
 
 Feels like someone’s standing on my chest. It’s _that_ bad.
