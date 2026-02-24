@@ -1,5 +1,5 @@
 ---
-title: Waiting Rooms Make Time Weird
+title: 🕰️ Waiting Rooms Make Time Weird
 date: 2026-02-24
 type: note
 ---
@@ -21,7 +21,22 @@ A cup of coffee, a shower and a drive later, I checked in with the receptionist 
 
 You remember the feeling I described earlier? It hit me the first time since I thought the interviewer was going to order me to dance to *Rasputin* because my CV mentioned I was interested in World War 1 and the Russian Revolution. The waiting room seemed like any other. At first that is. There was the door through which I entered, a door to the dentist's room across the room, frosted windows on my left along with a painting of some german lore I couldn't care less about.
 
-There were four other people in the room and each of them looked like they cared as much about the painting as I did. 
+There were four other people in the room and each of them looked like they cared as 
+much about the painting as I did. 
+
+---
+1. Old Man
+2. Middle-aged black woman
+3. Man boy
+
+
+Closest to the door sat a man in a grey suit that had seen better decades. Not years—decades. The fabric shone faintly at the elbows, the way things do when they’ve been leaned on too often. His hands rested on his knees, palms down, as if he were afraid they might otherwise wander off. He wasn’t looking at anything in particular, but he wasn’t not looking either. His eyes had the vague commitment of someone attending a lecture they would not be tested on.
+
+Across from him was a woman who could have been anywhere between thirty and resentment. She held her phone upright but hadn’t moved her thumb in several seconds. The screen had gone dark, yet she continued staring into it, perhaps hoping it might apologize.
+
+Next to her was an old man who had folded himself into the chair with surprising neatness. His coat remained buttoned despite the warmth of the room, and his hat sat firmly on his head as though removal would constitute some irreversible decision. He blinked slowly, deliberately, like someone rationing his participation in the present.
+
+The last was a boy, or perhaps a young man pretending not to be one anymore. He sat slouched forward, elbows on knees, staring at the floor with intense suspicion. His foot tapped—not nervously, but rhythmically, like he was keeping time with something only he could hear.
 
 ---
 
@@ -30,9 +45,27 @@ None of them spoke. Which, ordinarily, I would have appreciated.
 Silence and I have always had a comfortable understanding. As a historian, most of what I work with is silence. Pages that stop mid-sentence. People who never explained themselves. Silence, in my experience, is not empty. It listens. It keeps things.
 
 But this silence was different. This silence was not listening. It was whispering back. 
-In the way that the air seemed cloudy. In the way every small movement felt acknowledged. Somewhat similar to the time I dreamt of being on reality tv.
+In the way that the air seemed cloudy. In the way every small movement felt acknowledged. Somewhat similar to the time I dreamt of being on reality TV.
 
 It was the kind of silence that made you aware of yourself from the outside. And I did not like it.
+
+---
+
+Then I hear the dentist call:
+
+> “Andrew?”
+
+And still I don't remember that my teeth were alright to begin with.
+
+---
+
+1. Drill
+2. Child's cry
+3. Boy shifting in seat
+4. Andrew almost speak but ends up clearing throat and stop
+5. Sudden snore of old man
+6. Black woman phone call
+7. Clock/time distortion
 
 
 
