@@ -3,7 +3,7 @@ title: 🕰️ Waiting Rooms Make Time Weird
 date: 2026-02-24
 type: note
 ---
-> My blog has for so long been all sermons and truths. I haven't really written as much fiction as I would have liked to. Here's one for y'all.
+> My blog has for so long been all sermons and truths. I haven't really written as much fiction[^1] as I would have liked to. Here's one for y'all.
 
 You know that feeling? Where worry nags you so much that you forget what you're worrying about in the first place. Waiting rooms are the epitome for this; be it airport lounges, parent teacher meetings (as a parent of a 15-year-old, *not* as a student), interviews, or as was one of my highlights of last week, a dentist 🦷 appointment. If you rolled your eyes on my plight just now, I sure hope you end up with a root canal really soon.
 
@@ -58,7 +58,7 @@ Then, as if satisfied, the drill resumed. The sound felt familiar in a way I cou
 
 ---
 
-The woman’s phone rang. The sound was abrupt. Too loud for the room. I was glad for the distraction but she apparently wasn't. She answered quickly.
+The woman’s phone rang. The sound was abrupt. Too loud for the room. I was kind of glad for the distraction but she apparently wasn't.
 
 > “Yes,” she said, quietly.
 > 
@@ -72,7 +72,7 @@ The woman’s phone rang. The sound was abrupt. Too loud for the room. I was gla
 
 She ended the call and returned the phone to her lap, where it remained, face down, like something temporarily in detention. 
 
-No one acknowledged it, but the interruption had consequences. We all now had to find new things to avoid dreading our turns. The boy’s eyes had drifted upwards towards the painting. The old man checked his watch again. This time, he held it there longer, as though waiting for permission to stop looking. I could have swore an hour must have passed since I came in. But the clock showed only fifteen. This seemed incorrect but more than that, this was insulting.
+No one acknowledged it, but the interruption had *consequences*. We all now had to find new things to avoid dreading our turns. The boy’s eyes had drifted upwards towards the painting. The old man checked his watch again. This time, he held it there longer, as though waiting for permission to stop looking. I could have swore an hour must have passed since I came in. But the clock showed only fifteen. This seemed incorrect but more than that, this was insulting.
 
 The drill stopped again and I found myself looking at the door 🚪 without deciding to do so. It remained closed. Entirely ordinary. Entirely uninterested in being observed.
 
@@ -102,6 +102,6 @@ And as I got up with an enthusiasm which I did not feel, I glanced at the painti
 
 Lucky him.
 
-Somewhere outside, the drilling continued with tireless conviction. It occurred to me then just how much I hated that construction guy 👷🏻.
-
 And still... I could not remember which tooth had brought me there in the first place.
+
+[^1]: I usually frown on feedback but since I've dabbled in fiction after such a long time, I'm open to thoughts on the protagonist and the storyline. Opinions on my writing style still aren't welcome though 🙃.
