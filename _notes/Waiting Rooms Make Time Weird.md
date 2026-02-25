@@ -54,6 +54,8 @@ The boy’s foot stopped tapping. The old man did not look at the door, but he d
 
 Then, as if satisfied, the drill resumed. The sound felt familiar in a way I could not immediately place. This annoyed me. I prefer my discomforts to be properly categorized.
 
+---
+
 The woman’s phone rang. The sound was abrupt. Too loud for the room. I was glad for the distraction but she apparently wasn't. She answered quickly.
 
 > “Yes,” she said, quietly.
@@ -74,6 +76,8 @@ The drill stopped again and I found myself looking at the door 🚪 without deci
 
 The boy resumed tapping his foot, though slower now, as if uncertain of the tempo. The woman adjusted her grip on her phone without unlocking it. I realized that all of us were trying to listen to the silence. Listening as one listens to weather. Not expecting it to change, but still waiting to see if it would.
 
+---
+
 The door opened briefly. 
 
 > “Herr Müller,” a voice called. 
@@ -83,6 +87,8 @@ The old man stood with quiet obedience and disappeared inside. The door closed b
 We waited again. I glanced upwards again. And the more I thought about the painting, the more I envied it. It had watched people wait before. It would watch people wait again. It had the advantage of permanence. We were just biding our time.
 
 And I became aware of myself sitting there. Of my hands. Of my breathing. Of my growling stomach. Of the fact that a few skipped lunches might actually leave me better off. 
+
+---
 
 The next time I looked up, I was the only one left in the waiting room. I looked about in disbelief and turns out that wasn't the case. It was me and the kid in the frame. Also the drill had returned.  
 
