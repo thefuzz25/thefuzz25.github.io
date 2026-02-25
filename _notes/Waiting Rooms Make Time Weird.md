@@ -3,9 +3,7 @@ title: 🕰️ Waiting Rooms Make Time Weird
 date: 2026-02-24
 type: note
 ---
-My blog has for so long been all sermons and truths. I haven't really written as much fiction as I would have liked to. Here's one for y'all.
-
----
+> My blog has for so long been all sermons and truths. I haven't really written as much fiction as I would have liked to. Here's one for y'all.
 
 You know that feeling? Where worry nags you so much that you forget what you're worrying about in the first place. Waiting rooms are the epitome for this; be it airport lounges, parent teacher meetings (as a parent of a 15-year-old, *not* as a student), interviews, or as was one of my highlights of last week, a dentist appointment. If you rolled your eyes on my plight just now, I sure hope you end up with a root canal really soon.
 
