@@ -11,7 +11,7 @@ Maybe because,
 - Started watching it's tv adaptation featuring Eddie Redmayne, and the story was compelling.
 
 ### How the read went
-
+The role assigned to this book was to help me survive college lectures. And that I did. The magnitude of events that led to the introduction of the Jackal was easy to 
 
 ### What sits beneath the story
 
