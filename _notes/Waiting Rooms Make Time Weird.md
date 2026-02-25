@@ -19,6 +19,8 @@ A cup of coffee, a shower and a drive later, I stepped out from the car. Outside
 
 You remember the feeling I described earlier? It hit me the first time since I thought my last interviewer was going to order me to dance 🕺🏽 to *Rasputin* because my CV mentioned I was interested in World War 1 and the Russian Revolution. The waiting room seemed like any other at first. There was the door through which I entered, a door to the dentist's room across the hall, frosted windows on my left along with a painting of some german village I couldn't *care* less about on the remaining wall.
 
+---
+
 There were three other people in the room and each of them looked like they cared as much about it as I did. 
 
 Closest to the door sat a man in grey suit that had seen better decades. Not years, decades. The fabric shone faintly at the elbows, the way things do when they've been leaned on too often. His hands rested on his knees, palms down.
