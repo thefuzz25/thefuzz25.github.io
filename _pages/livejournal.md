@@ -9,7 +9,13 @@ Big words, the right mood, and some semblance of sanity are rare; in college, ev
 
 ---
 <section class="entries" markdown="1">
+#### ==Thu, 26 Feb 2026 — 12:11==
 
+Feels *soooo good* to be back home, especially during Ramadan. Food man, you can't not argue that food is the greatest thing to indulge in, on Planet Earth.
+
+#### ==Tue, 24 Feb 2026 — 09:07==
+
+Sometimes I forget how much I actually like talking to people, getting to know them and their views on things. And I'm referring to *actual* people, not college kids who think that the entire world lies within four walls of the campus.
 
 #### ==Sat, 14 Feb 2026 — 10:52==
 

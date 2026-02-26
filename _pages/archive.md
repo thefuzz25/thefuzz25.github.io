@@ -5,7 +5,7 @@ permalink: /archive
 ---
 ## Archive
 
-'Whatever's happened, happened.' ~ Someone from the movie *Tenet* I think
+'Whatever's happened, happened.' ~ from the movie *Tenet* I think
 
 ### Here you go
 
