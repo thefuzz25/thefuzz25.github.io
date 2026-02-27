@@ -9,13 +9,22 @@ Big words, the right mood, and some semblance of sanity are rare; in college, ev
 
 ---
 <section class="entries" markdown="1">
+#### ==Sat, 28 Feb 2026 — 02:31==
+
+Oh lord, thank you so much for the family you've given me—the love, the kindness, the struggle, the pain. I recently watched the movie 'Little Women' (and I know that the novel warrants a read, but I already have so many books on standby that I'm not sure I'll ever get to it). This was one of my favorite quotes from it:
+
+> "Just because my dreams are different than yours doesn't mean they're unimportant. I want a home and a family and I'm willing to work and struggle, but I want to do it with John." ~ _Amy March, Little Women_
+
+^The stuggle part, not the John part btw.
 #### ==Thu, 26 Feb 2026 — 12:11==
 
-Feels *soooo good* to be back home, especially during Ramadan. Food man, you can't not argue that food is the greatest thing to indulge in, on Planet Earth.
+Feels *soooo good* to be back home, especially during Ramadan. Food man, you can't not agree that food is the greatest thing on Planet Earth to indulge in.
 
 #### ==Tue, 24 Feb 2026 — 09:07==
 
 Sometimes I forget how much I actually like talking to people, getting to know them and their views on things. And I'm referring to *actual* people, not college kids who think that the entire world lies within four walls of the campus.
+
+There are infinities to discover—both within us and beyond us. There is the past, the future, the breeze, the birds, the cage, the terrors, the dreams. So much to think about and talk through. Yet we prefer to be trapped in a few precious moments of the present. A pity.
 
 #### ==Sat, 14 Feb 2026 — 10:52==
 
