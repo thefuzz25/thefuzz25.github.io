@@ -6,6 +6,9 @@ permalink: /scribbles
 ## Scribbles
 
 And then there are moments when words become boring. Or rather, they don't let me run wild with my imagination as a pencil does.
+#### 27 Feb 2025
+
+<img src="{{ site.baseurl }}/assets/sketches/5.jpg"/>
 
 #### 24 Jan 2025
 
