@@ -5,7 +5,12 @@ permalink: /scribbles
 ---
 ## Scribbles
 
-And then there are moments when words become boring. Or rather, they don't let me run wild with my imagination as a pencil does.
+And then there are moments when words become boring. And a pencil comes to the rescue.
+
+#### 02 Mar 2025
+
+<img src="{{ site.baseurl }}/assets/sketches/6.jpeg"/>
+
 #### 27 Feb 2025
 
 <img src="{{ site.baseurl }}/assets/sketches/5.jpg"/>
