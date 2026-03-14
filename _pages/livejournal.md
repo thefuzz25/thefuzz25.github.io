@@ -9,6 +9,18 @@ Big words, the right mood, and some semblance of sanity are rare; in college, ev
 
 ---
 <section class="entries" markdown="1">
+#### ==Mon, 09 Mar 2026 — 23:39==
+
+
+
+#### ==Fri, 06 Mar 2026 — 18:02==
+
+Where should I start, man. It was way more awkward than the time when I wasn’t wearing my specs and waved at random girls because I thought I knew them. She’s really nice, but she’s also *really shy*. We sat in complete silence throughout the cab journey. Not to mention, the cab also broke down for an hour during it. Whew.
+
+#### ==Wed, 04 Mar 2026 — 13:49==
+
+Okay, so you know the girl whom I asked out a couple months back (and she said no). She just might be traveling with me back to KGP from the airport. And it could either turn out really fun or really, really awkward. I’m hoping for the former, but the ball ain’t in my court now, is it?
+
 #### ==Sat, 28 Feb 2026 — 02:31==
 
 Oh lord, thank you so much for the family you've given me—the love, the richness, the struggle, the pain. I recently watched the movie 'Little Women' (and I know that the novel warrants a read, but I already have so many books on standby that I'm not sure I'll ever get to it). This was one of my favorite quotes from it:
@@ -79,10 +91,10 @@ Omg. I just realized I haven’t been shaving the right way. Ever. Which is wild
 
 _Note to self:_ from now on, _always_ shave in the direction of hair growth, not straight down like an idiot.
 
-#### Mon, 09 Feb 2026 — 13:10
+#### ==Mon, 09 Feb 2026 — 13:10==
 
 Today marks the half-year milestone of this live journal and I'm glad that I started this. With y'all ofc _[wink wink]_.
-#### Sun, 08 Feb 2026 — 22:37 
+#### ==Sun, 08 Feb 2026 — 22:37==
 
 Feels like someone’s standing on my chest. It’s _that_ bad.
 
@@ -90,7 +102,7 @@ Feels like someone’s standing on my chest. It’s _that_ bad.
 
 \***TWO DAYS LATER:** Coughed up blood. Turns out ignoring things doesn’t make them go away.  
 Friendship taught me the exact opposite, lol.
-#### Thu, 05 Feb 2026 — 14:09
+#### ==Thu, 05 Feb 2026 — 14:09==
 
 Ugh. It’s been _so_ long since I last talked to myself. He feels lonely; and so do I. Every stupid silence lately gets unconsciously filled with either
 
@@ -102,7 +114,7 @@ I should be stronger.
 I _am_ stronger than this.  
 Arrrgh.
 
-#### Sun, 01 Feb 2026 — 23:31
+#### ==Sun, 01 Feb 2026 — 23:31==
 
 Our college hosted an International Folk Music Festival this weekend, and I finally managed to check it out today. Bands from Latvia, Spain, Denmark, and a few other countries performed. Individually, they were really good — the _we-had-fun-listening_ kind of good.
 
@@ -114,7 +126,7 @@ There are very few moments when you get to see, firsthand, how music and dance d
 
 It was beautiful.
 
-#### Fri, 30 Jan 2026 — 11:32
+#### ==Fri, 30 Jan 2026 — 11:32==
 
 _[Come on man. You can do it.]_  
 

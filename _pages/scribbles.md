@@ -9,7 +9,7 @@ And then there are moments when words become boring. And a pencil comes to the r
 
 #### 02 Mar 2025
 
-<img src="{{ site.baseurl }}/assets/sketches/6.jpeg"/>
+<img src="{{ site.baseurl }}/assets/sketches/6.JPG"/>
 
 #### 27 Feb 2025
 
