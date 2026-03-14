@@ -15,11 +15,13 @@ Today, I'm starting out with my first-ever internship. Yes, it is unpaid and yes
 
 #### ==Mon, 09 Mar 2026 — 23:39==
 
-[Football]
+> This might be the only time I've ever felt guilty for doing something I love. And it hurts. 
+
+We had our football quarterfinals in the evening today and I wasn't initially going to play. A necessary precaution for my spine. But well, circumstances led me to start in the playing XI and before you know it, we were up 1-nil at half-time. ...
 
 #### ==Fri, 06 Mar 2026 — 18:02==
 
-Where should I start, man. It was way more awkward than the time when I wasn’t wearing my specs and waved at random girls because I had mistaken them for someone else. She’s really nice, but she’s also *really shy*. We sat in complete silence throughout the cab journey. Not to mention, the cab also broke down for an hour during it. Whew.
+Where should I start, man. Turns out, the ball wasn't even in the stadium. It was *way more awkward* than the time when 'I wasn’t wearing my specs and waved at a random girl because I had mistaken her for someone else.' She’s really nice, but she’s also *really shy*. We sat in complete silence throughout the cab journey, and not to mention, the cab also broke down for an hour as well. Whew.
 
 #### ==Wed, 04 Mar 2026 — 13:49==
 
