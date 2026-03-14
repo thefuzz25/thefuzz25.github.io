@@ -5,7 +5,7 @@ permalink: /archive
 ---
 ## Archive
 
-'Whatever's happened, happened.' ~ from the movie *Tenet* I think
+'What's happened's, happened.' ~ Cedric Diggory from the movie *Tenet* I think
 
 ### Here you go
 

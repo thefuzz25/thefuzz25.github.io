@@ -9,13 +9,17 @@ Big words, the right mood, and some semblance of sanity are rare; in college, ev
 
 ---
 <section class="entries" markdown="1">
+#### ==Thu, 12 Mar 2026 — 14:12==
+
+Today, I'm starting out with my first-ever internship. Yes, it is unpaid and yes, the firm is in the startup stage. But I feel like I have a chance to learn a lot here. 
+
 #### ==Mon, 09 Mar 2026 — 23:39==
 
-
+[Football]
 
 #### ==Fri, 06 Mar 2026 — 18:02==
 
-Where should I start, man. It was way more awkward than the time when I wasn’t wearing my specs and waved at random girls because I thought I knew them. She’s really nice, but she’s also *really shy*. We sat in complete silence throughout the cab journey. Not to mention, the cab also broke down for an hour during it. Whew.
+Where should I start, man. It was way more awkward than the time when I wasn’t wearing my specs and waved at random girls because I had mistaken them for someone else. She’s really nice, but she’s also *really shy*. We sat in complete silence throughout the cab journey. Not to mention, the cab also broke down for an hour during it. Whew.
 
 #### ==Wed, 04 Mar 2026 — 13:49==
 
