@@ -7,34 +7,34 @@ I’ve been thinking about how brief conversations can linger longer than they s
 
 ---
 
-I hope it's you <br>
+> I hope it's you <br>
 though I don't know you yet <br>
-but 
-maybe one day I could say 
-is it you 
-while you could say to me 
+but <br>
+maybe one day I could say <br>
+is it you <br>
+while you could say to me <br>
 the same
-<br>
-
-how can a 
-fleeting conversation 
-make me 
-flutter and falter 
-without a care 
+><br>
+>
+>how can a <br>
+fleeting conversation <br>
+make me <br>
+flutter and falter <br>
+without a care <br>
 for consequence
-<br>
-
-to call it just a moment 
+><br>
+>
+>to call it just a moment <br>
 would be too small
-<br>
-
-but to call it cathartic 
+><br>
+>
+>but to call it cathartic <br>
 makes it a lie 
-<br>
-
-so even if I don't want this 
-I am glad 
-for the excuse 
-to press smooth 
-what is wrinkled 
+><br>
+>
+>so even if I don't want this <br>
+I am glad <br>
+for the excuse <br>
+to press smooth <br>
+what is wrinkled <br>
 and leave the rest
