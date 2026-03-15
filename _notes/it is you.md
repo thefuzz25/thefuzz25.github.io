@@ -1,5 +1,5 @@
 ---
-title: It is you
+title: it is you
 date: 2026-03-15
 type: note
 ---
