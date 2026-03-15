@@ -29,16 +29,13 @@ make me
 
 flutter and falter
 
-without a care
-
+without a care 
 for consequence
 <br>
-to call it just a moment
-
+to call it just a moment 
 would be too small
 <br>
-but to call it cathartic
-
+but to call it cathartic 
 makes it a lie 
 <br>
 so even if I don't want this
