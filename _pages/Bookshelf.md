@@ -10,6 +10,7 @@ permalink: /bookshelf
 ### Upcoming
 
 - The Day of the Jackal by Frederick Forsyth
+- Sapiens by Yuval Noah Harari
 - Cloud Atlas by David Mitchell
 - Crime and Punishment by Fyodor Dostoevsky
 - The Kite Runner by Khaled Hosseini
