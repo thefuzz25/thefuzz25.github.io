@@ -102,6 +102,6 @@ And as I got up with an enthusiasm which I did not feel, I glanced at the painti
 
 Lucky him.
 
-And still... I could not remember which tooth had brought me there in the first place.
+But still... I could not remember which tooth had brought me there in the first place.
 
 [^1]: I usually frown on feedback but since I've dabbled in fiction after such a long time, I'm open to thoughts on the protagonist and the storyline. Opinions on my writing style still aren't welcome though 🙃.
