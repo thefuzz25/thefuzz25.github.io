@@ -11,7 +11,7 @@ Big words, the right mood, and some semblance of sanity are rare; in college, ev
 <section class="entries" markdown="1">
 #### ==Sun, 15 Mar 2026 — 08:48==
 
-> 'You pity the moth confusing a lamp for the moon, yet here you are confusing a screen for the world.'
+> 'You pity the moth confusing a lamp for the moon, yet here you are confusing a screen for the world.' ~ *Jay Alto*
 
 #### ==Thu, 12 Mar 2026 — 14:12==
 
@@ -21,12 +21,12 @@ Today, I'm starting out with my first-ever internship. Yes, it is unpaid and yes
 
 > This might be the only time I've ever felt guilty for doing something I love. And it hurts. 
 
-We had our football quarterfinals in the evening today and I wasn't initially going to play. A necessary precaution for my spine. But well, circumstances led me to start in the playing XI and before you know it, we were up 1-nil at half-time. Now the thing is that I was playing with a different jersey number and not mine, the reason being that I got the number 10 along with another player since I thought I wouldn't be playing. Anyhow, someone approached the ref regarding the same and before you know it, we were given two options:
+We had our football quarterfinals in the evening today and I wasn't initially going to play. A necessary precaution for my spine. But well, circumstances led me to start in the playing XI and before you know it, we were up 1-nil at half-time. Now the thing is that I was playing with a different jersey number and not mine, the reason being that I got the number 10 along with another player since I thought I wouldn't be playing. Anyhow, someone approached the ref regarding the same and we ended up with two options:
 
-1. Forfeit the match, or
-2. Reset the score to 0-0 and sub me out.
+1. either forfeit the match, or
+2. reset the scoreline to 0-0 and sub me out.
 
-So stupid. Not to mention that we ended up losing the match without me (or because of me for that matter).
+Needless to say, we ended up losing the match without me (or *because of me* for that matter).
 
 #### ==Fri, 06 Mar 2026 — 18:02==
 
