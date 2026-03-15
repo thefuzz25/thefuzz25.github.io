@@ -7,10 +7,10 @@ I’ve been thinking about how brief conversations can linger longer than they s
 
 ---
 
-> I hope it's you <br>
-though I don't know you yet <br>
+> i hope it's you <br>
+though i don't know you yet <br>
 but <br>
-maybe one day I could say <br>
+maybe one day i could say <br>
 is it you <br>
 while you could say to me <br>
 the same
@@ -21,7 +21,7 @@ the same
 >felt like so much
 ><br>
 ><br>
->I mean how can a <br>
+>i mean how can a <br>
 fleeting conversation <br>
 make one <br>
 flutter and falter <br>
@@ -36,8 +36,8 @@ would be too small
 makes it a lie 
 ><br>
 ><br>
->so even if I don't want this <br>
-I am glad <br>
+>so even if i don't want this <br>
+i am glad <br>
 for the excuse <br>
 to press smooth <br>
 what is wrinkled <br>
