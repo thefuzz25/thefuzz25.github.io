@@ -16,6 +16,11 @@ while you could say to me <br>
 the same
 ><br>
 ><br>
+>it caught me<br>
+>that so little<br>
+>felt so much<br>
+><br>
+><br>
 >how can a <br>
 fleeting conversation <br>
 make me <br>
