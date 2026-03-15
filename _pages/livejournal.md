@@ -9,31 +9,40 @@ Big words, the right mood, and some semblance of sanity are rare; in college, ev
 
 ---
 <section class="entries" markdown="1">
+#### ==Sun, 15 Mar 2026 — 08:48==
+
+> 'You pity the moth confusing a lamp for the moon, yet here you are confusing a screen for the world.'
+
 #### ==Thu, 12 Mar 2026 — 14:12==
 
-Today, I'm starting out with my first-ever internship. Yes, it is unpaid and yes, the firm is in the startup stage. But I feel like I have a chance to learn a lot here. 
+Today, I'm starting out with my first-ever internship. Yes, it is unpaid and yes, the firm is in the startup stage. But I feel like I have a chance to learn a lot here. It's not everyday that you get the opportunity to help build a PE firm from the ground up.
 
 #### ==Mon, 09 Mar 2026 — 23:39==
 
 > This might be the only time I've ever felt guilty for doing something I love. And it hurts. 
 
-We had our football quarterfinals in the evening today and I wasn't initially going to play. A necessary precaution for my spine. But well, circumstances led me to start in the playing XI and before you know it, we were up 1-nil at half-time. ...
+We had our football quarterfinals in the evening today and I wasn't initially going to play. A necessary precaution for my spine. But well, circumstances led me to start in the playing XI and before you know it, we were up 1-nil at half-time. Now the thing is that I was playing with a different jersey number and not mine, the reason being that I got the number 10 along with another player since I thought I wouldn't be playing. Anyhow, someone approached the ref regarding the same and before you know it, we were given two options:
+
+1. Forfeit the match, or
+2. Reset the score to 0-0 and sub me out.
+
+So stupid. Not to mention that we ended up losing the match without me (or because of me for that matter).
 
 #### ==Fri, 06 Mar 2026 — 18:02==
 
-Where should I start, man. Turns out, the ball wasn't even in the stadium. It was *way more awkward* than the time when 'I wasn’t wearing my specs and waved at a random girl because I had mistaken her for someone else.' She’s really nice, but she’s also *really shy*. We sat in complete silence throughout the cab journey, and not to mention, the cab also broke down for an hour as well. Whew.
+Where should I start, man. Turns out, the ball wasn't even in the stadium. It was *way more awkward* than the time when 'I wasn’t wearing my specs and waved at a random girl because I had mistaken her for someone else.' She’s really nice, but she’s also *really shy*. We sat in almost complete silence throughout the cab journey, and not to mention, the cab also broke down for an hour as well. Phew.
 
 #### ==Wed, 04 Mar 2026 — 13:49==
 
-Okay, so you know the girl whom I asked out a couple months back (and she said no). She just might be traveling with me back to KGP from the airport. And it could either turn out really fun or really, really awkward. I’m hoping for the former, but the ball ain’t in my court now, is it?
+Okay, so you know the girl whom I asked out a couple months back (and she said no). She just might be traveling with me back to KGP from the airport. And it could either turn out really fun or really, really awkward. I’m hoping for the former, but the ball isn’t in my court now, is it?
 
 #### ==Sat, 28 Feb 2026 — 02:31==
 
 Oh lord, thank you so much for the family you've given me—the love, the richness, the struggle, the pain. I recently watched the movie 'Little Women' (and I know that the novel warrants a read, but I already have so many books on standby that I'm not sure I'll ever get to it). This was one of my favorite quotes from it:
 
-> "Just because my dreams are different than yours doesn't mean they're unimportant. I want a home and a family and I'm willing to work and struggle, but I want to do it with John." ~ _Amy March, Little Women_
+>'Just because my dreams are different than yours doesn't mean they're unimportant. I want a home and a family and I'm willing to work and struggle for it.' ~ _Amy March, Little Women_
 
-^The work and struggle part, not the John part btw. 
+We often associate value with something seamless, but it is actually the struggle that makes it valuable.
 #### ==Thu, 26 Feb 2026 — 12:11==
 
 Feels *soooo good* to be back home, especially during Ramadan. Food man, you can't not agree that food is the greatest thing on Planet Earth to indulge in.
@@ -147,7 +156,7 @@ That waffle was _fine_.
 
 I dreamt last night of dying. Not exactly, but of knowing that the day ahead would be my last on earth. Absurd, *obviously*. Still, I was intrigued by how my dream-self reacted to that knowledge.
 
-I’d always assumed I’d do things I hadn’t done before. Maybe take a puff, maybe get that first kiss, *definitely* eat good food. But he didn’t do any of that.
+I’d always assumed I’d do things I hadn’t done before. Maybe take a puff, maybe get that first kiss, *definitely* eat an entire lasagna one more time. But he didn’t do any of that.
 
 He went for a walk. Breathed in the smell of freshly cut grass and the cool breeze. He spent the day with his family, content and unhurried. He sat at his desk and wrote letters. Letters of gratitude to everyone he could remember.
 
