@@ -17,7 +17,7 @@ the same
 ><br>
 ><br>
 >it caught me<br>
->that so little<br>
+>when so little<br>
 >felt so much
 ><br>
 ><br>
