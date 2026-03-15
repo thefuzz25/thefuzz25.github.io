@@ -18,15 +18,14 @@ the same
 ><br>
 >it caught me<br>
 >when so little<br>
->felt so much
+>felt like so much
 ><br>
 ><br>
->how can a <br>
+>I mean how can a <br>
 fleeting conversation <br>
-make me <br>
+make one <br>
 flutter and falter <br>
-without a care <br>
-for consequence
+without a care
 ><br>
 ><br>
 >to call it just a moment <br>
