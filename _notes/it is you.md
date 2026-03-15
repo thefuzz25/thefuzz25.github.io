@@ -7,8 +7,8 @@ I’ve been thinking about how brief conversations can linger longer than they s
 
 ---
 
-I hope it's you 
-though I don't know you yet 
+I hope it's you <br>
+though I don't know you yet <br>
 but 
 maybe one day I could say 
 is it you 
