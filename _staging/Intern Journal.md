@@ -7,9 +7,13 @@ type: note
 1. Why did Aniket decide to start a PE firm from the ground up if he was already involved in the creation and follow-through of a PE firm 7-8 years back?
 2.  What is the right timing to approach these companies?
 
+#### Wed, 18 Mar 2026
+10 am - 3
+2 pm -3
+
 #### Tue, 17 Mar 2026
 - [x] Learn about email outreach through Instantly
-- [ ] Add AI Prompt Phrases to the companies in W8 Campaign
+- [x] Add AI Prompt Phrases to the companies in W8 Campaign
 - [ ] Find emails for SC segment
 - [ ] Productivity segment for W9
 - [ ] Zoom info and Microsoft Outlook tomorrow

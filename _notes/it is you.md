@@ -21,7 +21,7 @@ the same
 >felt like so much
 ><br>
 ><br>
->i mean how can a <br>
+>how can a <br>
 fleeting conversation <br>
 make one <br>
 flutter and falter <br>
