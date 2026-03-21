@@ -23,3 +23,13 @@ type: note
 #### Thu, 12 Mar 2026
 - [x]  First internship meet with Parag/Aniket
 - [x] Get familiarized with the softwares in use
+
+I want to be a Placement Committee member at CDC because I care. Placements are more than statistics; they are turning points in people’s lives. I understand the responsibility and the hours it demands, and I am willing to commit because the work matters. The resolve to show up and see things through is what I will bring to CDC, in service of the institution that has shaped me.
+
+I want to be a Placement Committee member at CDC because I care. Placements are more than statistics; they are turning points in people’s lives. I understand the responsibility and the hours it demands, and I am willing to commit because the work matters. The resolve to show up and see things through is what I will bring to CDC, in service of the institution that has shaped me.
+
+Because I care, and I always have. Placements are more than statistics; they are turning points in people’s lives. I understand the responsibility and the hours it demands, and I know that the work matters. The resolve to show up and see things through is what I will bring to CDC, in service of the institution that has shaped me.
+
+Because I care. Placements are more than statistics; they are turning points in people’s lives. I understand the responsibility and hours this role demands, and I am prepared to commit. I will bring consistency and ownership, in service of the institution that has shaped me.
+
+Because I care. Placements are more than statistics; they are turning points in people’s lives. I understand the responsibility and hours this role demands and am prepared to commit. I will bring discipline and resolve to serve the institution that shaped me.

@@ -21,9 +21,9 @@ the same
 >felt like so much
 ><br>
 ><br>
->how can a <br>
-fleeting conversation <br>
-make one <br>
+>and yet <br>
+a fleeting conversation <br>
+can make one <br>
 flutter and falter <br>
 without a care
 ><br>
