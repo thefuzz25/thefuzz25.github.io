@@ -9,28 +9,57 @@ Big words, the right mood, and some semblance of sanity are rare; in college, ev
 
 ---
 <section class="entries" markdown="1">
+#### ==Sat, 04 Apr 2026 — 11:42==
+
+> 'You are not as important to me as I am to you.' ~ *Shrinking* on Apple TV 
+
+The quote is cruel. That doesn’t make it untrue. Lately, a lot of people have been wanting more time from me. And I’ve been giving it.  
+
+It can’t continue like this. Sure, there’s a certain satisfaction in showing up for someone—listening to them, easing their worry, even just walking beside them in silence.
+
+But at some point, you stop being yourself and start becoming what’s needed. And I fear the more I become of expectations, there is less of what is left that's mine.
+
+#### ==Wed, 01 Apr 2026 — 22:13==
+
+Finally back to the holy trio of:
+- squash
+- gym
+- running
+
+And I feel good. Need to pay more attention to my eating habits now more than ever though. Otherwise I'll shrivel like a leaf in the autumn.
+
 #### ==Sun, 15 Mar 2026 — 08:48==
 
 > 'You pity the moth confusing a lamp for the moon, yet here you are confusing a screen for the world.' ~ *Jay Alto*
 
 #### ==Thu, 12 Mar 2026 — 14:12==
 
-Today, I'm starting out with my first-ever internship. Yes, it is unpaid and yes, the firm is in the startup stage. But I feel like I have a chance to learn a lot here. It's not everyday that you get the opportunity to help build a PE firm from the ground up.
+Today I started my first internship. It’s unpaid, and the firm is still in its early stages. But I feel like I have a chance to learn a lot here.
 
 #### ==Mon, 09 Mar 2026 — 23:39==
 
 > This might be the only time I've ever felt guilty for doing something I love. And it hurts. 
 
-We had our football quarterfinals in the evening today and I wasn't initially going to play. A necessary precaution for my spine. But well, circumstances led me to start in the playing XI and before you know it, we were up 1-nil at half-time. Now the thing is that I was playing with a different jersey number and not mine, the reason being that I got the number 10 along with another player since I thought I wouldn't be playing. Anyhow, someone approached the ref regarding the same and we ended up with two options:
+We had our football quarterfinals this evening. I wasn’t supposed to play—my spine had already made that decision for me. But circumstances changed, and I ended up starting. 
+
+By halftime, we were 1–0 up. 
+
+Now the thing is that I was playing with a different jersey number and not mine. I’d taken the 10 assuming I wouldn’t play. Anyhow, someone approached the ref regarding the same and we ended up with two options:
 
 1. either forfeit the match, or
-2. reset the scoreline to 0-0 and sub me out.
+2. reset to 0-0 and sub me out.
 
-Needless to say, we ended up losing the match without me (or *because of me* for that matter).
+We chose the second.
+
+We lost.
+
+Not sure if it was without me or because of me. That distinction doesn’t feel very important right now.
 
 #### ==Fri, 06 Mar 2026 — 18:02==
 
-Where should I start, man. Turns out, the ball wasn't even in the stadium. It was *way more awkward* than the time when 'I wasn’t wearing my specs and waved at a random girl because I had mistaken her for someone else.' She’s really nice, but she’s also *really shy*. We sat in almost complete silence throughout the cab journey, and not to mention, the cab also broke down for an hour as well. Phew.
+Where do I even start. 
+
+Turns out, the ball wasn't even in the stadium. What followed was somehow *way* *more* *awkward* than the time I waved at a someone's girlfriend because I wasn’t wearing my glasses. She’s really nice, but she’s also *really shy*. We sat in almost complete silence throughout the cab journey, and not to mention, the cab also broke down for an hour as well. Phew.
 
 #### ==Wed, 04 Mar 2026 — 13:49==
 
