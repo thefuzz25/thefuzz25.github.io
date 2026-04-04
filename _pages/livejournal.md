@@ -32,6 +32,8 @@ And I feel good. Need to pay more attention to my eating habits now more than ev
 
 > 'You pity the moth confusing a lamp for the moon, yet here you are confusing a screen for the world.' ~ *Jay Alto*
 
+And just like that, a reel turns into an hour which becomes a day. [sigh]
+
 #### ==Thu, 12 Mar 2026 — 14:12==
 
 Today I started my first internship. It’s unpaid, and the firm is still in its early stages. But I feel like I have a chance to learn a lot here.
