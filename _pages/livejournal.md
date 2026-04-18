@@ -9,6 +9,11 @@ Big words, the right mood, and some semblance of sanity are rare; in college, ev
 
 ---
 <section class="entries" markdown="1">
+
+#### ==Sat, 18 Apr 2026 — 12:46==
+
+Why, Lord, why? And while everyone's pointing fingers, there is no one to blame. My heart aches of the fact that we texted only yesterday; talking about effing endsems and the syllabus. Never again will I settle for replying on text when someone seems even slightly distressed. A phone call might just make the difference between life and death.
+
 #### ==Sat, 04 Apr 2026 — 11:42==
 
 > 'You are not as important to me as I am to you.' ~ *Shrinking* on Apple TV 
