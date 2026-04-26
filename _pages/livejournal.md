@@ -10,12 +10,31 @@ Big words, the right mood, and some semblance of sanity are rare; in college, ev
 ---
 <section class="entries" markdown="1">
 
+#### **==Sun, 26 Apr 2026 — 07:09==**
+
+With endsems now wrapped up, what a melancholy finish to our third year in college. And it is a time for reflection, especially since I still have a couple of weeks here before heading home.
+
+Off the top, I feel like I could have done more this year. Academics are the only thing I handled properly, but were they worth it? With the back injury, I couldn’t go all the way in sports either. Still single, which is pretty sad I guess. I can’t shake the feeling that I haven’t fully made use of what college has to offer, and that really irks me.
+
+#### ==Tue, 21 Apr 2026 — 09:26==
+
+I dreamt of him again. Or rather, the _idea_ of him. We were walking in ABV, chatting about random things, when suddenly everything turned cold. At one particular spot, I froze and started crying. I didn’t understand '*why*' in the dream. But as I woke up, it hit me. It was the place where he fell.
+
 #### ==Sat, 18 Apr 2026 — 12:46==
 
-*Why, Lord, why?*
+> *Why, Lord, why?*
 
 And while everyone's pointing fingers, there is no one to blame. My heart aches of the fact that we texted only yesterday; talking about effing endsems and the syllabus. Never again will I settle for replying on text when someone seems even slightly distressed. A phone call might just make the difference between life and death.
 
+#### ==Tue, 14 Apr 2026 — 13:09==
+
+gd
+#### ==Mon, 13 Apr 2026 — 13:08==
+
+result
+#### ==Fri, 10 Apr 2026 — 13:08==
+
+written
 #### ==Sat, 04 Apr 2026 — 11:42==
 
 > 'You are not as important to me as I am to you.' ~ *Shrinking* on Apple TV 
