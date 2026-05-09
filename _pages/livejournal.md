@@ -9,14 +9,25 @@ Big words, the right mood, and some semblance of sanity are rare; in college, ev
 
 ---
 <section class="entries" markdown="1">
+#### ==Sat, 09 May 2026 — 12:21==
+
+One of the most poetic relationships, I believe, is the one between grandparents and their nephews or nieces. Poetic, yet deeply melancholy. As we grow older, they begin to grow younger. And suddenly, one day, it is no longer them looking out for us, but us looking out for them. For many of us, that becomes the first real reminder that life is not eternal; and that we must cherish the moments we still have.
 
 #### ==Mon, 04 May 2026 — 07:20==
 
- There are some new things I'm finding out now that I am by myself for this long for the first time:
-1. I am a performer. I act around people; sometimes maybe because I want to look mysterious and sometimes because I think they don't deserve the real me. 
-2. I wear a mask. In front of everyone. At all times. Now this is something I knew, but now with everyone gone, I can't get the mask off. Am I an introvert, or an extrovert? Am I one to let impulse do the work, or plan it all out? Am I a bubbly, cheerful guy or a relaxed, chill person? I have no clue and could very well be any one of those things.
-3. My intentions weren't as they seemed. I thought that every time I wash my face or shave my beard or dress up, I was doing it for myself. To feel good. But now that there isn't anyone to meet up with, those things seem very distant. 
-4. I had goals which were perishable. Gymming and running, have been two of my top things to help keep my body in shape. Again I thought I was doing it to relieve stress and get fit. But with my 'so-called' crush not in campus anymore, the same things take a lot extra effort. Which they shouldn't
+Things solitude has revealed to me recently:
+
+**_Observation #1 — Personality may be partly performative._**
+I am a performer. I act around people; sometimes maybe because I want to look mysterious and sometimes because I think they don't deserve the real me. 
+
+_**Observation #2 — Masks worn too long become indistinguishable from the face.**_  
+I wear a mask. In front of everyone. At all times. Now this is something I knew, but now with everyone gone, I can't get the mask off. Am I an introvert, or an extrovert? Am I one to let impulse do the work, or plan it all out? Am I a bubbly, cheerful guy or a relaxed, chill person? I have no clue and could very well be any one of those things.
+
+***Observation #3 — Self-care is often social at its core.***
+My intentions weren't as they seemed. I thought that every time I wash my face or shave my beard or dress up, I was doing it for myself. To feel good. But now that there isn't anyone to meet up with, those things seem very distant. 
+
+***Observation #4 — Some goals survive only in the presence of witnesses.***
+I had goals which were perishable. Gymming and running, have been two of my top things to help keep my body in shape. Again I thought I was doing it to relieve stress and get fit. But with my 'so-called' crush not in campus anymore, the same things take a lot extra effort. Which they shouldn't
 #### ==Thu, 30 May 2026 — 18:09==
 
 Lately, I have not been in the best of health. Another suicide and I still was under the pretense that I hold strong. And that it is others whom I need to look out for. But it ain't true and I know it on the inside. Every phone call makes me jump. Every notification feels as if it could be bad news. Every time I see someone smile, I believe that they are just dying inside. But then again so might I be. 
