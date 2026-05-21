@@ -17,14 +17,13 @@ Ladakh had a strange way of making you re-evaluate certain plans. The mountains 
 
 #### ==Thu, 14 May 2026 — 10:33==
 
-The result for the Student Placement Committee came in this evening. And I got to know about my success in quite an unconventional way. We were out for the day to Hanle where there was no network throughout. And when I did look at my WhatsApp at around 6 in the evening, there were 'bout a hundred unread congratulations in there. Until today, I did not completely realize the gravitas of the post that I now hold. And in foresight, I shall have to conduct myself very deliberately this coming year—both in terms of the work I'd do and the friendships I hold dear.
+The result for the Student Placement Committee came in this evening. And I got to know about my success in quite an unconventional way. We were out for the day to Hanle with no service throughout. And when I did look at my WhatsApp at around 6 in the evening, there were 'bout a hundred unread congratulations in there. Until today, I did not completely realize the *gravitas* of the post that I now hold. And in foresight, I shall have to conduct myself very deliberately this coming year—both in terms of the work I'd do and the friendships I hold dear.
 
-PS: Such events just end up fueling my confidence. Erm... arrogance, if I look at it from others' perspectives but still. Almost everyone that I talked to in the past semester about contesting for this post, told me that I either
+**PS:** Such events just end up fueling my confidence. Erm... arrogance, if I look at it from others' perspectives but like I care. Everyone I spoke to this past semester had a reason why I would not make it. I either
 
-Everyone I spoke to had a reason why I would not make it. I either
 - did not have the make of a PC, or
-- did not the candidature and positions of responsibilities, or
-- did not the connections to pull it off.
+- did not have the candidature and positions of responsibilities, or
+- did not have the connections to pull it off.
 
 Well, I did pull it off. So I don't know fam, I do kinda set *fire* to everything I touch.
 
