@@ -9,9 +9,37 @@ Big words, the right mood, and some semblance of sanity are rare; in college, ev
 
 ---
 <section class="entries" markdown="1">
+#### ==Fri, 22 May 2026 — 00:05==
+
+Finally got some time and peace to sit down and unravel the past couple of weeks. Well, I'm on a family trip to Ladakh and this place sure has broadened my horizon in a lot of unprecedented ways.
+
+#### ==Thu, 14 May 2026 — 10:33==
+
+The result for the Student Placement Committee came in this evening. And I got to know about my success in quite an unconventional way. We were out for the day to Hanle where there was no network throughout. And when I did look at my WhatsApp at around 6 in the evening, there were 'bout a hundred unread congratulations in there. Until today, I did not completely realize the gravitas of the post that I now hold. And in foresight, I shall have to conduct myself this coming year very deliberately — both in terms of the work I do and the friendships I hold dear.
+
+PS: Such events just end up fueling my confidence. Erm... arrogance, if I look at it from others' perspectives but still. Almost everyone that I talked to in the past semester about contesting for this post, told me that I either
+
+- don't have the make of a PC, or
+- don't have the relevant candidature and positions of responsibilities, or
+- don't have the connections to pull it off.
+
+Well, I did pull it off. So I don't know fam, I do kinda set fire to everything I touch.
+
 #### ==Sat, 09 May 2026 — 12:21==
 
 One of the most poetic relationships, I believe, is the one between grandparents and their nephews or nieces. Poetic, yet deeply melancholy. As we grow older, they begin to grow younger. And suddenly, one day, it is no longer them looking out for us, but us looking out for them. For many of us, that becomes the first real reminder that life is not eternal; and that we must cherish the moments we still have.
+
+#### ==Thu, 07 May 2026 — 01:23==
+
+There is still a lot of packing that I need to tend to, before my journey back home tomorrow morning. So I'll make this quick.
+
+The placement committee interview played out very differently from how it did in my head; but it was good all the same. And regardless of the result, this past week of staying back in college alone and replaying my actions over the years; was worth it. I now have a new found confidence in expressing myself through speech (something that I always have been really insecure of, if you can believe it). The interview was nothing like I prepared from the documents provided to us and yet I was able to pull out past experiences, novels, situations and quotes relevant to the question asked. The process to acing an interview, now that I realize is simple enough:
+
+1. Firstly, be learned. You can only express of what you already know.
+2. Secondly, read the room. You can't impress on knowledge alone unless you understand what is asked for.
+3. And lastly, ^be sincere. Once you have the content and the expectation at hand, only then can you phrase it appropriately. 
+
+^The majority will definitely rephrase the last point in their minds as to 'be honest'. But I feel it is essential to align with the panel. No question is straightforward and as such, no answer can be black or white. It is imperative that you sound genuine in your stance AND with proper reasons to support it.
 
 #### ==Mon, 04 May 2026 — 07:20==
 
@@ -20,14 +48,14 @@ Things solitude has revealed to me recently:
 **_Observation #1 — Personality may be partly performative._**
 I am a performer. I act around people; sometimes maybe because I want to look mysterious and sometimes because I think they don't deserve the real me. 
 
-_**Observation #2 — Masks worn too long become indistinguishable from the face.**_  
+_**Observation #2 — Masks worn too long become indistinguishable from the face.**_
 I wear a mask. In front of everyone. At all times. Now this is something I knew, but now with everyone gone, I can't get the mask off. Am I an introvert, or an extrovert? Am I one to let impulse do the work, or plan it all out? Am I a bubbly, cheerful guy or a relaxed, chill person? I have no clue and could very well be any one of those things.
 
 ***Observation #3 — Self-care is often social at its core.***
 My intentions weren't as they seemed. I thought that every time I wash my face or shave my beard or dress up, I was doing it for myself. To feel good. But now that there isn't anyone to meet up with, those things seem very distant. 
 
 ***Observation #4 — Some goals survive only in the presence of witnesses.***
-I had goals which were perishable. Gymming and running, have been two of my top things to help keep my body in shape. Again I thought I was doing it to relieve stress and get fit. But with my 'so-called' crush not in campus anymore, the same things take a lot extra effort. Which they shouldn't
+I had targets which were perishable. Gymming and running, have been two of my top things to help keep my body in shape. Again I thought I was doing it to relieve stress and get fit. But with my 'so-called' crush not in campus anymore, the same things take a lot extra effort. Which they shouldn't
 #### ==Thu, 30 May 2026 — 18:09==
 
 Lately, I have not been in the best of health. Another suicide and I still was under the pretense that I hold strong. And that it is others whom I need to look out for. But it ain't true and I know it on the inside. Every phone call makes me jump. Every notification feels as if it could be bad news. Every time I see someone smile, I believe that they are just dying inside. But then again so might I be. 
