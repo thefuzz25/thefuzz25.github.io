@@ -1,5 +1,5 @@
 ---
-title: The Day of the Jackal by Frederick Forsyth
+title: 📬 The Day of the Jackal by Frederick Forsyth
 date: 2026-02-24
 type: book
 ---

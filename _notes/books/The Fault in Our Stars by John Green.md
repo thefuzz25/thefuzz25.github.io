@@ -1,5 +1,5 @@
 ---
-title: The Fault in Our Stars by John Green
+title: 📬 The Fault in Our Stars by John Green
 date: 2025-12-29
 type: book
 ---

@@ -1,6 +1,6 @@
 ---
-title: Dark Matter by Blake Crouch
-date: 2025-05-03
+title: 📬 Dark Matter by Blake Crouch
+date: 2026-04-28
 type: book
 ---
 > Still in work.
