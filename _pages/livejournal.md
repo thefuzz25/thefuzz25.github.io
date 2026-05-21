@@ -15,15 +15,16 @@ Finally got some time and peace to sit down and unravel the past couple of weeks
 
 #### ==Thu, 14 May 2026 — 10:33==
 
-The result for the Student Placement Committee came in this evening. And I got to know about my success in quite an unconventional way. We were out for the day to Hanle where there was no network throughout. And when I did look at my WhatsApp at around 6 in the evening, there were 'bout a hundred unread congratulations in there. Until today, I did not completely realize the gravitas of the post that I now hold. And in foresight, I shall have to conduct myself this coming year very deliberately — both in terms of the work I do and the friendships I hold dear.
+The result for the Student Placement Committee came in this evening. And I got to know about my success in quite an unconventional way. We were out for the day to Hanle where there was no network throughout. And when I did look at my WhatsApp at around 6 in the evening, there were 'bout a hundred unread congratulations in there. Until today, I did not completely realize the gravitas of the post that I now hold. And in foresight, I shall have to conduct myself very deliberately this coming year—both in terms of the work I'd do and the friendships I hold dear.
 
 PS: Such events just end up fueling my confidence. Erm... arrogance, if I look at it from others' perspectives but still. Almost everyone that I talked to in the past semester about contesting for this post, told me that I either
 
-- don't have the make of a PC, or
-- don't have the relevant candidature and positions of responsibilities, or
-- don't have the connections to pull it off.
+Everyone I spoke to had a reason why I would not make it. I either
+- did not have the make of a PC, or
+- did not the candidature and positions of responsibilities, or
+- did not the connections to pull it off.
 
-Well, I did pull it off. So I don't know fam, I do kinda set fire to everything I touch.
+Well, I did pull it off. So I don't know fam, I do kinda set *fire* to everything I touch.
 
 #### ==Sat, 09 May 2026 — 12:21==
 
@@ -37,15 +38,15 @@ The placement committee interview played out very differently from how it did in
 
 1. Firstly, be learned. You can only express of what you already know.
 2. Secondly, read the room. You can't impress on knowledge alone unless you understand what is asked for.
-3. And lastly, ^be sincere. Once you have the content and the expectation at hand, only then can you phrase it appropriately. 
+3. And lastly, ^be sincere. Only when you have the content and the expectation at hand, can you phrase it appropriately. 
 
-^The majority will definitely rephrase the last point in their minds as to 'be honest'. But I feel it is essential to align with the panel. No question is straightforward and as such, no answer can be black or white. It is imperative that you sound genuine in your stance AND with proper reasons to support it.
+^Most people confuse sincerity with honesty. But the questions, and perhaps people in general, are rarely black and white. It is not enough to hold an opinion. You must sound genuine in it, and know why you hold it at all.
 
 #### ==Mon, 04 May 2026 — 07:20==
 
 Things solitude has revealed to me recently:
 
-**_Observation #1 — Personality may be partly performative._**
+1. **_Personality may be partly performative._**
 I am a performer. I act around people; sometimes maybe because I want to look mysterious and sometimes because I think they don't deserve the real me. 
 
 _**Observation #2 — Masks worn too long become indistinguishable from the face.**_
@@ -55,7 +56,7 @@ I wear a mask. In front of everyone. At all times. Now this is something I knew,
 My intentions weren't as they seemed. I thought that every time I wash my face or shave my beard or dress up, I was doing it for myself. To feel good. But now that there isn't anyone to meet up with, those things seem very distant. 
 
 ***Observation #4 — Some goals survive only in the presence of witnesses.***
-I had targets which were perishable. Gymming and running, have been two of my top things to help keep my body in shape. Again I thought I was doing it to relieve stress and get fit. But with my 'so-called' crush not in campus anymore, the same things take a lot extra effort. Which they shouldn't
+I had targets which were perishable. Gymming and running, have been two of my top things to help keep my body in shape. Again I thought I was doing it to relieve stress and get fit. But with my 'so-called' crush not in campus anymore, the same things take a lot extra effort. Which they shouldn't.
 #### ==Thu, 30 May 2026 — 18:09==
 
 Lately, I have not been in the best of health. Another suicide and I still was under the pretense that I hold strong. And that it is others whom I need to look out for. But it ain't true and I know it on the inside. Every phone call makes me jump. Every notification feels as if it could be bad news. Every time I see someone smile, I believe that they are just dying inside. But then again so might I be. 
@@ -70,7 +71,7 @@ Off the top, I feel like I could have done more this year. Academics are the onl
 
 #### ==Tue, 21 Apr 2026 — 09:26==
 
-I dreamt of him again. Or rather, the _thought_ of him. We were walking in ABV, chatting about random things, when suddenly everything turned cold. At one particular spot, I froze and started crying. I didn’t understand '*why*' in the dream. But as I woke up, it hit me. It was the place where he fell.
+I dreamt of him again. Or rather, the _essence_ of him. We were walking in ABV, chatting about random things, when suddenly everything turned cold. At one particular spot, I froze and started crying. I didn’t understand '*why*' in the dream. But as I woke up, it hit me. It was the place where he fell.
 
 #### ==Sat, 18 Apr 2026 — 12:46==
 
