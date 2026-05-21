@@ -11,7 +11,9 @@ Big words, the right mood, and some semblance of sanity are rare; in college, ev
 <section class="entries" markdown="1">
 #### ==Fri, 22 May 2026 — 00:05==
 
-Finally got some time and peace to sit down and unravel the past couple of weeks. Well, I'm on a family trip to Ladakh and this place sure has broadened my horizon in a lot of unprecedented ways.
+Finally got some time and peace to sit down and unravel the past couple of weeks.
+
+Ladakh had a strange way of making you re-evaluate certain plans. The mountains are too old, the roads too uncertain, the distances too vast, and the people too strong for all they have endured. I still need to think before I pen down my thoughts. But there certainly are many.
 
 #### ==Thu, 14 May 2026 — 10:33==
 
