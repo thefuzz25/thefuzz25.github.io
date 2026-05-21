@@ -1,6 +1,6 @@
 ---
 title: 📬 The Day of the Jackal by Frederick Forsyth
-date: 2026-02-24
+date: 2026-02-27
 type: book
 ---
 > Still in work.
