@@ -11,6 +11,7 @@ permalink: /about
 - [[archive|Archive]]
 - [[bookshelf|Bookshelf]]
 - [[livejournal|Live Journal]]
+
 **Work**
 - [[ian|In a Nutshell]]
 - [[scribbles|Scribbles]]
@@ -30,17 +31,3 @@ This site is written and edited in Obsidian, then compiled with Jekyll and serve
 The above workflow takes inspiration from [Steph](https://stephango.com/vault) while the design uses a template by [Max](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll), which I’m shaping as I go.
 
 ---
-
-Madhav
-Bhavesh
-Yashraj
-Divyanshu Bhatt
-Viplabh
-Dhruv Rai
-Harsh Singh
-
-az, patel, jcb, vs, rp
-
-Ritvik > Heramb
-Ashutosh > Sayan
-Faiz > Yashraj
