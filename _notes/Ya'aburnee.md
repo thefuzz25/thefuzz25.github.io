@@ -3,7 +3,7 @@ title: Ya'aburnee
 date: 2026-05-24
 type: note
 ---
-I found this poetry prompt on Instagram the other day:
+I found this poetry prompt on Instagram the other day: 
 
 > Write a poem with one repeated line appearing five times. Each time the line returns, the surrounding context must alter its meaning through irony, tenderness or revelation.
 
