@@ -28,3 +28,19 @@ You can reach out to me at:
 This site is written and edited in Obsidian, then compiled with Jekyll and served through GitHub Pages.
 
 The above workflow takes inspiration from [Steph](https://stephango.com/vault) while the design uses a template by [Max](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll), which I’m shaping as I go.
+
+---
+
+Madhav
+Bhavesh
+Yashraj
+Divyanshu Bhatt
+Viplabh
+Dhruv Rai
+Harsh Singh
+
+az, patel, jcb, vs, rp
+
+Ritvik > Heramb
+Ashutosh > Sayan
+Faiz > Yashraj
