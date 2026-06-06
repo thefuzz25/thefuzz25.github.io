@@ -9,6 +9,10 @@ Big words, the right mood, and some semblance of sanity are rare; in college, ev
 
 ---
 <section class="entries" markdown="1">
+#### ==Sat, 06 Jun 2026 — 11:32==
+
+I am just living here. And apparently that's all I am doing.
+
 #### ==Fri, 22 May 2026 — 00:05==
 
 Finally got some time and peace to sit down and unravel the past couple of weeks.
