@@ -9,6 +9,10 @@ Big words, the right mood, and some semblance of sanity are rare; in college, ev
 
 ---
 <section class="entries" markdown="1">
+#### ==Fri, 26 Jun 2026 — 15:30==
+
+> 'God, pray don't lighten my load. Just broaden my shoulders'
+
 #### ==Sat, 06 Jun 2026 — 11:32==
 
 I am just living here. And apparently that's all I am doing.
@@ -54,13 +58,13 @@ Things solitude has revealed to me recently:
 1. **_Personality may be partly performative._**
 I am a performer. I act around people; sometimes maybe because I want to look mysterious and sometimes because I think they don't deserve the real me. 
 
-_**Observation #2 — Masks worn too long become indistinguishable from the face.**_
+2. _**Masks worn too long become indistinguishable from the face.**_
 I wear a mask. In front of everyone. At all times. Now this is something I knew, but now with everyone gone, I can't get the mask off. Am I an introvert, or an extrovert? Am I one to let impulse do the work, or plan it all out? Am I a bubbly, cheerful guy or a relaxed, chill person? I have no clue and could very well be any one of those things.
 
-***Observation #3 — Self-care is often social at its core.***
+3. ***Self-care is often social at its core.***
 My intentions weren't as they seemed. I thought that every time I wash my face or shave my beard or dress up, I was doing it for myself. To feel good. But now that there isn't anyone to meet up with, those things seem very distant. 
 
-***Observation #4 — Some goals survive only in the presence of witnesses.***
+4. ***Some goals survive only in the presence of witnesses.***
 I had targets which were perishable. Gymming and running, have been two of my top things to help keep my body in shape. Again I thought I was doing it to relieve stress and get fit. But with my 'so-called' crush not in campus anymore, the same things take a lot extra effort. Which they shouldn't.
 #### ==Thu, 30 May 2026 — 18:09==
 
