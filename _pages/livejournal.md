@@ -9,9 +9,17 @@ Big words, the right mood, and some semblance of sanity are rare; in college, ev
 
 ---
 <section class="entries" markdown="1">
+#### ==Sun, 05 Jul 2026 — 22:34==
+
+> 'What they say to me, is immaterial.' ~ Adrien Brody
+
 #### ==Fri, 26 Jun 2026 — 15:30==
 
 > 'God, pray don't lighten my load. Just broaden my shoulders'
+
+#### ==Tue, 09 Jul 2026 — 15:15==
+
+Things are back to normal. It sure was a couple of really disorienting days that I've had. If there's one thing I've learnt, and not in a bad way, it's that you can only truly be yourself *with yourself*. Every relation requires something off you and that's how it ought to be.
 
 #### ==Sat, 06 Jun 2026 — 11:32==
 
