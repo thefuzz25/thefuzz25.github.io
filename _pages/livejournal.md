@@ -9,17 +9,26 @@ Big words, the right mood, and some semblance of sanity are rare; in college, ev
 
 ---
 <section class="entries" markdown="1">
+
+#### ==Thu, 16 Jul 2026 — 23:08==
+
+I (almost) broke down twice today. Two completely unrelated incidents. But two which affected me all the same. I'm working 20 hours a day for more than a few weeks now. And it's, uhh, let's go with 'overwhelming' to say the least. To add to that, every time I try to take some time off, a something or the other pops up. 
+
 #### ==Sun, 05 Jul 2026 — 22:34==
 
 > 'What they say to me, is immaterial.' ~ Adrien Brody
 
-#### ==Fri, 26 Jun 2026 — 15:30==
+#### ==Thu, 02 Jul 2026 — 23:55==
+
+Things are picking up pace. But it all seems so fun. The team's great, the dynamic's great and well, the experience might just be as well.
+
+#### ==Fri, 26 Jun 2026 — 19:30==
 
 > 'God, pray don't lighten my load. Just broaden my shoulders'
 
-#### ==Tue, 09 Jul 2026 — 15:15==
+#### ==Tue, 09 Jun 2026 — 15:15==
 
-Things are back to normal. It sure was a couple of really disorienting days that I've had. If there's one thing I've learnt, and not in a bad way, it's that you can only truly be yourself *with yourself*. Every relation requires something off you and that's how it ought to be.
+Things are back to normal. It sure was a couple of really disorienting days that I've had. If there's one thing I've learnt, and not in a bad way, it's that you can only truly be yourself *with yourself*. Every relation requires something off you. That's how it ought to be, and that's alright.
 
 #### ==Sat, 06 Jun 2026 — 11:32==
 
