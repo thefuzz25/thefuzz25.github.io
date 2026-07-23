@@ -10,6 +10,16 @@ Big words, the right mood, and some semblance of sanity are rare; in college, ev
 ---
 <section class="entries" markdown="1">
 
+#### ==Fri, 24 Jul 2026 — 03:37==
+
+I'd never thought I will be in a situation quite like this one right now, right here. Having worked our ass off the entirety of the day, we're still in office at what is now close to four in the night (or the morning hehe). But to feel like I've folks among whom I might just belong. Who care. Who understand. 
+
+I have never been a people's person, but tonight's gossip and rants are something I shall surely look back on.
+
+#### ==Wed, 22 Jul 2026 — 02:50==
+
+The work never ends, man. Every night I try to wind down at a reasonable hour, and every night blends into the morning. And I'm not bitter that other folks aren't working as hard as some of us are. But we all could at least care, care for the students, care for their time, care for their efforts.
+And I don't see that happening.
 #### ==Thu, 16 Jul 2026 — 23:08==
 
 I (almost) broke down twice today. Two completely unrelated incidents. But two which affected me all the same. I'm working 20 hours a day for more than a few weeks now. And it's, uhh, let's go with 'overwhelming' to say the least. To add to that, every time I try to take some time off, a something or the other pops up. 
