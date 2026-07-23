@@ -24,6 +24,14 @@ And I don't see that happening.
 
 I (almost) broke down twice today. Two completely unrelated incidents. But two which affected me all the same. I'm working 20 hours a day for more than a few weeks now. And it's, uhh, let's go with 'overwhelming' to say the least. To add to that, every time I try to take some time off, a something or the other pops up. 
 
+#### ==Sun, 11 Jul 2026 — 07:55==
+
+> "I ask myself: are defeats necessary?
+
+> Well, necessary or not, they happen. When we first begin fighting for a dream, we have no experience and make mistakes. The secret of life, though, is to fall seven times and to get up eight times."
+
+*~ Paulo Coelho*
+
 #### ==Sun, 05 Jul 2026 — 22:34==
 
 > 'What they say to me, is immaterial.' ~ Adrien Brody
