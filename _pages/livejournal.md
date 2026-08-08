@@ -10,6 +10,13 @@ Big words, the right mood, and some semblance of sanity are rare; in college, ev
 ---
 <section class="entries" markdown="1">
 
+#### ==Sun, 09 Aug 2026 — 02:40==
+
+> 'The thinker dies many times before his body does.' 
+
+
+_~ Friedrich Nietzche_
+
 #### ==Fri, 24 Jul 2026 — 03:37==
 
 I'd never thought I will be in a situation quite like this one right now, right here. Having worked our ass off the entirety of the day, we're still in office at what is now close to four in the night (or the morning hehe). But to feel like I've folks among whom I might just belong. Who care. Who understand. 
