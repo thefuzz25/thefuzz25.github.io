@@ -10,6 +10,24 @@ Big words, the right mood, and some semblance of sanity are rare; in college, ev
 ---
 <section class="entries" markdown="1">
 
+#### ==Wed, 14 Oct 2026 — 01:37==
+
+>'I told her I was fine. She believed me. That's when I knew we were strangers again.'
+
+~ _May Aygun_
+
+#### ==Fri, 09 Oct 2026 — 02:56==
+
+>'Your worst sin is that you have destroyed and betrayed yourself for nothing.'
+
+~ _Fyodor Dostoevsky_
+
+And I fucking feel like I have. All I ever intended was for the betterment of me and my team. But the way things panned out, 'tis me who
+#### ==Mon, 28 Sept 2026 — 01:37==
+
+>'But then it passed, as all things do.'
+
+~ _Khaled Hoseni_
 
 #### ==Sun, 09 Aug 2026 — 06:47==
 
@@ -18,7 +36,6 @@ Today morning actually smells afresh. Hopeful. And I fear that is what'll break 
 #### ==Sun, 09 Aug 2026 — 02:40==
 
 > 'The thinker dies many times before his body does.' 
-
 
 _~ Friedrich Nietzche_
 
