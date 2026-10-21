@@ -10,6 +10,12 @@ Big words, the right mood, and some semblance of sanity are rare; in college, ev
 ---
 <section class="entries" markdown="1">
 
+#### ==Tue, 20 Oct 2026 — 23:05==
+
+>'I don't feel particularly proud of myself. But when I walk alone in the woods or lie in the meadows, all is well.'
+
+~ _Franz Kafka_
+
 #### ==Wed, 14 Oct 2026 — 01:37==
 
 >'I told her I was fine. She believed me. That's when I knew we were strangers again.'
@@ -22,7 +28,7 @@ Big words, the right mood, and some semblance of sanity are rare; in college, ev
 
 ~ _Fyodor Dostoevsky_
 
-And I fucking feel like I have. All I ever intended was for the betterment of me and my team. But the way things panned out, 'tis me who
+And I fucking feel like I have. All I ever intended was for the betterment of me and my team. But the way things panned out, 'tis me who's on the worse end of things. Always. It this all even worth it?
 #### ==Mon, 28 Sept 2026 — 01:37==
 
 >'But then it passed, as all things do.'
