@@ -7,7 +7,7 @@ I found this poetry prompt online the other day:
 
 > Write a poem with one repeated line appearing five times. Each time the line returns, the surrounding context must alter its meaning through irony, tenderness or revelation.
 
-Like most things online, I read it, thought '*that’s interesting,*' and scrolled on. But today I came across the Arabic phrase ==“Ya’aburnee”== which can loosely be translated as “you bury me.” It means love so consuming it wishes to die first, just to be spared the grief of the other’s absence. 
+Like most things online, I read it, thought '*that’s interesting,*' and scrolled on. But today I came across the Arabic phrase ==Ya’aburnee== which can loosely be translated as “you bury me.” It means love so consuming it wishes to die first, just to be spared the grief of the other’s absence. 
 
 The phrase stayed with me, and then it began changing shape. Below is my attempt at that prompt. An attempt[^1] that became a current I hadn’t quite meant to follow.
 
@@ -42,7 +42,7 @@ with its ordinary cruelties.
 Inside, there was always another message,  
 another hour borrowed from sleep,  
 another confession met with  
-*and another thing:*
+and another thing,
 
 We did not know each other.  
 We knew where it hurt.
@@ -50,7 +50,7 @@ We knew where it hurt.
 For a while,  
 that was enough.
 
-You bury me.
+*You bury me.*
 
 And I mistook the earth above me  
 for the hands that would pull me out.
@@ -88,7 +88,7 @@ Neither of us was lost, perhaps.
 We had only begun to mistake  
 our own directions for the destination.
 
-You bury me.
+*You bury me.*
 
 And somewhere between  
 where we had been  
@@ -133,7 +133,7 @@ We had not stopped caring.
 We had simply grown familiar  
 with the dimensions of the damage.
 
-You bury me.
+*You bury me.*
 
 And I learned that a house may stand  
 for years, its doors still opening,  
@@ -176,7 +176,7 @@ Now there was only the earth,
 and all the things it takes  
 without making them whole.
 
-You bury me.
+*You bury me.*
 
 The shovel grows heavy.  
 The ground gives nothing back.
@@ -224,7 +224,7 @@ he will begin.
 
 Perhaps he will leave it as it is.
 
-You bury me.
+*You bury me.*
 
 And I cannot tell  
 whether I am the one beneath the earth  
@@ -233,4 +233,4 @@ to cover it.
 
 ---
 
-[^1]: Some things take longer to write because they take longer to understand. This is one of those.
+[^1]: Some things take longer to write because they take longer to understand. This is one of them.
