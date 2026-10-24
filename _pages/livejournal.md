@@ -10,6 +10,12 @@ Big words, the right mood, and some semblance of sanity are rare; in college, ev
 ---
 <section class="entries" markdown="1">
 
+#### ==Sat, 24 Oct 2026 — 11:40==
+
+As I predicted a while back, I still end up alone. The concept of a group of 5 was never gonna work out in the first place. It was always going to dilute into terms of 2+2+1 (with me being the one, obviously). But somehow, this time all I have is acceptance. Acceptance of the fact that it's okay. It's okay to be the '1'.
+
+>'This time the pack does not seem stronger than the wolf. But rather the contrary.'
+
 #### ==Tue, 20 Oct 2026 — 23:05==
 
 >'I don't feel particularly proud of myself. But when I walk alone in the woods or lie in the meadows, all is well.'
@@ -22,19 +28,23 @@ Big words, the right mood, and some semblance of sanity are rare; in college, ev
 
 ~ _May Aygun_
 
+And that is what hurts the most. I have no clue why I thought I found someone who finally matched my frequency. And even though I still think so, it didn't just work out. It hurts.
 #### ==Fri, 09 Oct 2026 — 02:56==
 
 >'Your worst sin is that you have destroyed and betrayed yourself for nothing.'
 
 ~ _Fyodor Dostoevsky_
 
-And I fucking feel like I have. All I ever intended was for the betterment of me and my team. But the way things panned out, 'tis me who's on the worse end of things. Always. It this all even worth it?
+And I fucking feel like I have. All I ever intended was for the betterment of me and my team. But the way things panned out, 'tis me who's on the worse end of things. Always. 
+
+It this all even worth it? 
 #### ==Mon, 28 Sept 2026 — 01:37==
 
 >'But then it passed, as all things do.'
 
 ~ _Khaled Hoseni_
 
+The past month or so, just flew right by. And the only thing that got me through was this one girl. And not in the _I-love-her-sort-of_ way but rather in the _she-really-really-matches-my-vibe_ way. To have a friend you can pour your heart out to and still won't be judged for, still seems surreal.
 #### ==Sun, 09 Aug 2026 — 06:47==
 
 Today morning actually smells afresh. Hopeful. And I fear that is what'll break the most of us.
@@ -49,7 +59,7 @@ _~ Friedrich Nietzche_
 
 I'd never thought I will be in a situation quite like this one right now, right here. Having worked our ass off the entirety of the day, we're still in office at what is now close to four in the night (or the morning hehe). But to feel like I've folks among whom I might just belong. Who care. Who understand. 
 
-I have never been a people's person, but tonight's gossip and rants are something I shall surely look back on.
+I have never been a people's person, but tonight's gossip and rants are something I shall surely remember.
 
 #### ==Wed, 22 Jul 2026 — 02:50==
 
