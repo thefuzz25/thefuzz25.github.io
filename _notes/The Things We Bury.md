@@ -1,5 +1,5 @@
 ---
-title: Ya'aburnee
+title: 🪦 The Things We Bury
 date: 2026-10-24
 type: note
 ---
