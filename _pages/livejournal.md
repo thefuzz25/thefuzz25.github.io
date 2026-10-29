@@ -28,6 +28,16 @@ I've inadvertently grown too fucking attached over the past few months. And the 
 
 Yes, I thought that it was okay. I thought I could live with it, whatever *it* was. But I don't feel okay. I feel worse off than I did before, and I don't know how to find my way around it anymore.
 
+
+#### ==Sun, 25 Oct 2026==
+
+I am the pause,
+between one name and another,
+the place at the table,
+a hand that is sometimes held,
+a seat that stays unclaimed.
+
+
 #### ==Sat, 24 Oct 2026 — 11:40==
 
 As I predicted a while back, I still end up alone. The concept of a group of five was never going to work out in the first place. It was always going to dilute into terms of 2+2+1, with me being the one, obviously.
