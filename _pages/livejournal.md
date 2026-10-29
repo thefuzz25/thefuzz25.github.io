@@ -20,13 +20,17 @@ Big words, the right mood, and some semblance of sanity are rare; in college, ev
 
 It is NOT OKAY.
 
-I've inadvertently grown too fucking attached in the past few months. And it has made it so much more difficult to come back from. So right now, I'm stuck between a rock and a hard place. 
+I've inadvertently grown too fucking attached over the past few months. And the more attached I've grown, the harder it has become to find my way back to where I started. So right now, I'm stuck between a rock and a hard place, not knowing which way hurts less.
 
-Yes, I thought that it was okay. But I don't feel okay. I feel worse off. And I don't know how to manage myself around it.
+Yes, I thought that it was okay. I thought I could live with it, whatever *it* was. But I don't feel okay. I feel worse off than I did before, and I don't know how to find my way around it anymore.
 
 #### ==Sat, 24 Oct 2026 — 11:40==
 
-As I predicted a while back, I still end up alone. The concept of a group of 5 was never gonna work out in the first place. It was always going to dilute into terms of 2+2+1 (with me being the one, obviously). But somehow, this time all I have is acceptance. Acceptance of the fact that it's okay. It's okay.
+As I predicted a while back, I still end up alone. The concept of a group of five was never going to work out in the first place. It was always going to dilute into terms of 2+2+1, with me being the one, obviously.
+
+And yet, somehow, this time all I have is acceptance. Not the kind that comes with understanding, or even peace, but the kind that comes when you've run out of reasons to fight what you've always suspected.
+
+It's okay. It's okay.
 
 #### ==Wed, 14 Oct 2026 — 01:37==
 
@@ -34,13 +38,19 @@ As I predicted a while back, I still end up alone. The concept of a group of 5 w
 
 ~ _May Aygun_
 
-And that is what hurts the most. I have no clue why I thought I found someone who finally matched my frequency. And even though I still think so, it didn't just work out. 
+And that is what hurts the most. I have no clue why I thought I'd finally found someone who matched my frequency, someone with whom I didn't have to translate myself into something more easily understood. And even though I still think so, it didn't just work out.
+
+Perhaps that's the cruelest part.
 
 It hurts. So much.
 
 #### ==Thu, 01 Oct 2026 — 23:27==
 
-Man, I love my friends. Be it food, shopping or rants, they're always here and always real fun. To hell with what people think and say, these four are worth every second of my time and every inch of my efforts.
+Man, I love my friends.
+
+Be it food, shopping, or rants, they're always here, always around, always real fun. There's something comforting about people who make the ordinary feel like enough, who show up, who make you feel like you belong.
+
+To hell with what people think and say. These four are worth every second of my time and every inch of my efforts.
 
 #### ==Mon, 21 Sept 2026 — 01:37==
 
@@ -48,7 +58,11 @@ Man, I love my friends. Be it food, shopping or rants, they're always here and a
 
 ~ _Khaled Hoseni_
 
-The past month or so, just flew right by. And the only thing that got me through was this one girl. And not in the _I-love-her-sort-of_ way but rather in the _she-really-really-matches-my-vibe_ way. To have a friend you can pour your heart out to and still won't be judged for, still seems surreal.
+The past month or so just flew by. And what got me through it was this one girl. Not in the _I-love-her-sort-of_ way, but rather in the _she-really-really-matches-my-vibe_ way.
+
+There's something almost unbelievable about finding someone who speaks a language you didn't know you were waiting for someone else to understand. Someone you can pour your heart out to, without having to sift through your words first, without wondering if you've said too much or made too little sense.
+
+I suppose I'd forgotten what it felt like to be understood. So nice.
 
 #### ==Fri, 04 Sept 2026 — 02:56==
 
@@ -56,9 +70,11 @@ The past month or so, just flew right by. And the only thing that got me through
 
 ~ _Fyodor Dostoevsky_
 
-And I fucking feel like I have. All I ever intended was for the betterment of me and my team. But the way things panned out, 'tis me who's on the worse end of things. Always. 
+And I fucking feel like I have.
 
-It this all even worth it? 
+All I ever intended was for the betterment of me and my team. I gave what I could and did what I thought was right. But the way things panned out, 'tis me who's on the worse end of things. Always.
+
+And for what? Is any of this even worth it?
 
 #### ==Sun, 09 Aug 2026 — 06:47==
 
