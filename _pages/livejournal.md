@@ -16,6 +16,10 @@ Big words, the right mood, and some semblance of sanity are rare; in college, ev
 
 ~ _Franz Kafka_
 
+#### ==Fri, 30 Oct 2026 — 01:46==
+
+The only way around it that I can surmise is to grow cold. Colder than I’ve ever been. Colder towards people, colder towards the things I once cared about. I think once that _get-shit-done_ mentality kicks in, I might find my previous self lurking somewhere in there.
+
 #### ==Thu, 29 Oct 2026 — 20:00==
 
 It is NOT OKAY.
