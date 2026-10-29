@@ -10,17 +10,23 @@ Big words, the right mood, and some semblance of sanity are rare; in college, ev
 ---
 <section class="entries" markdown="1">
 
-#### ==Sat, 24 Oct 2026 — 11:40==
-
-As I predicted a while back, I still end up alone. The concept of a group of 5 was never gonna work out in the first place. It was always going to dilute into terms of 2+2+1 (with me being the one, obviously). But somehow, this time all I have is acceptance. Acceptance of the fact that it's okay. It's okay to be the '1'.
-
->'This time the pack does not seem stronger than the wolf. But rather the contrary.'
-
-#### ==Tue, 20 Oct 2026 — 23:05==
+#### ==Tue, 03 Nov 2026 — 02:15==
 
 >'I don't feel particularly proud of myself. But when I walk alone in the woods or lie in the meadows, all is well.'
 
 ~ _Franz Kafka_
+
+#### ==Thu, 29 Oct 2026 — 20:00==
+
+It is NOT OKAY.
+
+I've inadvertently grown too fucking attached in the past few months. And it has made it so much more difficult to come back from. So right now, I'm stuck between a rock and a hard place. 
+
+Yes, I thought that it was okay. But I don't feel okay. I feel worse off. And I don't know how to manage myself around it.
+
+#### ==Sat, 24 Oct 2026 — 11:40==
+
+As I predicted a while back, I still end up alone. The concept of a group of 5 was never gonna work out in the first place. It was always going to dilute into terms of 2+2+1 (with me being the one, obviously). But somehow, this time all I have is acceptance. Acceptance of the fact that it's okay. It's okay.
 
 #### ==Wed, 14 Oct 2026 — 01:37==
 
@@ -28,8 +34,23 @@ As I predicted a while back, I still end up alone. The concept of a group of 5 w
 
 ~ _May Aygun_
 
-And that is what hurts the most. I have no clue why I thought I found someone who finally matched my frequency. And even though I still think so, it didn't just work out. It hurts.
-#### ==Fri, 09 Oct 2026 — 02:56==
+And that is what hurts the most. I have no clue why I thought I found someone who finally matched my frequency. And even though I still think so, it didn't just work out. 
+
+It hurts. So much.
+
+#### ==Thu, 01 Oct 2026 — 23:27==
+
+Man, I love my friends. Be it food, shopping or rants, they're always here and always real fun. To hell with what people think and say, these four are worth every second of my time and every inch of my efforts.
+
+#### ==Mon, 21 Sept 2026 — 01:37==
+
+>'But then it passed, as all things do.'
+
+~ _Khaled Hoseni_
+
+The past month or so, just flew right by. And the only thing that got me through was this one girl. And not in the _I-love-her-sort-of_ way but rather in the _she-really-really-matches-my-vibe_ way. To have a friend you can pour your heart out to and still won't be judged for, still seems surreal.
+
+#### ==Fri, 04 Sept 2026 — 02:56==
 
 >'Your worst sin is that you have destroyed and betrayed yourself for nothing.'
 
@@ -38,13 +59,7 @@ And that is what hurts the most. I have no clue why I thought I found someone wh
 And I fucking feel like I have. All I ever intended was for the betterment of me and my team. But the way things panned out, 'tis me who's on the worse end of things. Always. 
 
 It this all even worth it? 
-#### ==Mon, 28 Sept 2026 — 01:37==
 
->'But then it passed, as all things do.'
-
-~ _Khaled Hoseni_
-
-The past month or so, just flew right by. And the only thing that got me through was this one girl. And not in the _I-love-her-sort-of_ way but rather in the _she-really-really-matches-my-vibe_ way. To have a friend you can pour your heart out to and still won't be judged for, still seems surreal.
 #### ==Sun, 09 Aug 2026 — 06:47==
 
 Today morning actually smells afresh. Hopeful. And I fear that is what'll break the most of us.
