@@ -13,13 +13,13 @@ Big words, the right mood, and some semblance of sanity are rare; in college, ev
 
 #### ==Sun, 01 Nov 2026 — 16:01==
 
-I'm finally at peace.
-
-I don't even want
-
-any closure. you do you.
-
-just leave me alone.
+>I'm finally at peace.
+>
+>I don't even want
+>
+>any closure. you do you.
+>
+>just leave me alone.
 
 #### ==Fri, 30 Oct 2026 — 01:46==
 
