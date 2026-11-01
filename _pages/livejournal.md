@@ -20,7 +20,9 @@ just leave me alone.
 
 #### ==Fri, 30 Oct 2026 — 01:46==
 
-The only way around it that I can surmise is to grow cold. Colder than I’ve ever been. Colder towards people, colder towards the things I once cared about. I think once that _get-shit-done_ mentality kicks in, I might find my previous self lurking somewhere in there.
+Perhaps what I really need is some of that false confidence back. The kind that lets you walk into a room and makes you believe you’ve got things figured out, even when you very clearly don’t. I’ve grown far too comfortable wearing my vulnerabilities on my sleeve, letting people see a little more of me than I’d perhaps like them to. 
+
+Maybe it’s time to put some of that pretence back on. I think once that _get-shit-done_ mentality kicks in, I might find my previous self lurking somewhere in there.
 
 #### ==Thu, 29 Oct 2026 — 20:00==
 
