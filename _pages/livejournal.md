@@ -10,11 +10,13 @@ Big words, the right mood, and some semblance of sanity are rare; in college, ev
 ---
 <section class="entries" markdown="1">
 
-#### ==Tue, 03 Nov 2026 — 02:15==
 
->'I don't feel particularly proud of myself. But when I walk alone in the woods or lie in the meadows, all is well.'
+#### ==Sun, 01 Nov 2026 — 16:01==
 
-~ _Franz Kafka_
+I'm finally at peace.
+I don't even want
+any closure. you do you.
+just leave me alone.
 
 #### ==Fri, 30 Oct 2026 — 01:46==
 
