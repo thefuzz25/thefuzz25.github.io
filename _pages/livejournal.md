@@ -10,6 +10,16 @@ Big words, the right mood, and some semblance of sanity are rare; in college, ev
 ---
 <section class="entries" markdown="1">
 
+#### ==Sun, 08 Nov 2026 — 02:31==
+
+>'Paper has more patience than people' 
+
+_~ Anne Frank_
+#### ==Sat, 07 Nov 2026 — 21:09==
+
+I'm looking forward to next semester so much. 
+
+No humans, no hussle; just me and myself against the world.
 
 #### ==Sun, 01 Nov 2026 — 16:01==
 
